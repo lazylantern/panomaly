@@ -1,0 +1,2595 @@
+,channel,event,timestamp,type,userId
+80603,client,First Contentful Paint,2020-01-11 02:00:00.955,track,anon0177
+80604,client,App Timing Metric,2020-01-11 02:00:02.693,track,anon0177
+80605,server,generic0120 Run Failed,2020-01-11 02:00:04.561,track,anon0051
+80606,client,Debugger Call Clicked,2020-01-11 02:00:09.666,track,anon0020
+80607,server,Tracking Plan Saved,2020-01-11 02:00:11.042,track,anon0154
+80608,server,Tracking Plan Saved,2020-01-11 02:00:11.056,track,anon0154
+80609,server,Tracking Plan Connection Changed,2020-01-11 02:00:11.700,track,anon0154
+80610,client,App Timing Metric,2020-01-11 02:00:14.496,track,anon0009
+80611,client,Debugger Call Clicked,2020-01-11 02:00:15.679,track,anon0020
+80612,client,App Timing Metric,2020-01-11 02:00:22.938,track,anon0176
+80613,server,generic0120 Run Failed,2020-01-11 02:00:22.952,track,anon0093
+80614,client,App Timing Metric,2020-01-11 02:00:23.044,track,anon0176
+80615,server,Tracking Plan Saved,2020-01-11 02:00:23.213,track,anon0154
+80616,server,Tracking Plan Saved,2020-01-11 02:00:33.820,track,anon0154
+80617,client,JavaScript Error,2020-01-11 02:01:00.831,track,anon0113
+80618,server,User Logged In,2020-01-11 02:01:09.729,track,anon0086
+80619,server,Tracking Plan Saved,2020-01-11 02:01:10.922,track,anon0154
+80620,client,generic29 Nav Link Clicked,2020-01-11 02:01:20.459,track,anon0141
+80621,client,First Contentful Paint,2020-01-11 02:01:21.742,track,anon0141
+80622,client,App Timing Metric,2020-01-11 02:01:24.386,track,anon0141
+80623,server,Tracking Plan Saved,2020-01-11 02:01:25.290,track,anon0154
+80624,client,generic29 Nav Link Clicked,2020-01-11 02:01:28.470,track,anon0143
+80625,client,First Paint,2020-01-11 02:01:29.885,track,anon0013
+80626,client,First Contentful Paint,2020-01-11 02:01:29.903,track,anon0013
+80627,client,App Timing Metric,2020-01-11 02:01:30.332,track,anon0013
+80628,client,First Input Delay,2020-01-11 02:01:32.706,track,anon0013
+80629,server,Tracking Plan Saved,2020-01-11 02:01:32.875,track,anon0154
+80630,server,Tracking Plan Connection Changed,2020-01-11 02:01:34.028,track,anon0154
+80631,client,App Timing Metric,2020-01-11 02:01:34.591,track,anon0083
+80632,server,Tracking Plan Saved,2020-01-11 02:01:36.618,track,anon0154
+80633,client,Debugger Call Clicked,2020-01-11 02:01:41.582,track,anon0143
+80634,client,First Input Delay,2020-01-11 02:01:44.440,track,anon0141
+80635,client,App Timing Metric,2020-01-11 02:01:44.447,track,anon0013
+80636,client,Run History Viewed,2020-01-11 02:01:45.637,track,anon0013
+80637,client,App Timing Metric,2020-01-11 02:01:45.882,track,anon0013
+80638,client,Debugger Searched,2020-01-11 02:01:47.357,track,anon0141
+80639,client,Email Captured,2020-01-11 02:01:51.063,track,anon0038
+80640,client,Debugger Searched,2020-01-11 02:01:52.472,track,anon0141
+80641,client,Debugger Call Clicked,2020-01-11 02:01:54.337,track,anon0143
+80642,client,Debugger Call Clicked,2020-01-11 02:01:54.838,track,anon0143
+80643,client,Debugger Call Clicked,2020-01-11 02:01:55.390,track,anon0143
+80644,client,First Paint,2020-01-11 02:01:56.652,track,
+80645,client,Signup Page Viewed,2020-01-11 02:01:56.654,track,
+80646,client,First Contentful Paint,2020-01-11 02:01:56.688,track,
+80647,client,First Input Delay,2020-01-11 02:01:58.166,track,
+80648,client,Email Captured,2020-01-11 02:01:59.405,track,
+80649,client,Debugger Searched,2020-01-11 02:02:05.320,track,anon0141
+80650,client,Debugger Searched,2020-01-11 02:02:08.744,track,anon0141
+80651,server,Tracking Plan Saved,2020-01-11 02:02:11.005,track,anon0154
+80652,client,User Settings Detail Form Edited,2020-01-11 02:02:11.312,track,anon0038
+80653,client,generic08 Error,2020-01-11 02:02:11.468,track,
+80654,client,Lead Captured,2020-01-11 02:02:11.477,track,anon0038
+80655,client,Network Error,2020-01-11 02:02:11.495,track,
+80656,server,generic27 Created,2020-01-11 02:02:12.005,track,anon0120
+80657,server,Signup Completed,2020-01-11 02:02:12.205,track,anon0120
+80658,client,User Signed Up,2020-01-11 02:02:12.471,track,anon0120
+80659,client,Debugger Searched,2020-01-11 02:02:13.653,track,anon0141
+80660,client,Email Captured,2020-01-11 02:02:23.624,track,
+80661,server,Tracking Plan Saved,2020-01-11 02:02:23.759,track,anon0154
+80662,server,User Created,2020-01-11 02:02:27.704,track,anon0120
+80663,server,User Email Verification Succeeded,2020-01-11 02:02:29.150,track,anon0120
+80664,client,Debugger Searched,2020-01-11 02:02:30.250,track,anon0141
+80665,client,First Paint,2020-01-11 02:02:30.805,track,anon0120
+80666,client,First Contentful Paint,2020-01-11 02:02:30.816,track,anon0120
+80667,server,Tracking Plan Saved,2020-01-11 02:02:31.481,track,anon0154
+80668,client,First Input Delay,2020-01-11 02:02:33.027,track,anon0120
+80669,client,User Settings Detail Form Edited,2020-01-11 02:02:42.019,track,
+80670,client,Lead Captured,2020-01-11 02:02:42.113,track,
+80671,server,Signup Completed,2020-01-11 02:02:42.687,track,anon0121
+80672,server,Password Submitted,2020-01-11 02:02:42.747,track,anon0065
+80673,client,User Signed Up,2020-01-11 02:02:42.760,track,anon0121
+80674,client,App Timing Metric,2020-01-11 02:02:43.481,track,anon0121
+80675,client,App Timing Metric,2020-01-11 02:02:43.906,track,anon0121
+80676,server,User Created,2020-01-11 02:02:44.179,track,anon0121
+80677,client,Debugger Searched,2020-01-11 02:02:48.598,track,anon0141
+80678,client,Debugger Searched,2020-01-11 02:02:50.211,track,anon0141
+80679,client,Debugger Searched,2020-01-11 02:02:51.413,track,anon0141
+80680,client,Debugger Searched,2020-01-11 02:02:52.292,track,anon0141
+80681,client,Debugger Searched,2020-01-11 02:02:53.086,track,anon0141
+80682,client,Debugger Searched,2020-01-11 02:02:55.523,track,anon0141
+80683,client,Debugger Searched,2020-01-11 02:02:56.346,track,anon0141
+80684,client,App Timing Metric,2020-01-11 02:02:56.938,track,anon0121
+80685,client,Viewed Integration,2020-01-11 02:02:57.032,track,anon0121
+80686,client,App Timing Metric,2020-01-11 02:02:57.104,track,anon0121
+80687,client,Side Nav Clicked,2020-01-11 02:03:01.519,track,anon0121
+80688,client,Side Nav Clicked generic01,2020-01-11 02:03:01.529,track,anon0121
+80689,client,generic17 Viewed,2020-01-11 02:03:01.702,track,anon0121
+80690,server,Tracking Plan Saved,2020-01-11 02:03:11.073,track,anon0154
+80691,client,Side Nav Clicked,2020-01-11 02:03:21.653,track,anon0121
+80692,server,Tracking Plan Saved,2020-01-11 02:03:22.732,track,anon0154
+80693,client,First Paint,2020-01-11 02:03:27.143,track,anon0068
+80694,client,First Contentful Paint,2020-01-11 02:03:27.183,track,anon0068
+80695,client,App Timing Metric,2020-01-11 02:03:27.233,track,anon0068
+80696,client,First Input Delay,2020-01-11 02:03:28.324,track,anon0068
+80697,server,Tracking Plan Saved,2020-01-11 02:03:29.897,track,anon0154
+80698,client,App Timing Metric,2020-01-11 02:03:32.124,track,anon0121
+80699,server,Reset Password,2020-01-11 02:03:37.271,track,anon0120
+80700,client,First Paint,2020-01-11 02:03:38.557,track,anon0120
+80701,client,First Contentful Paint,2020-01-11 02:03:38.568,track,anon0120
+80702,client,App Timing Metric,2020-01-11 02:03:39.690,track,anon0120
+80703,client,Side Nav Clicked,2020-01-11 02:03:45.473,track,anon0121
+80704,client,First Input Delay,2020-01-11 02:03:46.719,track,anon0120
+80705,client,Side Nav Clicked,2020-01-11 02:03:53.372,track,anon0013
+80706,client,App Timing Metric,2020-01-11 02:03:53.892,track,anon0013
+80707,client,Side Nav Clicked Overview,2020-01-11 02:03:57.807,track,anon0135
+80708,client,Side Nav Clicked,2020-01-11 02:03:57.967,track,anon0135
+80709,client,First Paint,2020-01-11 02:03:59.495,track,anon0135
+80710,client,First Contentful Paint,2020-01-11 02:03:59.503,track,anon0135
+80711,client,App Timing Metric,2020-01-11 02:03:59.513,track,anon0135
+80712,client,Unread Notification Count Displayed,2020-01-11 02:03:59.807,track,anon0135
+80713,client,Debugger Searched,2020-01-11 02:04:01.064,track,anon0141
+80714,client,First Contentful Paint,2020-01-11 02:04:02.156,track,anon0069
+80715,client,Signup Page Viewed,2020-01-11 02:04:02.162,track,anon0069
+80716,client,Debugger Searched,2020-01-11 02:04:02.925,track,anon0141
+80717,client,First Input Delay,2020-01-11 02:04:03.161,track,anon0135
+80718,client,generic29 Nav Link Clicked,2020-01-11 02:04:03.392,track,anon0013
+80719,client,App Timing Metric,2020-01-11 02:04:04.682,track,anon0013
+80720,client,Signup Page Viewed,2020-01-11 02:04:06.233,track,anon0069
+80721,client,First Contentful Paint,2020-01-11 02:04:06.249,track,anon0069
+80722,client,Debugger Searched,2020-01-11 02:04:08.534,track,anon0141
+80723,server,Tracking Plan Saved,2020-01-11 02:04:11.061,track,anon0154
+80724,client,View generic2325 Clicked,2020-01-11 02:04:12.868,track,anon0141
+80725,server,Tracking Plan Saved,2020-01-11 02:04:23.115,track,anon0154
+80726,server,Tracking Plan Saved,2020-01-11 02:04:32.381,track,anon0154
+80727,client,Side Nav Clicked,2020-01-11 02:04:36.086,track,anon0141
+80728,client,Side Nav Clicked generic30,2020-01-11 02:04:36.123,track,anon0141
+80729,client,Side Nav Clicked,2020-01-11 02:04:39.878,track,anon0141
+80730,client,Side Nav Clicked generic04,2020-01-11 02:04:39.913,track,anon0141
+80731,client,App Timing Metric,2020-01-11 02:04:44.502,track,anon0009
+80732,client,App Timing Metric,2020-01-11 02:04:46.377,track,anon0054
+80733,client,Checklist Item Expanded,2020-01-11 02:04:52.802,track,anon0054
+80734,client,App Timing Metric,2020-01-11 02:04:53.595,track,anon0141
+80735,client,Side Nav Clicked,2020-01-11 02:04:55.189,track,anon0054
+80736,client,Side Nav Clicked generic04,2020-01-11 02:04:55.217,track,anon0054
+80737,client,App Timing Metric,2020-01-11 02:05:00.223,track,anon0054
+80738,client,First Paint,2020-01-11 02:05:00.402,track,anon0120
+80739,client,First Contentful Paint,2020-01-11 02:05:00.466,track,anon0120
+80740,client,App Timing Metric,2020-01-11 02:05:00.564,track,anon0120
+80741,client,App Timing Metric,2020-01-11 02:05:05.176,track,anon0141
+80742,client,First Input Delay,2020-01-11 02:05:09.699,track,anon0120
+80743,server,Tracking Plan Saved,2020-01-11 02:05:10.921,track,anon0154
+80744,client,First Contentful Paint,2020-01-11 02:05:16.419,track,anon0006
+80745,client,App Timing Metric,2020-01-11 02:05:16.469,track,anon0141
+80746,client,generic23 Overview Link Clicked,2020-01-11 02:05:17.663,track,anon0054
+80747,client,First Input Delay,2020-01-11 02:05:17.992,track,anon0006
+80748,server,Tracking Plan Saved,2020-01-11 02:05:22.926,track,anon0154
+80749,server,Tracking Plan Saved,2020-01-11 02:05:30.574,track,anon0154
+80750,server,Password Submitted,2020-01-11 02:05:32.335,track,anon0065
+80751,client,User Logged In,2020-01-11 02:05:32.405,track,anon0006
+80752,client,First Contentful Paint,2020-01-11 02:05:33.243,track,anon0006
+80753,client,App Timing Metric,2020-01-11 02:05:33.534,track,anon0006
+80754,client,App Timing Metric,2020-01-11 02:05:35.891,track,anon0054
+80755,client,App Timing Metric,2020-01-11 02:05:36.062,track,anon0054
+80756,client,First Paint,2020-01-11 02:05:48.097,track,anon0054
+80757,client,First Contentful Paint,2020-01-11 02:05:48.151,track,anon0054
+80758,client,User Settings Detail Form Edited,2020-01-11 02:05:53.113,track,anon0045
+80759,client,User Settings Detail Form Edited,2020-01-11 02:05:53.116,track,anon0045
+80760,client,User Settings Detail Form Edited,2020-01-11 02:05:53.124,track,anon0045
+80761,client,User Settings Detail Form Edited,2020-01-11 02:05:53.415,track,anon0045
+80762,client,User Settings Detail Form Edited,2020-01-11 02:05:53.598,track,anon0045
+80763,client,User Settings Detail Form Edited,2020-01-11 02:05:54.930,track,anon0045
+80764,client,generic01 Explorer Searched,2020-01-11 02:05:55.299,track,anon0045
+80765,client,Side Nav Clicked,2020-01-11 02:06:01.562,track,anon0141
+80766,client,Side Nav Clicked generic04,2020-01-11 02:06:01.599,track,anon0141
+80767,server,Password Submitted,2020-01-11 02:06:01.836,track,anon0065
+80768,client,First Input Delay,2020-01-11 02:06:08.868,track,anon0006
+80769,client,generic06 Dismissed,2020-01-11 02:06:08.960,track,anon0006
+80770,server,Tracking Plan Saved,2020-01-11 02:06:11.244,track,anon0154
+80771,client,App Timing Metric,2020-01-11 02:06:11.376,track,anon0006
+80772,client,App Timing Metric,2020-01-11 02:06:12.244,track,anon0006
+80773,client,App Timing Metric,2020-01-11 02:06:12.538,track,anon0141
+80774,client,App Timing Metric,2020-01-11 02:06:12.638,track,anon0141
+80775,client,Side Nav Clicked,2020-01-11 02:06:17.453,track,anon0006
+80776,client,Side Nav Clicked generic04,2020-01-11 02:06:17.464,track,anon0006
+80777,client,User Settings Detail Form Edited,2020-01-11 02:06:20.960,track,anon0006
+80778,server,Tracking Plan Saved,2020-01-11 02:06:23.699,track,anon0154
+80779,client,App Timing Metric,2020-01-11 02:06:24.033,track,anon0141
+80780,client,App Timing Metric,2020-01-11 02:06:24.340,track,anon0006
+80781,client,App Timing Metric,2020-01-11 02:06:24.684,track,anon0006
+80782,client,generic29 Nav Link Clicked,2020-01-11 02:06:27.232,track,anon0006
+80783,server,generic18 Enabled,2020-01-11 02:06:27.522,track,anon0159
+80784,server,Tracking Plan Saved,2020-01-11 02:06:33.031,track,anon0154
+80785,client,Side Nav Clicked,2020-01-11 02:06:34.597,track,anon0141
+80786,client,Side Nav Clicked generic04,2020-01-11 02:06:34.637,track,anon0141
+80787,client,Debugger Call Clicked,2020-01-11 02:06:43.354,track,anon0006
+80788,client,View generic2325 Clicked,2020-01-11 02:06:44.300,track,anon0141
+80789,client,App Timing Metric,2020-01-11 02:06:45.896,track,anon0141
+80790,client,First Paint,2020-01-11 02:07:10.934,track,anon0026
+80791,client,First Contentful Paint,2020-01-11 02:07:10.935,track,anon0026
+80792,server,Tracking Plan Saved,2020-01-11 02:07:10.957,track,anon0154
+80793,server,Tracking Plan Saved,2020-01-11 02:07:24.404,track,anon0154
+80794,client,Side Nav Clicked,2020-01-11 02:07:27.169,track,anon0172
+80795,client,First Paint,2020-01-11 02:07:31.065,track,anon0172
+80796,server,Tracking Plan Saved,2020-01-11 02:07:31.088,track,anon0154
+80797,client,First Contentful Paint,2020-01-11 02:07:31.231,track,anon0172
+80798,client,App Timing Metric,2020-01-11 02:07:31.235,track,anon0172
+80799,client,App Timing Metric,2020-01-11 02:07:31.235,track,anon0172
+80800,client,App Timing Metric,2020-01-11 02:07:31.831,track,anon0172
+80801,server,Tracking Plan Saved,2020-01-11 02:07:52.996,track,anon0154
+80802,server,Tracking Plan Connection Changed,2020-01-11 02:07:54.074,track,anon0154
+80803,client,First Input Delay,2020-01-11 02:07:54.538,track,anon0172
+80804,client,Side Nav Clicked,2020-01-11 02:07:54.614,track,anon0172
+80805,client,Side Nav Clicked generic04,2020-01-11 02:07:54.647,track,anon0172
+80806,server,Tracking Plan Saved,2020-01-11 02:08:11.337,track,anon0154
+80807,client,Side Nav Clicked,2020-01-11 02:08:14.112,track,anon0172
+80808,client,Side Nav Clicked Settings,2020-01-11 02:08:14.143,track,anon0172
+80809,client,App Timing Metric,2020-01-11 02:08:15.093,track,anon0172
+80810,client,App Timing Metric,2020-01-11 02:08:15.574,track,anon0172
+80811,client,generic29 Nav Link Clicked,2020-01-11 02:08:26.513,track,anon0172
+80812,server,Tracking Plan Saved,2020-01-11 02:08:27.540,track,anon0154
+80813,client,First Paint,2020-01-11 02:08:28.403,track,anon0079
+80814,client,First Contentful Paint,2020-01-11 02:08:28.414,track,anon0079
+80815,client,First Input Delay,2020-01-11 02:08:29.474,track,anon0079
+80816,client,generic29 Nav Link Clicked,2020-01-11 02:08:30.549,track,anon0172
+80817,client,App Timing Metric,2020-01-11 02:08:31.658,track,anon0172
+80818,server,Tracking Plan Saved,2020-01-11 02:08:35.009,track,anon0154
+80819,client,User Logged In,2020-01-11 02:08:38.343,track,anon0079
+80820,client,App Timing Metric,2020-01-11 02:08:38.380,track,anon0172
+80821,server,Password Submitted,2020-01-11 02:08:38.422,track,anon0065
+80822,client,First Paint,2020-01-11 02:08:39.151,track,anon0079
+80823,client,First Contentful Paint,2020-01-11 02:08:39.169,track,anon0079
+80824,client,User Settings Detail Form Edited,2020-01-11 02:08:39.532,track,anon0045
+80825,client,User Settings Detail Form Edited,2020-01-11 02:08:41.300,track,anon0045
+80826,client,User Settings Detail Form Edited,2020-01-11 02:08:42.407,track,anon0045
+80827,client,First Input Delay,2020-01-11 02:08:42.601,track,anon0079
+80828,client,generic06 Dismissed,2020-01-11 02:08:42.678,track,anon0079
+80829,client,generic01 Explorer Searched,2020-01-11 02:08:43.089,track,anon0045
+80830,client,App Timing Metric,2020-01-11 02:08:43.173,track,anon0079
+80831,client,generic01 Profile Viewed,2020-01-11 02:08:44.454,track,anon0045
+80832,client,App Timing Metric,2020-01-11 02:08:44.811,track,anon0079
+80833,client,generic01 Profile Tab Viewed,2020-01-11 02:08:45.478,track,anon0045
+80834,client,App Timing Metric,2020-01-11 02:08:45.595,track,anon0079
+80835,client,App Timing Metric,2020-01-11 02:08:46.650,track,anon0045
+80836,server,Password Changed,2020-01-11 02:08:49.665,track,anon0065
+80837,client,Side Nav Clicked,2020-01-11 02:08:50.855,track,anon0079
+80838,server,Password Submitted,2020-01-11 02:08:50.868,track,anon0065
+80839,client,Side Nav Clicked Settings,2020-01-11 02:08:50.870,track,anon0079
+80840,server,Tracking Plan Saved,2020-01-11 02:09:11.069,track,anon0154
+80841,client,generic31 Contacts Changed,2020-01-11 02:09:11.713,track,anon0079
+80842,client,User Settings Detail Form Edited,2020-01-11 02:09:13.509,track,anon0079
+80843,client,generic31 Contacts Saved,2020-01-11 02:09:13.554,track,anon0079
+80844,client,App Timing Metric,2020-01-11 02:09:14.861,track,anon0009
+80845,client,Side Nav Clicked,2020-01-11 02:09:15.470,track,anon0172
+80846,client,Side Nav Clicked generic04,2020-01-11 02:09:15.501,track,anon0172
+80847,client,App Timing Metric,2020-01-11 02:09:19.227,track,anon0172
+80848,client,App Timing Metric,2020-01-11 02:09:22.992,track,anon0097
+80849,client,Notification Banner Shown,2020-01-11 02:09:22.994,track,anon0097
+80850,client,App Timing Metric,2020-01-11 02:09:22.995,track,anon0097
+80851,server,generic0120 Run Failed,2020-01-11 02:09:37.111,track,anon0093
+80852,client,App Timing Metric,2020-01-11 02:09:44.094,track,anon0000
+80853,client,Viewed Integration,2020-01-11 02:09:44.096,track,anon0000
+80854,client,App Timing Metric,2020-01-11 02:09:44.096,track,anon0000
+80855,server,Password Submitted,2020-01-11 02:09:54.979,track,anon0065
+80856,server,Tracking Plan Saved,2020-01-11 02:09:55.718,track,anon0154
+80857,client,App Timing Metric,2020-01-11 02:09:58.296,track,anon0016
+80858,client,App Timing Metric,2020-01-11 02:09:59.229,track,anon0016
+80859,client,App Timing Metric,2020-01-11 02:09:59.583,track,anon0016
+80860,client,App Timing Metric,2020-01-11 02:10:02.510,track,anon0016
+80861,client,App Timing Metric,2020-01-11 02:10:04.681,track,anon0016
+80862,client,App Timing Metric,2020-01-11 02:10:05.710,track,anon0016
+80863,client,App Timing Metric,2020-01-11 02:10:05.717,track,anon0016
+80864,client,App Timing Metric,2020-01-11 02:10:06.721,track,anon0016
+80865,client,App Timing Metric,2020-01-11 02:10:08.937,track,anon0016
+80866,server,Tracking Plan Saved,2020-01-11 02:10:11.027,track,anon0154
+80867,server,Tracking Plan Saved,2020-01-11 02:10:23.299,track,anon0154
+80868,server,Tracking Plan Saved,2020-01-11 02:10:30.236,track,anon0154
+80869,client,App Timing Metric,2020-01-11 02:10:44.599,track,anon0009
+80870,server,Tracking Plan Saved,2020-01-11 02:11:11.266,track,anon0154
+80871,client,Page Call Duplicated,2020-01-11 02:11:14.350,track,anon0070
+80872,client,First Contentful Paint,2020-01-11 02:11:14.384,track,anon0070
+80873,client,First Paint,2020-01-11 02:11:14.385,track,anon0070
+80874,client,First Input Delay,2020-01-11 02:11:18.649,track,anon0070
+80875,client,App Timing Metric,2020-01-11 02:11:19.471,track,anon0070
+80876,client,App Timing Metric,2020-01-11 02:11:20.202,track,anon0070
+80877,server,Tracking Plan Saved,2020-01-11 02:11:23.334,track,anon0154
+80878,client,First Contentful Paint,2020-01-11 02:11:27.405,track,anon0133
+80879,client,First Paint,2020-01-11 02:11:27.510,track,anon0133
+80880,client,generic29 Nav Link Clicked,2020-01-11 02:11:27.992,track,anon0172
+80881,client,First Input Delay,2020-01-11 02:11:28.693,track,anon0133
+80882,client,Clicked Add generic23,2020-01-11 02:11:29.256,track,anon0070
+80883,server,Tracking Plan Saved,2020-01-11 02:11:29.946,track,anon0154
+80884,client,View generic2325 Clicked,2020-01-11 02:11:30.381,track,anon0172
+80885,client,Catalog Sidebar Searched,2020-01-11 02:11:33.700,track,anon0070
+80886,client,App Timing Metric,2020-01-11 02:11:34.602,track,anon0172
+80887,client,Catalog Sidebar Searched,2020-01-11 02:11:35.229,track,anon0070
+80888,client,First Contentful Paint,2020-01-11 02:11:42.259,track,
+80889,client,App Timing Metric,2020-01-11 02:11:42.264,track,
+80890,client,First Contentful Paint,2020-01-11 02:11:43.279,track,
+80891,client,First Contentful Paint,2020-01-11 02:11:43.718,track,
+80892,client,First Contentful Paint,2020-01-11 02:11:44.131,track,
+80893,client,Catalog Sidebar Searched,2020-01-11 02:11:44.217,track,anon0070
+80894,client,First Contentful Paint,2020-01-11 02:11:45.460,track,
+80895,client,App Timing Metric,2020-01-11 02:11:45.461,track,
+80896,client,App Timing Metric,2020-01-11 02:11:46.411,track,anon0133
+80897,client,App Timing Metric,2020-01-11 02:11:46.715,track,anon0133
+80898,client,Clicked Catalog Integration,2020-01-11 02:11:48.758,track,anon0070
+80899,client,First Input Delay,2020-01-11 02:11:49.033,track,
+80900,client,Signup Page Viewed,2020-01-11 02:11:49.109,track,
+80901,client,First Input Delay,2020-01-11 02:11:50.698,track,
+80902,client,Signup Page Viewed,2020-01-11 02:11:50.787,track,
+80903,client,Signup Page Viewed,2020-01-11 02:11:51.285,track,
+80904,client,Signup Page Viewed,2020-01-11 02:11:51.398,track,
+80905,client,First Input Delay,2020-01-11 02:11:51.792,track,
+80906,client,First Input Delay,2020-01-11 02:11:52.110,track,
+80907,client,First Input Delay,2020-01-11 02:11:53.187,track,
+80908,client,Signup Page Viewed,2020-01-11 02:11:53.309,track,
+80909,client,First Paint,2020-01-11 02:11:55.064,track,anon0133
+80910,client,First Contentful Paint,2020-01-11 02:11:55.075,track,anon0133
+80911,client,App Timing Metric,2020-01-11 02:11:55.801,track,anon0133
+80912,client,App Timing Metric,2020-01-11 02:11:55.913,track,anon0133
+80913,client,First Input Delay,2020-01-11 02:11:58.568,track,anon0133
+80914,client,App Timing Metric,2020-01-11 02:11:59.854,track,anon0133
+80915,server,Tracking Plan Saved,2020-01-11 02:12:10.905,track,anon0154
+80916,client,App Timing Metric,2020-01-11 02:12:14.648,track,anon0009
+80917,client,First Paint,2020-01-11 02:12:23.310,track,anon0111
+80918,client,First Contentful Paint,2020-01-11 02:12:23.332,track,anon0111
+80919,client,App Timing Metric,2020-01-11 02:12:23.659,track,anon0111
+80920,server,Tracking Plan Saved,2020-01-11 02:12:23.825,track,anon0154
+80921,client,App Timing Metric,2020-01-11 02:12:24.506,track,anon0111
+80922,client,First Input Delay,2020-01-11 02:12:26.256,track,anon0111
+80923,client,Side Nav Clicked,2020-01-11 02:12:26.368,track,anon0111
+80924,client,Side Nav Clicked generic30,2020-01-11 02:12:26.370,track,anon0111
+80925,client,Side Nav Clicked generic04,2020-01-11 02:12:28.990,track,anon0111
+80926,client,Side Nav Clicked,2020-01-11 02:12:28.990,track,anon0111
+80927,client,User Settings Detail Form Edited,2020-01-11 02:12:30.916,track,anon0111
+80928,server,Tracking Plan Saved,2020-01-11 02:12:32.418,track,anon0154
+80929,client,App Timing Metric,2020-01-11 02:12:34.521,track,anon0111
+80930,client,App Timing Metric,2020-01-11 02:12:46.001,track,anon0111
+80931,client,First Paint,2020-01-11 02:12:47.268,track,anon0053
+80932,client,First Contentful Paint,2020-01-11 02:12:47.268,track,anon0053
+80933,client,App Timing Metric,2020-01-11 02:12:47.301,track,anon0053
+80934,client,First Contentful Paint,2020-01-11 02:12:47.956,track,anon0124
+80935,client,App Timing Metric,2020-01-11 02:12:48.062,track,anon0124
+80936,client,Page Call Duplicated,2020-01-11 02:12:48.065,track,anon0124
+80937,client,First Paint,2020-01-11 02:12:48.065,track,anon0124
+80938,client,App Timing Metric,2020-01-11 02:12:48.612,track,anon0111
+80939,client,App Timing Metric,2020-01-11 02:12:49.092,track,anon0053
+80940,client,First Paint,2020-01-11 02:12:49.283,track,anon0007
+80941,client,First Contentful Paint,2020-01-11 02:12:49.302,track,anon0007
+80942,client,App Timing Metric,2020-01-11 02:12:49.330,track,anon0007
+80943,client,App Timing Metric,2020-01-11 02:12:49.411,track,anon0007
+80944,server,generic23 Created,2020-01-11 02:12:49.560,track,anon0070
+80945,client,Run History Viewed,2020-01-11 02:12:50.714,track,anon0111
+80946,client,First Input Delay,2020-01-11 02:12:52.116,track,anon0124
+80947,client,App Timing Metric,2020-01-11 02:12:52.647,track,anon0124
+80948,client,Run History Viewed,2020-01-11 02:12:58.078,track,anon0111
+80949,client,Side Nav Clicked,2020-01-11 02:12:59.018,track,anon0124
+80950,client,Side Nav Clicked generic30,2020-01-11 02:12:59.047,track,anon0124
+80951,client,Side Nav Clicked generic04,2020-01-11 02:13:00.609,track,anon0124
+80952,client,Side Nav Clicked,2020-01-11 02:13:00.610,track,anon0124
+80953,client,Run History Viewed,2020-01-11 02:13:04.845,track,anon0111
+80954,client,App Timing Metric,2020-01-11 02:13:07.535,track,anon0124
+80955,server,Tracking Plan Saved,2020-01-11 02:13:11.141,track,anon0154
+80956,client,generic23 Overview Link Clicked,2020-01-11 02:13:18.198,track,anon0124
+80957,client,App Timing Metric,2020-01-11 02:13:21.742,track,anon0101
+80958,client,App Timing Metric,2020-01-11 02:13:21.754,track,anon0101
+80959,server,Tracking Plan Saved,2020-01-11 02:13:22.908,track,anon0154
+80960,client,Viewed Featured generic30,2020-01-11 02:13:23.047,track,anon0124
+80961,client,App Timing Metric,2020-01-11 02:13:23.519,track,anon0124
+80962,client,Run History Viewed,2020-01-11 02:13:25.701,track,anon0111
+80963,client,Catalog Sidebar Searched,2020-01-11 02:13:26.892,track,anon0124
+80964,client,Run History Viewed,2020-01-11 02:13:26.895,track,anon0111
+80965,client,App Timing Metric,2020-01-11 02:13:27.148,track,anon0111
+80966,client,Clicked Catalog Integration,2020-01-11 02:13:27.688,track,anon0124
+80967,client,Run History Viewed,2020-01-11 02:13:27.996,track,anon0111
+80968,server,Tracking Plan Saved,2020-01-11 02:13:29.725,track,anon0154
+80969,server,Tracking Plan Saved,2020-01-11 02:13:31.056,track,anon0154
+80970,client,Clicked Configure generic32,2020-01-11 02:13:31.665,track,anon0124
+80971,server,Tracking Plan Connection Changed,2020-01-11 02:13:32.147,track,anon0154
+80972,client,App Timing Metric,2020-01-11 02:13:33.266,track,anon0124
+80973,client,Viewed Integration,2020-01-11 02:13:34.245,track,anon0124
+80974,client,App Timing Metric,2020-01-11 02:13:44.683,track,anon0009
+80975,client,First Paint,2020-01-11 02:13:46.159,track,
+80976,client,First Contentful Paint,2020-01-11 02:13:46.161,track,
+80977,client,First Paint,2020-01-11 02:13:54.462,track,anon0071
+80978,client,First Contentful Paint,2020-01-11 02:13:54.490,track,anon0071
+80979,client,First Paint,2020-01-11 02:13:56.596,track,anon0117
+80980,client,First Contentful Paint,2020-01-11 02:13:56.598,track,anon0117
+80981,client,Network Error,2020-01-11 02:13:56.892,track,anon0071
+80982,client,App Timing Metric,2020-01-11 02:13:57.208,track,anon0117
+80983,client,First Paint,2020-01-11 02:14:03.478,track,anon0070
+80984,client,First Contentful Paint,2020-01-11 02:14:03.485,track,anon0070
+80985,client,Catalog Sidebar Searched,2020-01-11 02:14:10.721,track,anon0117
+80986,client,Catalog Sidebar Searched,2020-01-11 02:14:10.733,track,anon0117
+80987,server,Tracking Plan Saved,2020-01-11 02:14:10.871,track,anon0154
+80988,server,Tracking Plan Saved,2020-01-11 02:14:23.329,track,anon0154
+80989,client,First Contentful Paint,2020-01-11 02:14:24.298,track,anon0117
+80990,client,Unread Notification Count Displayed,2020-01-11 02:14:24.299,track,anon0117
+80991,client,Side Nav Clicked,2020-01-11 02:14:25.116,track,anon0002
+80992,client,App Timing Metric,2020-01-11 02:14:25.705,track,anon0117
+80993,client,First Paint,2020-01-11 02:14:26.055,track,anon0002
+80994,client,First Contentful Paint,2020-01-11 02:14:26.063,track,anon0002
+80995,client,Viewed Featured generic30,2020-01-11 02:14:26.373,track,anon0117
+80996,client,Unread Notification Count Displayed,2020-01-11 02:14:26.550,track,anon0002
+80997,client,First Input Delay,2020-01-11 02:14:26.768,track,anon0117
+80998,client,App Timing Metric,2020-01-11 02:14:26.933,track,anon0133
+80999,client,App Timing Metric,2020-01-11 02:14:27.250,track,anon0002
+81000,client,First Paint,2020-01-11 02:14:28.251,track,anon0160
+81001,client,First Contentful Paint,2020-01-11 02:14:28.294,track,anon0160
+81002,client,App Timing Metric,2020-01-11 02:14:28.413,track,anon0015
+81003,client,App Timing Metric,2020-01-11 02:14:28.447,track,anon0160
+81004,client,App Timing Metric,2020-01-11 02:14:28.480,track,anon0160
+81005,client,App Timing Metric,2020-01-11 02:14:28.701,track,anon0015
+81006,client,Catalog Sidebar Searched,2020-01-11 02:14:29.191,track,anon0117
+81007,client,First Input Delay,2020-01-11 02:14:29.458,track,anon0160
+81008,client,First Input Delay,2020-01-11 02:14:30.020,track,anon0071
+81009,client,First Input Delay,2020-01-11 02:14:30.485,track,anon0002
+81010,client,Side Nav Clicked,2020-01-11 02:14:30.656,track,anon0002
+81011,client,Catalog Sidebar Searched,2020-01-11 02:14:30.734,track,anon0117
+81012,server,Tracking Plan Saved,2020-01-11 02:14:30.818,track,anon0154
+81013,client,Catalog Sidebar Searched,2020-01-11 02:14:32.256,track,anon0117
+81014,client,Change Password Clicked,2020-01-11 02:14:33.869,track,anon0160
+81015,server,Password Submitted,2020-01-11 02:14:35.587,track,anon0065
+81016,client,User Logged In,2020-01-11 02:14:35.926,track,anon0151
+81017,client,First Paint,2020-01-11 02:14:39.447,track,anon0151
+81018,client,App Timing Metric,2020-01-11 02:14:39.578,track,anon0151
+81019,client,First Contentful Paint,2020-01-11 02:14:39.578,track,anon0151
+81020,client,User Settings Detail Form Edited,2020-01-11 02:14:42.271,track,anon0160
+81021,client,First Input Delay,2020-01-11 02:14:52.444,track,anon0151
+81022,client,generic06 Dismissed,2020-01-11 02:14:52.555,track,anon0151
+81023,client,App Timing Metric,2020-01-11 02:14:53.593,track,anon0151
+81024,client,User Settings Detail Form Edited,2020-01-11 02:14:55.353,track,anon0045
+81025,client,User Settings Detail Form Edited,2020-01-11 02:14:55.356,track,anon0045
+81026,client,User Settings Detail Form Edited,2020-01-11 02:14:55.357,track,anon0045
+81027,client,App Timing Metric,2020-01-11 02:14:56.579,track,anon0151
+81028,client,User Settings Detail Form Edited,2020-01-11 02:14:56.599,track,anon0045
+81029,client,generic01 Explorer Searched,2020-01-11 02:14:57.214,track,anon0045
+81030,client,generic01 Profile Viewed,2020-01-11 02:14:58.445,track,anon0045
+81031,client,App Timing Metric,2020-01-11 02:14:58.691,track,anon0045
+81032,client,First Paint,2020-01-11 02:14:58.701,track,anon0152
+81033,client,First Contentful Paint,2020-01-11 02:14:58.711,track,anon0152
+81034,client,App Timing Metric,2020-01-11 02:14:58.735,track,anon0152
+81035,client,User Settings Detail Form Edited,2020-01-11 02:14:58.747,track,anon0160
+81036,client,Page Call Duplicated,2020-01-11 02:14:58.762,track,anon0152
+81037,client,User Settings Detail Form Edited,2020-01-11 02:14:58.931,track,anon0160
+81038,client,generic01 Profile Tab Viewed,2020-01-11 02:14:59.101,track,anon0045
+81039,client,User Settings Detail Form Edited,2020-01-11 02:15:00.054,track,anon0160
+81040,client,First Input Delay,2020-01-11 02:15:00.814,track,anon0152
+81041,client,App Timing Metric,2020-01-11 02:15:01.730,track,anon0152
+81042,client,User Settings Detail Form Edited,2020-01-11 02:15:02.607,track,anon0160
+81043,client,User Settings Detail Form Edited,2020-01-11 02:15:02.753,track,anon0160
+81044,client,Side Nav Clicked,2020-01-11 02:15:08.511,track,anon0152
+81045,client,Side Nav Clicked generic30,2020-01-11 02:15:08.534,track,anon0152
+81046,server,Tracking Plan Saved,2020-01-11 02:15:11.071,track,anon0154
+81047,server,Tracking Plan Saved,2020-01-11 02:15:11.366,track,anon0154
+81048,server,Tracking Plan Connection Changed,2020-01-11 02:15:11.817,track,anon0154
+81049,client,Side Nav Clicked,2020-01-11 02:15:12.376,track,anon0122
+81050,client,Side Nav Clicked generic01,2020-01-11 02:15:12.380,track,anon0122
+81051,client,Debugger Call Clicked,2020-01-11 02:15:13.278,track,anon0143
+81052,client,Debugger Call Clicked,2020-01-11 02:15:13.540,track,anon0143
+81053,client,First Paint,2020-01-11 02:15:13.880,track,anon0122
+81054,client,First Contentful Paint,2020-01-11 02:15:13.898,track,anon0122
+81055,client,App Timing Metric,2020-01-11 02:15:13.909,track,anon0122
+81056,client,Debugger Call Clicked,2020-01-11 02:15:15.174,track,anon0143
+81057,client,Side Nav Clicked,2020-01-11 02:15:15.406,track,anon0151
+81058,client,Side Nav Clicked Settings,2020-01-11 02:15:15.407,track,anon0151
+81059,client,Debugger Call Clicked,2020-01-11 02:15:16.077,track,anon0143
+81060,client,First Input Delay,2020-01-11 02:15:16.253,track,anon0122
+81061,client,Debugger Call Clicked,2020-01-11 02:15:16.329,track,anon0143
+81062,client,User Settings Detail Form Edited,2020-01-11 02:15:16.524,track,anon0160
+81063,client,Debugger Call Clicked,2020-01-11 02:15:16.656,track,anon0143
+81064,client,App Timing Metric,2020-01-11 02:15:16.743,track,anon0122
+81065,client,Debugger Call Clicked,2020-01-11 02:15:17.000,track,anon0143
+81066,client,generic01 Viewed generic30,2020-01-11 02:15:17.981,track,anon0122
+81067,client,Debugger Call Clicked,2020-01-11 02:15:18.253,track,anon0143
+81068,client,Viewed Featured generic30,2020-01-11 02:15:18.530,track,anon0152
+81069,client,generic29 Nav Link Clicked,2020-01-11 02:15:20.202,track,anon0151
+81070,client,generic27 Settings Tab Clicked,2020-01-11 02:15:20.264,track,anon0151
+81071,client,Invoice History Tab Clicked,2020-01-11 02:15:20.277,track,anon0151
+81072,client,App Timing Metric,2020-01-11 02:15:20.584,track,anon0122
+81073,client,Viewed Integration,2020-01-11 02:15:20.680,track,anon0122
+81074,client,App Timing Metric,2020-01-11 02:15:21.783,track,anon0151
+81075,client,Catalog Sidebar Searched,2020-01-11 02:15:22.188,track,anon0152
+81076,client,generic27 Settings Tab Clicked,2020-01-11 02:15:22.253,track,anon0151
+81077,client,Plans Tab Clicked,2020-01-11 02:15:22.296,track,anon0151
+81078,client,Catalog Sidebar Searched,2020-01-11 02:15:23.656,track,anon0152
+81079,client,Catalog Sidebar Searched,2020-01-11 02:15:24.711,track,anon0152
+81080,server,Tracking Plan Saved,2020-01-11 02:15:24.904,track,anon0154
+81081,client,Debugger Call Clicked,2020-01-11 02:15:25.789,track,anon0143
+81082,server,Integration Disabled,2020-01-11 02:15:27.164,track,anon0122
+81083,server,Censor generic32 Settings,2020-01-11 02:15:27.164,track,anon0122
+81084,client,generic27 Settings Tab Clicked,2020-01-11 02:15:27.426,track,anon0151
+81085,client,generic29 Nav Link Clicked,2020-01-11 02:15:27.430,track,anon0151
+81086,client,Usage Tab Clicked,2020-01-11 02:15:27.574,track,anon0151
+81087,client,App Timing Metric,2020-01-11 02:15:28.863,track,anon0151
+81088,server,Tracking Plan Saved,2020-01-11 02:15:31.738,track,anon0154
+81089,client,First Paint,2020-01-11 02:15:41.836,track,anon0003
+81090,client,First Contentful Paint,2020-01-11 02:15:41.873,track,anon0003
+81091,client,App Timing Metric,2020-01-11 02:15:41.896,track,anon0003
+81092,client,First Input Delay,2020-01-11 02:15:44.130,track,anon0003
+81093,client,Side Nav Clicked,2020-01-11 02:15:46.941,track,anon0122
+81094,client,Side Nav Clicked generic04,2020-01-11 02:15:46.975,track,anon0122
+81095,client,First Paint,2020-01-11 02:15:47.986,track,anon0122
+81096,client,First Contentful Paint,2020-01-11 02:15:47.995,track,anon0122
+81097,client,App Timing Metric,2020-01-11 02:15:48.003,track,anon0122
+81098,server,Password Submitted,2020-01-11 02:15:48.874,track,anon0065
+81099,client,App Timing Metric,2020-01-11 02:15:49.048,track,anon0122
+81100,client,User Logged In,2020-01-11 02:15:49.138,track,anon0003
+81101,client,First Contentful Paint,2020-01-11 02:15:50.719,track,anon0003
+81102,client,First Paint,2020-01-11 02:15:50.728,track,anon0003
+81103,client,First Input Delay,2020-01-11 02:15:50.751,track,anon0122
+81104,client,App Timing Metric,2020-01-11 02:15:51.323,track,anon0003
+81105,client,First Input Delay,2020-01-11 02:15:51.868,track,anon0003
+81106,client,generic06 Dismissed,2020-01-11 02:15:51.953,track,anon0003
+81107,client,App Timing Metric,2020-01-11 02:15:52.592,track,anon0003
+81108,server,Password Submitted,2020-01-11 02:15:57.974,track,anon0065
+81109,client,User Logged In,2020-01-11 02:15:58.558,track,anon0071
+81110,client,Debugger Call Clicked,2020-01-11 02:15:58.815,track,anon0143
+81111,client,Debugger Call Clicked,2020-01-11 02:15:59.103,track,anon0143
+81112,client,generic29 Nav Link Clicked,2020-01-11 02:15:59.582,track,anon0003
+81113,client,First Paint,2020-01-11 02:15:59.930,track,anon0071
+81114,client,First Contentful Paint,2020-01-11 02:15:59.956,track,anon0071
+81115,client,Debugger Call Clicked,2020-01-11 02:16:00.164,track,anon0143
+81116,client,Debugger Call Clicked,2020-01-11 02:16:00.491,track,anon0143
+81117,client,App Timing Metric,2020-01-11 02:16:01.082,track,anon0071
+81118,client,Debugger Call Clicked,2020-01-11 02:16:01.133,track,anon0143
+81119,client,Debugger Call Clicked,2020-01-11 02:16:02.086,track,anon0143
+81120,client,App Timing Metric,2020-01-11 02:16:02.536,track,anon0122
+81121,client,App Timing Metric,2020-01-11 02:16:02.737,track,anon0122
+81122,client,Viewed Integration,2020-01-11 02:16:02.824,track,anon0122
+81123,client,App Timing Metric,2020-01-11 02:16:02.877,track,anon0122
+81124,client,Debugger Call Clicked,2020-01-11 02:16:03.069,track,anon0143
+81125,client,First Contentful Paint,2020-01-11 02:16:03.897,track,anon0094
+81126,client,App Timing Metric,2020-01-11 02:16:04.015,track,anon0094
+81127,client,App Timing Metric,2020-01-11 02:16:04.079,track,anon0094
+81128,server,Integration Enabled,2020-01-11 02:16:04.461,track,anon0122
+81129,server,Censor generic32 Settings,2020-01-11 02:16:04.461,track,anon0122
+81130,client,Submitted Wishlist Integration Request,2020-01-11 02:16:04.853,track,anon0152
+81131,client,Debugger Call Clicked,2020-01-11 02:16:06.064,track,anon0143
+81132,client,Debugger Call Clicked,2020-01-11 02:16:06.353,track,anon0143
+81133,client,Debugger Call Clicked,2020-01-11 02:16:06.620,track,anon0143
+81134,client,Catalog Category Clicked,2020-01-11 02:16:09.224,track,anon0152
+81135,server,Tracking Plan Saved,2020-01-11 02:16:10.914,track,anon0154
+81136,client,View generic2325 Clicked,2020-01-11 02:16:13.527,track,anon0111
+81137,client,First Paint,2020-01-11 02:16:14.410,track,anon0111
+81138,client,First Contentful Paint,2020-01-11 02:16:14.412,track,anon0111
+81139,client,App Timing Metric,2020-01-11 02:16:16.790,track,anon0111
+81140,client,App Timing Metric,2020-01-11 02:16:17.417,track,anon0111
+81141,client,generic29 Nav Link Clicked,2020-01-11 02:16:20.969,track,anon0111
+81142,client,First Input Delay,2020-01-11 02:16:20.970,track,anon0111
+81143,client,First Input Delay,2020-01-11 02:16:21.792,track,anon0071
+81144,client,generic29 Nav Link Clicked,2020-01-11 02:16:21.946,track,anon0111
+81145,client,App Timing Metric,2020-01-11 02:16:23.325,track,anon0071
+81146,server,Tracking Plan Saved,2020-01-11 02:16:23.465,track,anon0154
+81147,client,First Paint,2020-01-11 02:16:24.550,track,anon0024
+81148,client,First Contentful Paint,2020-01-11 02:16:24.581,track,anon0024
+81149,client,App Timing Metric,2020-01-11 02:16:24.597,track,anon0024
+81150,client,Signup Page Viewed,2020-01-11 02:16:24.632,track,anon0024
+81151,client,App Timing Metric,2020-01-11 02:16:27.241,track,anon0143
+81152,client,generic29 Nav Link Clicked,2020-01-11 02:16:28.480,track,anon0143
+81153,server,Tracking Plan Saved,2020-01-11 02:16:30.848,track,anon0154
+81154,client,Debugger Call Clicked,2020-01-11 02:16:33.256,track,anon0111
+81155,client,Debugger Call Clicked,2020-01-11 02:16:35.369,track,anon0143
+81156,client,Debugger Call Clicked,2020-01-11 02:16:36.209,track,anon0111
+81157,client,Debugger Call Clicked,2020-01-11 02:16:38.183,track,anon0111
+81158,client,Debugger Call Clicked,2020-01-11 02:16:39.009,track,anon0111
+81159,client,Debugger Call Clicked,2020-01-11 02:16:39.392,track,anon0111
+81160,client,Debugger Call Clicked,2020-01-11 02:16:40.051,track,anon0111
+81161,client,Debugger Call Clicked,2020-01-11 02:16:40.271,track,anon0143
+81162,client,Debugger Call Clicked,2020-01-11 02:16:40.489,track,anon0111
+81163,client,Debugger Call Clicked,2020-01-11 02:16:40.850,track,anon0111
+81164,client,Debugger Call Clicked,2020-01-11 02:16:41.830,track,anon0143
+81165,client,App Timing Metric,2020-01-11 02:16:44.706,track,anon0009
+81166,client,Side Nav Clicked,2020-01-11 02:16:47.677,track,anon0111
+81167,client,Side Nav Clicked generic30,2020-01-11 02:16:47.678,track,anon0111
+81168,client,First Paint,2020-01-11 02:16:49.012,track,anon0111
+81169,client,First Contentful Paint,2020-01-11 02:16:49.452,track,anon0111
+81170,client,Side Nav Clicked,2020-01-11 02:16:54.891,track,anon0111
+81171,client,Side Nav Clicked generic04,2020-01-11 02:16:54.893,track,anon0111
+81172,client,generic27 Settings Tab Clicked,2020-01-11 02:16:56.714,track,anon0151
+81173,client,App Timing Metric,2020-01-11 02:16:58.322,track,anon0111
+81174,client,Side Nav Clicked,2020-01-11 02:17:02.113,track,anon0071
+81175,client,Side Nav Clicked Settings,2020-01-11 02:17:02.170,track,anon0071
+81176,client,App Timing Metric,2020-01-11 02:17:03.470,track,anon0071
+81177,client,First Contentful Paint,2020-01-11 02:17:04.010,track,anon0094
+81178,client,First Contentful Paint,2020-01-11 02:17:06.985,track,anon0106
+81179,client,First Paint,2020-01-11 02:17:06.986,track,anon0106
+81180,client,Page Call Duplicated,2020-01-11 02:17:07.002,track,anon0106
+81181,client,generic2733 Period Changed,2020-01-11 02:17:08.012,track,anon0151
+81182,client,generic29 Nav Link Clicked,2020-01-11 02:17:08.361,track,anon0071
+81183,client,generic27 Settings Tab Clicked,2020-01-11 02:17:08.389,track,anon0071
+81184,client,Invoice History Tab Clicked,2020-01-11 02:17:08.402,track,anon0071
+81185,client,App Timing Metric,2020-01-11 02:17:08.955,track,anon0071
+81186,client,First Input Delay,2020-01-11 02:17:09.272,track,anon0106
+81187,server,Tracking Plan Saved,2020-01-11 02:17:10.895,track,anon0154
+81188,client,Catalog Category Clicked,2020-01-11 02:17:18.370,track,anon0152
+81189,client,App Timing Metric,2020-01-11 02:17:19.684,track,anon0106
+81190,client,Clicked Catalog Integration,2020-01-11 02:17:20.019,track,anon0152
+81191,client,App Timing Metric,2020-01-11 02:17:20.523,track,anon0106
+81192,client,Viewed Integration,2020-01-11 02:17:20.720,track,anon0106
+81193,client,App Timing Metric,2020-01-11 02:17:20.951,track,anon0111
+81194,client,generic27 Settings Tab Clicked,2020-01-11 02:17:21.601,track,anon0151
+81195,client,Plans Tab Clicked,2020-01-11 02:17:21.629,track,anon0151
+81196,client,App Timing Metric,2020-01-11 02:17:21.793,track,anon0111
+81197,server,Tracking Plan Saved,2020-01-11 02:17:23.112,track,anon0154
+81198,client,App Timing Metric,2020-01-11 02:17:23.647,track,anon0111
+81199,client,Run History Viewed,2020-01-11 02:17:25.343,track,anon0111
+81200,client,App Timing Metric,2020-01-11 02:17:25.715,track,anon0111
+81201,server,Integration Disabled,2020-01-11 02:17:26.552,track,anon0106
+81202,server,Censor generic32 Settings,2020-01-11 02:17:26.552,track,anon0106
+81203,server,Tracking Plan Saved,2020-01-11 02:17:30.017,track,anon0154
+81204,client,Viewed Featured generic30,2020-01-11 02:17:31.957,track,anon0152
+81205,client,Viewed Featured generic30,2020-01-11 02:17:32.103,track,anon0152
+81206,client,Catalog Category Clicked,2020-01-11 02:17:37.309,track,anon0152
+81207,client,Clicked Catalog Integration,2020-01-11 02:17:38.651,track,anon0152
+81208,client,App Timing Metric,2020-01-11 02:17:39.385,track,anon0152
+81209,server,generic26 Settings Saved,2020-01-11 02:17:45.454,track,anon0111
+81210,client,Side Nav Clicked,2020-01-11 02:17:46.086,track,anon0152
+81211,client,Side Nav Clicked Catalog,2020-01-11 02:17:46.102,track,anon0152
+81212,client,generic29 Nav Link Clicked,2020-01-11 02:17:48.178,track,anon0111
+81213,client,Run History Viewed,2020-01-11 02:17:54.977,track,anon0111
+81214,client,Clicked Catalog Integration,2020-01-11 02:17:55.833,track,anon0152
+81215,client,App Timing Metric,2020-01-11 02:17:57.918,track,anon0152
+81216,client,First Paint,2020-01-11 02:17:57.929,track,anon0152
+81217,client,First Contentful Paint,2020-01-11 02:17:57.948,track,anon0152
+81218,client,App Timing Metric,2020-01-11 02:17:59.086,track,anon0152
+81219,client,Side Nav Clicked,2020-01-11 02:18:07.616,track,anon0062
+81220,client,Side Nav Clicked Catalog,2020-01-11 02:18:07.663,track,anon0062
+81221,client,First Paint,2020-01-11 02:18:08.786,track,anon0062
+81222,client,First Contentful Paint,2020-01-11 02:18:08.799,track,anon0062
+81223,client,App Timing Metric,2020-01-11 02:18:10.871,track,anon0062
+81224,server,Tracking Plan Saved,2020-01-11 02:18:10.966,track,anon0154
+81225,client,First Input Delay,2020-01-11 02:18:11.621,track,anon0062
+81226,client,App Timing Metric,2020-01-11 02:18:14.754,track,anon0009
+81227,client,Viewed Featured generic30,2020-01-11 02:18:15.086,track,anon0062
+81228,client,App Timing Metric,2020-01-11 02:18:15.333,track,anon0062
+81229,client,App Timing Metric,2020-01-11 02:18:17.716,track,anon0056
+81230,client,App Timing Metric,2020-01-11 02:18:17.817,track,anon0056
+81231,client,Clicked Catalog Integration,2020-01-11 02:18:18.133,track,anon0062
+81232,client,Catalog Sidebar Searched,2020-01-11 02:18:18.319,track,anon0062
+81233,client,App Timing Metric,2020-01-11 02:18:18.973,track,anon0062
+81234,server,Tracking Plan Saved,2020-01-11 02:18:23.389,track,anon0154
+81235,client,Clicked Configure generic32,2020-01-11 02:18:25.799,track,anon0062
+81236,client,generic27 Settings Tab Clicked,2020-01-11 02:18:26.618,track,anon0151
+81237,client,App Timing Metric,2020-01-11 02:18:30.393,track,anon0062
+81238,server,Tracking Plan Saved,2020-01-11 02:18:30.433,track,anon0154
+81239,client,Viewed Integration,2020-01-11 02:18:31.281,track,anon0062
+81240,client,App Timing Metric,2020-01-11 02:18:31.447,track,anon0062
+81241,client,generic27 Settings Tab Clicked,2020-01-11 02:18:35.949,track,anon0151
+81242,client,Plans Tab Clicked,2020-01-11 02:18:35.982,track,anon0151
+81243,client,App Timing Metric,2020-01-11 02:18:38.963,track,anon0072
+81244,client,generic32 Credentials Added,2020-01-11 02:18:42.807,track,anon0062
+81245,client,First Contentful Paint,2020-01-11 02:18:50.204,track,anon0041
+81246,client,App Timing Metric,2020-01-11 02:18:50.210,track,anon0041
+81247,server,Password Submitted,2020-01-11 02:18:50.938,track,anon0065
+81248,client,App Timing Metric,2020-01-11 02:18:52.522,track,anon0072
+81249,client,App Timing Metric,2020-01-11 02:18:53.154,track,anon0072
+81250,client,App Timing Metric,2020-01-11 02:18:53.524,track,anon0041
+81251,client,Side Nav Clicked,2020-01-11 02:18:54.881,track,anon0072
+81252,client,Side Nav Clicked generic30,2020-01-11 02:18:54.900,track,anon0072
+81253,client,App Timing Metric,2020-01-11 02:18:59.050,track,anon0072
+81254,client,App Timing Metric,2020-01-11 02:18:59.704,track,anon0072
+81255,client,generic29 Nav Link Clicked,2020-01-11 02:18:59.960,track,anon0072
+81256,client,First Contentful Paint,2020-01-11 02:19:07.102,track,anon0164
+81257,client,Unread Notification Count Displayed,2020-01-11 02:19:07.264,track,anon0164
+81258,client,App Timing Metric,2020-01-11 02:19:07.265,track,anon0164
+81259,client,App Timing Metric,2020-01-11 02:19:07.266,track,anon0164
+81260,client,App Timing Metric,2020-01-11 02:19:07.575,track,anon0164
+81261,server,Tracking Plan Saved,2020-01-11 02:19:11.247,track,anon0154
+81262,client,Visited Integration Docs,2020-01-11 02:19:11.469,track,anon0062
+81263,server,Tracking Plan Saved,2020-01-11 02:19:23.519,track,anon0154
+81264,server,Tracking Plan Saved,2020-01-11 02:19:30.958,track,anon0154
+81265,client,App Timing Metric,2020-01-11 02:19:44.808,track,anon0009
+81266,client,First Contentful Paint,2020-01-11 02:19:47.849,track,anon0136
+81267,client,App Timing Metric,2020-01-11 02:19:48.044,track,anon0136
+81268,client,App Timing Metric,2020-01-11 02:19:48.046,track,anon0136
+81269,client,App Timing Metric,2020-01-11 02:19:49.500,track,anon0136
+81270,server,Tracking Plan Saved,2020-01-11 02:19:54.109,track,anon0154
+81271,server,Tracking Plan Connection Changed,2020-01-11 02:19:55.085,track,anon0154
+81272,client,First Paint,2020-01-11 02:20:05.585,track,anon0095
+81273,client,First Contentful Paint,2020-01-11 02:20:05.591,track,anon0095
+81274,client,App Timing Metric,2020-01-11 02:20:05.734,track,anon0095
+81275,client,App Timing Metric,2020-01-11 02:20:05.755,track,anon0095
+81276,client,App Timing Metric,2020-01-11 02:20:06.316,track,anon0095
+81277,server,Tracking Plan Saved,2020-01-11 02:20:11.125,track,anon0154
+81278,server,Tracking Plan Saved,2020-01-11 02:20:24.954,track,anon0154
+81279,server,Tracking Plan Saved,2020-01-11 02:20:32.011,track,anon0154
+81280,server,Tracking Plan Saved,2020-01-11 02:21:11.135,track,anon0154
+81281,server,Tracking Plan Saved,2020-01-11 02:21:24.211,track,anon0154
+81282,server,Tracking Plan Saved,2020-01-11 02:21:36.531,track,anon0154
+81283,server,Tracking Plan Saved,2020-01-11 02:22:10.885,track,anon0154
+81284,server,Tracking Plan Saved,2020-01-11 02:22:25.447,track,anon0154
+81285,server,Tracking Plan Saved,2020-01-11 02:22:34.300,track,anon0154
+81286,client,App Timing Metric,2020-01-11 02:22:43.205,track,anon0152
+81287,client,First Paint,2020-01-11 02:22:43.207,track,anon0152
+81288,client,generic08 Error,2020-01-11 02:22:43.207,track,anon0152
+81289,client,First Contentful Paint,2020-01-11 02:22:43.209,track,anon0152
+81290,client,App Timing Metric,2020-01-11 02:22:43.209,track,anon0152
+81291,client,First Input Delay,2020-01-11 02:22:44.454,track,anon0152
+81292,client,App Timing Metric,2020-01-11 02:22:44.745,track,anon0009
+81293,client,App Timing Metric,2020-01-11 02:22:46.485,track,anon0152
+81294,client,First Paint,2020-01-11 02:22:51.558,track,anon0132
+81295,client,First Contentful Paint,2020-01-11 02:22:51.561,track,anon0132
+81296,client,App Timing Metric,2020-01-11 02:22:51.568,track,anon0132
+81297,client,App Timing Metric,2020-01-11 02:22:52.175,track,anon0132
+81298,client,First Input Delay,2020-01-11 02:22:53.539,track,anon0132
+81299,client,App Timing Metric,2020-01-11 02:22:53.924,track,anon0132
+81300,client,generic29 Nav Link Clicked,2020-01-11 02:23:00.489,track,anon0133
+81301,client,First Paint,2020-01-11 02:23:01.795,track,anon0133
+81302,client,First Contentful Paint,2020-01-11 02:23:01.975,track,anon0133
+81303,client,App Timing Metric,2020-01-11 02:23:02.594,track,anon0133
+81304,client,App Timing Metric,2020-01-11 02:23:02.904,track,anon0133
+81305,client,First Input Delay,2020-01-11 02:23:04.818,track,anon0133
+81306,client,Debugger Paused,2020-01-11 02:23:04.914,track,anon0133
+81307,client,App Timing Metric,2020-01-11 02:23:06.357,track,anon0132
+81308,client,App Timing Metric,2020-01-11 02:23:06.746,track,anon0132
+81309,client,Debugger Call Clicked,2020-01-11 02:23:07.955,track,anon0133
+81310,client,generic29 Nav Link Clicked,2020-01-11 02:23:08.521,track,anon0132
+81311,server,Tracking Plan Saved,2020-01-11 02:23:10.939,track,anon0154
+81312,client,Debugger Call Clicked,2020-01-11 02:23:11.973,track,anon0132
+81313,client,Debugger Call Clicked,2020-01-11 02:23:15.603,track,anon0132
+81314,client,Debugger Call Clicked,2020-01-11 02:23:15.903,track,anon0133
+81315,client,View generic2325 Clicked,2020-01-11 02:23:16.826,track,anon0111
+81316,client,Debugger Call Clicked,2020-01-11 02:23:16.871,track,anon0133
+81317,client,Debugger Call Clicked,2020-01-11 02:23:17.720,track,anon0133
+81318,client,Debugger Call Clicked,2020-01-11 02:23:18.600,track,anon0133
+81319,client,Debugger Call Clicked,2020-01-11 02:23:19.579,track,anon0133
+81320,client,Debugger Call Clicked,2020-01-11 02:23:20.023,track,anon0133
+81321,server,Tracking Plan Saved,2020-01-11 02:23:23.057,track,anon0154
+81322,client,Debugger Call Clicked,2020-01-11 02:23:23.096,track,anon0133
+81323,client,Debugger Call Clicked,2020-01-11 02:23:26.116,track,anon0133
+81324,client,Debugger Call Clicked,2020-01-11 02:23:27.627,track,anon0133
+81325,client,Debugger Call Clicked,2020-01-11 02:23:28.588,track,anon0133
+81326,client,Debugger Call Clicked,2020-01-11 02:23:30.091,track,anon0133
+81327,server,Tracking Plan Saved,2020-01-11 02:23:30.147,track,anon0154
+81328,client,App Timing Metric,2020-01-11 02:23:39.147,track,anon0059
+81329,client,Clicked Catalog Integration,2020-01-11 02:23:43.884,track,anon0152
+81330,client,Clicked Catalog Integration,2020-01-11 02:23:45.533,track,anon0152
+81331,client,Clicked Catalog Integration,2020-01-11 02:23:46.559,track,anon0152
+81332,client,View generic2325 Clicked,2020-01-11 02:23:47.907,track,anon0132
+81333,client,generic29 Nav Link Clicked,2020-01-11 02:23:48.373,track,anon0132
+81334,client,First Paint,2020-01-11 02:23:50.536,track,anon0152
+81335,client,First Contentful Paint,2020-01-11 02:23:50.641,track,anon0152
+81336,client,Debugger Call Clicked,2020-01-11 02:23:50.655,track,anon0132
+81337,client,App Timing Metric,2020-01-11 02:23:52.054,track,anon0152
+81338,client,App Timing Metric,2020-01-11 02:23:53.041,track,anon0152
+81339,client,First Paint,2020-01-11 02:23:56.489,track,anon0033
+81340,client,First Contentful Paint,2020-01-11 02:23:56.547,track,anon0033
+81341,client,App Timing Metric,2020-01-11 02:23:56.647,track,anon0033
+81342,client,App Timing Metric,2020-01-11 02:23:56.671,track,anon0033
+81343,client,First Paint,2020-01-11 02:23:57.156,track,anon0100
+81344,client,First Contentful Paint,2020-01-11 02:23:57.157,track,anon0100
+81345,client,Signup Page Viewed,2020-01-11 02:23:57.163,track,anon0100
+81346,client,First Input Delay,2020-01-11 02:23:59.472,track,anon0100
+81347,server,generic0120 Run Failed,2020-01-11 02:24:03.179,track,anon0063
+81348,client,Email Captured,2020-01-11 02:24:05.171,track,anon0100
+81349,client,Site Exited,2020-01-11 02:24:10.192,track,anon0152
+81350,server,Tracking Plan Saved,2020-01-11 02:24:11.075,track,anon0154
+81351,client,First Input Delay,2020-01-11 02:24:17.904,track,anon0152
+81352,client,Site Exited,2020-01-11 02:24:17.980,track,anon0152
+81353,client,Debugger Call Clicked,2020-01-11 02:24:19.171,track,anon0132
+81354,server,Tracking Plan Saved,2020-01-11 02:24:22.062,track,anon0154
+81355,server,Tracking Plan Connection Changed,2020-01-11 02:24:23.034,track,anon0154
+81356,server,Tracking Plan Saved,2020-01-11 02:24:23.291,track,anon0154
+81357,server,Tracking Plan Saved,2020-01-11 02:24:30.969,track,anon0154
+81358,client,User Settings Detail Form Edited,2020-01-11 02:24:35.515,track,anon0100
+81359,client,Lead Captured,2020-01-11 02:24:35.556,track,anon0100
+81360,server,Signup Completed,2020-01-11 02:24:36.238,track,anon0166
+81361,server,Password Submitted,2020-01-11 02:24:36.323,track,anon0065
+81362,client,User Signed Up,2020-01-11 02:24:36.429,track,anon0166
+81363,server,User Created,2020-01-11 02:24:37.811,track,anon0166
+81364,client,Debugger Call Clicked,2020-01-11 02:24:37.900,track,anon0132
+81365,client,App Timing Metric,2020-01-11 02:24:38.052,track,anon0166
+81366,client,Debugger Call Clicked,2020-01-11 02:24:38.500,track,anon0132
+81367,client,generic29 Nav Link Clicked,2020-01-11 02:25:00.960,track,anon0151
+81368,client,generic27 Settings Tab Clicked,2020-01-11 02:25:00.961,track,anon0151
+81369,client,Invoice History Tab Clicked,2020-01-11 02:25:00.962,track,anon0151
+81370,client,App Timing Metric,2020-01-11 02:25:07.949,track,anon0151
+81371,client,First Paint,2020-01-11 02:25:07.950,track,anon0151
+81372,client,First Contentful Paint,2020-01-11 02:25:07.951,track,anon0151
+81373,client,App Timing Metric,2020-01-11 02:25:08.275,track,anon0151
+81374,client,Page Call Duplicated,2020-01-11 02:25:09.254,track,anon0088
+81375,client,First Paint,2020-01-11 02:25:09.255,track,anon0088
+81376,client,First Contentful Paint,2020-01-11 02:25:09.264,track,anon0088
+81377,client,App Timing Metric,2020-01-11 02:25:09.264,track,anon0088
+81378,server,Tracking Plan Saved,2020-01-11 02:25:11.012,track,anon0154
+81379,client,First Contentful Paint,2020-01-11 02:25:13.919,track,anon0005
+81380,client,App Timing Metric,2020-01-11 02:25:13.986,track,anon0005
+81381,server,Tracking Plan Saved,2020-01-11 02:25:23.773,track,anon0154
+81382,client,generic23 Overview Accordion Toggled,2020-01-11 02:25:29.089,track,anon0166
+81383,client,generic23 Overview Accordion Toggled,2020-01-11 02:25:30.310,track,anon0166
+81384,client,generic29 Nav Link Clicked,2020-01-11 02:25:34.102,track,anon0166
+81385,server,Tracking Plan Saved,2020-01-11 02:25:37.586,track,anon0154
+81386,client,Debugger Call Clicked,2020-01-11 02:25:39.845,track,anon0166
+81387,client,Debugger Call Clicked,2020-01-11 02:25:42.258,track,anon0166
+81388,client,Debugger Call Clicked,2020-01-11 02:25:43.674,track,anon0166
+81389,client,App Timing Metric,2020-01-11 02:25:45.577,track,anon0009
+81390,client,Side Nav Clicked,2020-01-11 02:25:47.319,track,anon0166
+81391,client,Side Nav Clicked,2020-01-11 02:25:56.850,track,anon0166
+81392,client,Side Nav Clicked Catalog,2020-01-11 02:25:57.392,track,anon0166
+81393,client,App Timing Metric,2020-01-11 02:26:00.984,track,anon0166
+81394,client,Side Nav Clicked,2020-01-11 02:26:03.923,track,anon0166
+81395,client,Side Nav Clicked generic30,2020-01-11 02:26:03.926,track,anon0166
+81396,server,Tracking Plan Saved,2020-01-11 02:26:10.876,track,anon0154
+81397,client,App Timing Metric,2020-01-11 02:26:12.755,track,anon0108
+81398,client,Network Error,2020-01-11 02:26:12.809,track,anon0108
+81399,client,App Timing Metric,2020-01-11 02:26:12.811,track,anon0108
+81400,server,Tracking Plan Saved,2020-01-11 02:26:22.633,track,anon0154
+81401,server,Tracking Plan Saved,2020-01-11 02:26:33.993,track,anon0154
+81402,client,First Paint,2020-01-11 02:26:35.198,track,anon0031
+81403,client,First Contentful Paint,2020-01-11 02:26:35.219,track,anon0031
+81404,client,App Timing Metric,2020-01-11 02:26:35.267,track,anon0031
+81405,client,App Timing Metric,2020-01-11 02:26:35.409,track,anon0031
+81406,client,First Input Delay,2020-01-11 02:26:36.601,track,anon0031
+81407,client,App Timing Metric,2020-01-11 02:26:38.115,track,anon0031
+81408,client,Side Nav Clicked,2020-01-11 02:26:38.867,track,anon0031
+81409,client,Side Nav Clicked generic04,2020-01-11 02:26:38.887,track,anon0031
+81410,client,App Timing Metric,2020-01-11 02:26:41.895,track,anon0031
+81411,client,First Contentful Paint,2020-01-11 02:26:42.787,track,
+81412,client,First Contentful Paint,2020-01-11 02:26:43.116,track,
+81413,client,App Timing Metric,2020-01-11 02:26:43.116,track,
+81414,client,First Contentful Paint,2020-01-11 02:26:43.719,track,
+81415,client,First Contentful Paint,2020-01-11 02:26:45.761,track,
+81416,client,App Timing Metric,2020-01-11 02:26:45.764,track,
+81417,client,First Contentful Paint,2020-01-11 02:26:46.513,track,
+81418,client,Signup Page Viewed,2020-01-11 02:26:50.149,track,
+81419,client,First Input Delay,2020-01-11 02:26:50.241,track,
+81420,client,Signup Page Viewed,2020-01-11 02:26:50.367,track,
+81421,client,First Input Delay,2020-01-11 02:26:50.621,track,
+81422,client,Signup Page Viewed,2020-01-11 02:26:52.953,track,
+81423,client,First Input Delay,2020-01-11 02:26:53.029,track,
+81424,client,First Input Delay,2020-01-11 02:26:53.227,track,
+81425,client,Signup Page Viewed,2020-01-11 02:26:53.371,track,
+81426,client,Signup Page Viewed,2020-01-11 02:26:57.389,track,
+81427,client,First Input Delay,2020-01-11 02:26:58.075,track,
+81428,server,Tracking Plan Saved,2020-01-11 02:27:10.935,track,anon0154
+81429,client,App Timing Metric,2020-01-11 02:27:14.215,track,anon0166
+81430,client,Viewed Integration,2020-01-11 02:27:14.434,track,anon0166
+81431,server,Tracking Plan Saved,2020-01-11 02:27:23.137,track,anon0154
+81432,server,generic0120 Run Failed,2020-01-11 02:27:24.602,track,anon0126
+81433,server,Tracking Plan Saved,2020-01-11 02:27:30.301,track,anon0154
+81434,client,Clicked Catalog Integration,2020-01-11 02:28:02.797,track,anon0152
+81435,client,Clicked Catalog Integration,2020-01-11 02:28:03.398,track,anon0152
+81436,client,Clicked Catalog Integration,2020-01-11 02:28:04.044,track,anon0152
+81437,client,Clicked Catalog Integration,2020-01-11 02:28:04.668,track,anon0152
+81438,client,Debugger Call Clicked,2020-01-11 02:28:07.991,track,anon0158
+81439,client,App Timing Metric,2020-01-11 02:28:10.934,track,anon0152
+81440,client,First Paint,2020-01-11 02:28:11.049,track,anon0152
+81441,server,Tracking Plan Saved,2020-01-11 02:28:11.135,track,anon0154
+81442,client,App Timing Metric,2020-01-11 02:28:11.135,track,anon0152
+81443,client,First Contentful Paint,2020-01-11 02:28:11.207,track,anon0152
+81444,client,First Paint,2020-01-11 02:28:12.767,track,anon0152
+81445,client,App Timing Metric,2020-01-11 02:28:12.787,track,anon0152
+81446,client,App Timing Metric,2020-01-11 02:28:12.853,track,anon0152
+81447,client,First Input Delay,2020-01-11 02:28:13.112,track,anon0152
+81448,client,App Timing Metric,2020-01-11 02:28:13.788,track,anon0152
+81449,client,App Timing Metric,2020-01-11 02:28:13.972,track,anon0152
+81450,client,App Timing Metric,2020-01-11 02:28:14.059,track,anon0152
+81451,client,Site Exited,2020-01-11 02:28:15.707,track,anon0152
+81452,client,Debugger Call Clicked,2020-01-11 02:28:18.483,track,anon0158
+81453,server,Tracking Plan Saved,2020-01-11 02:28:24.457,track,anon0154
+81454,client,First Input Delay,2020-01-11 02:28:29.234,track,anon0152
+81455,client,Site Exited,2020-01-11 02:28:29.324,track,anon0152
+81456,server,Tracking Plan Saved,2020-01-11 02:28:31.223,track,anon0154
+81457,client,Debugger Call Clicked,2020-01-11 02:28:32.212,track,anon0158
+81458,client,Debugger Call Clicked,2020-01-11 02:28:33.586,track,anon0158
+81459,server,Password Submitted,2020-01-11 02:28:50.958,track,anon0065
+81460,client,First Paint,2020-01-11 02:28:51.284,track,anon0039
+81461,client,First Contentful Paint,2020-01-11 02:28:51.292,track,anon0039
+81462,client,Page Call Duplicated,2020-01-11 02:28:51.309,track,anon0039
+81463,client,First Input Delay,2020-01-11 02:28:52.383,track,anon0039
+81464,client,Side Nav Clicked,2020-01-11 02:28:54.475,track,anon0039
+81465,server,Tracking Plan Saved,2020-01-11 02:29:10.974,track,anon0154
+81466,client,Clicked Catalog View All,2020-01-11 02:29:16.447,track,anon0031
+81467,client,Clicked Catalog Integration,2020-01-11 02:29:25.590,track,anon0031
+81468,server,Tracking Plan Saved,2020-01-11 02:29:25.714,track,anon0154
+81469,server,Tracking Plan Saved,2020-01-11 02:29:34.382,track,anon0154
+81470,client,Side Nav Clicked,2020-01-11 02:29:38.227,track,anon0031
+81471,client,Side Nav Clicked generic04,2020-01-11 02:29:38.242,track,anon0031
+81472,client,App Timing Metric,2020-01-11 02:29:45.297,track,anon0061
+81473,client,App Timing Metric,2020-01-11 02:29:45.514,track,anon0061
+81474,server,Tracking Plan Saved,2020-01-11 02:29:57.944,track,anon0154
+81475,client,Upgrade generic24 Clicked,2020-01-11 02:29:58.821,track,anon0031
+81476,server,Tracking Plan Connection Changed,2020-01-11 02:29:58.903,track,anon0154
+81477,server,generic0120 Run Failed,2020-01-11 02:30:03.565,track,anon0060
+81478,client,App Timing Metric,2020-01-11 02:30:07.602,track,anon0031
+81479,server,Tracking Plan Saved,2020-01-11 02:30:11.193,track,anon0154
+81480,server,Tracking Plan Saved,2020-01-11 02:30:11.278,track,anon0154
+81481,server,Tracking Plan Connection Changed,2020-01-11 02:30:12.181,track,anon0154
+81482,client,First Paint,2020-01-11 02:30:15.506,track,anon0080
+81483,client,App Timing Metric,2020-01-11 02:30:15.558,track,anon0009
+81484,client,First Contentful Paint,2020-01-11 02:30:15.563,track,anon0017
+81485,client,App Timing Metric,2020-01-11 02:30:15.799,track,anon0017
+81486,client,First Contentful Paint,2020-01-11 02:30:15.853,track,anon0080
+81487,client,App Timing Metric,2020-01-11 02:30:15.985,track,anon0017
+81488,client,App Timing Metric,2020-01-11 02:30:18.199,track,anon0080
+81489,client,App Timing Metric,2020-01-11 02:30:19.689,track,anon0076
+81490,server,generic0120 Run Failed,2020-01-11 02:30:20.999,track,anon0126
+81491,server,Tracking Plan Saved,2020-01-11 02:30:23.181,track,anon0154
+81492,client,App Timing Metric,2020-01-11 02:30:27.005,track,anon0080
+81493,client,generic29 Nav Link Clicked,2020-01-11 02:30:29.340,track,anon0080
+81494,client,First Input Delay,2020-01-11 02:30:29.507,track,anon0080
+81495,server,Tracking Plan Saved,2020-01-11 02:30:32.060,track,anon0154
+81496,client,Clicked Add generic23,2020-01-11 02:30:39.079,track,anon0031
+81497,client,Debugger Call Clicked,2020-01-11 02:30:53.178,track,anon0006
+81498,client,Unread Notification Count Displayed,2020-01-11 02:30:58.693,track,anon0138
+81499,client,App Timing Metric,2020-01-11 02:31:03.904,track,anon0091
+81500,server,Tracking Plan Saved,2020-01-11 02:31:10.949,track,anon0154
+81501,client,App Timing Metric,2020-01-11 02:31:11.287,track,anon0132
+81502,client,App Timing Metric,2020-01-11 02:31:11.536,track,anon0132
+81503,client,generic29 Nav Link Clicked,2020-01-11 02:31:12.664,track,anon0132
+81504,client,Debugger Call Clicked,2020-01-11 02:31:14.584,track,anon0132
+81505,client,Debugger Call Clicked,2020-01-11 02:31:22.607,track,anon0132
+81506,server,Tracking Plan Saved,2020-01-11 02:31:25.250,track,anon0154
+81507,server,Tracking Plan Saved,2020-01-11 02:31:32.461,track,anon0154
+81508,client,First Paint,2020-01-11 02:31:48.309,track,
+81509,client,Signup Page Viewed,2020-01-11 02:31:48.315,track,
+81510,client,First Contentful Paint,2020-01-11 02:31:48.319,track,
+81511,client,First Input Delay,2020-01-11 02:31:50.951,track,
+81512,server,Tracking Plan Saved,2020-01-11 02:32:11.211,track,anon0154
+81513,server,generic0119 Run Failed,2020-01-11 02:32:17.602,track,anon0057
+81514,server,Tracking Plan Saved,2020-01-11 02:32:23.234,track,anon0154
+81515,client,Debugger Call Clicked,2020-01-11 02:32:23.690,track,anon0132
+81516,server,Tracking Plan Saved,2020-01-11 02:32:30.335,track,anon0154
+81517,client,Debugger Call Clicked,2020-01-11 02:32:31.490,track,anon0132
+81518,client,Debugger Call Clicked,2020-01-11 02:32:34.015,track,anon0132
+81519,client,Debugger Call Clicked,2020-01-11 02:32:34.604,track,anon0132
+81520,client,Debugger Call Clicked,2020-01-11 02:32:35.107,track,anon0132
+81521,client,Debugger Call Clicked,2020-01-11 02:32:35.606,track,anon0132
+81522,client,generic29 Nav Link Clicked,2020-01-11 02:32:39.374,track,anon0080
+81523,client,Debugger Call Clicked,2020-01-11 02:32:42.892,track,anon0132
+81524,client,View generic2325 Clicked,2020-01-11 02:32:46.835,track,anon0080
+81525,client,generic29 Nav Link Clicked,2020-01-11 02:32:47.666,track,anon0080
+81526,client,Email Captured,2020-01-11 02:32:55.956,track,
+81527,client,App Timing Metric,2020-01-11 02:33:03.061,track,anon0146
+81528,client,First Contentful Paint,2020-01-11 02:33:04.598,track,anon0146
+81529,client,First Paint,2020-01-11 02:33:04.598,track,anon0146
+81530,client,User Settings Detail Form Edited,2020-01-11 02:33:05.379,track,
+81531,client,Debugger Call Clicked,2020-01-11 02:33:05.706,track,anon0132
+81532,server,generic0120 Run Failed,2020-01-11 02:33:08.125,track,anon0064
+81533,server,Tracking Plan Saved,2020-01-11 02:33:11.344,track,anon0154
+81534,client,App Timing Metric,2020-01-11 02:33:15.567,track,anon0009
+81535,client,First Paint,2020-01-11 02:33:21.676,track,anon0033
+81536,client,First Contentful Paint,2020-01-11 02:33:21.684,track,anon0033
+81537,client,App Timing Metric,2020-01-11 02:33:21.700,track,anon0033
+81538,client,Page Call Duplicated,2020-01-11 02:33:21.703,track,anon0033
+81539,client,First Input Delay,2020-01-11 02:33:22.986,track,anon0033
+81540,client,App Timing Metric,2020-01-11 02:33:23.458,track,anon0033
+81541,server,Tracking Plan Saved,2020-01-11 02:33:25.398,track,anon0154
+81542,client,First Paint,2020-01-11 02:33:28.135,track,anon0029
+81543,client,First Contentful Paint,2020-01-11 02:33:28.136,track,anon0029
+81544,client,App Timing Metric,2020-01-11 02:33:28.926,track,anon0029
+81545,client,JavaScript Error,2020-01-11 02:33:30.537,track,anon0029
+81546,client,First Input Delay,2020-01-11 02:33:31.011,track,anon0029
+81547,client,App Timing Metric,2020-01-11 02:33:31.343,track,anon0033
+81548,client,First Paint,2020-01-11 02:33:33.346,track,anon0029
+81549,client,First Contentful Paint,2020-01-11 02:33:33.377,track,anon0029
+81550,client,App Timing Metric,2020-01-11 02:33:33.392,track,anon0029
+81551,client,generic29 Nav Link Clicked,2020-01-11 02:33:34.117,track,anon0033
+81552,server,Tracking Plan Saved,2020-01-11 02:33:34.276,track,anon0154
+81553,client,App Timing Metric,2020-01-11 02:33:35.419,track,anon0029
+81554,client,App Timing Metric,2020-01-11 02:33:35.501,track,anon0029
+81555,client,First Input Delay,2020-01-11 02:33:42.542,track,anon0145
+81556,client,First Input Delay,2020-01-11 02:33:44.542,track,anon0029
+81557,client,Debugger Call Clicked,2020-01-11 02:33:44.713,track,anon0029
+81558,client,Debugger Call Clicked,2020-01-11 02:33:47.473,track,anon0029
+81559,client,Debugger Call Clicked,2020-01-11 02:33:48.658,track,anon0029
+81560,client,Debugger Call Clicked,2020-01-11 02:33:49.179,track,anon0029
+81561,client,Debugger Call Clicked,2020-01-11 02:33:49.725,track,anon0029
+81562,client,Debugger Call Clicked,2020-01-11 02:33:51.384,track,anon0029
+81563,client,Debugger Call Clicked,2020-01-11 02:34:01.323,track,anon0029
+81564,client,Debugger Call Clicked,2020-01-11 02:34:02.730,track,anon0029
+81565,client,Debugger Call Clicked,2020-01-11 02:34:03.523,track,anon0029
+81566,client,Debugger Call Clicked,2020-01-11 02:34:04.368,track,anon0029
+81567,client,Debugger Call Clicked,2020-01-11 02:34:05.128,track,anon0029
+81568,client,Debugger Call Clicked,2020-01-11 02:34:05.874,track,anon0029
+81569,client,Debugger Call Clicked,2020-01-11 02:34:07.473,track,anon0029
+81570,client,Debugger Call Clicked,2020-01-11 02:34:08.447,track,anon0029
+81571,client,Debugger Call Clicked,2020-01-11 02:34:09.957,track,anon0029
+81572,client,Debugger Call Clicked,2020-01-11 02:34:10.369,track,anon0029
+81573,client,Debugger Call Clicked,2020-01-11 02:34:10.803,track,anon0029
+81574,server,Tracking Plan Saved,2020-01-11 02:34:10.913,track,anon0154
+81575,client,Debugger Call Clicked,2020-01-11 02:34:11.298,track,anon0029
+81576,client,Debugger Call Clicked,2020-01-11 02:34:11.963,track,anon0029
+81577,server,Tracking Plan Saved,2020-01-11 02:34:23.551,track,anon0154
+81578,server,Tracking Plan Saved,2020-01-11 02:34:30.785,track,anon0154
+81579,client,Notification Banner Shown,2020-01-11 02:34:34.255,track,anon0066
+81580,client,App Timing Metric,2020-01-11 02:34:34.257,track,anon0066
+81581,client,App Timing Metric,2020-01-11 02:34:34.353,track,anon0066
+81582,client,First Paint,2020-01-11 02:34:41.050,track,anon0127
+81583,client,First Contentful Paint,2020-01-11 02:34:41.052,track,anon0127
+81584,client,Notification Banner Shown,2020-01-11 02:34:41.430,track,anon0127
+81585,client,App Timing Metric,2020-01-11 02:34:43.095,track,anon0127
+81586,client,App Timing Metric,2020-01-11 02:34:45.574,track,anon0009
+81587,client,Debugger Call Clicked,2020-01-11 02:34:57.857,track,anon0033
+81588,client,Debugger Call Clicked,2020-01-11 02:34:58.286,track,anon0033
+81589,client,First Paint,2020-01-11 02:34:59.082,track,anon0168
+81590,client,First Contentful Paint,2020-01-11 02:35:02.012,track,anon0168
+81591,client,First Input Delay,2020-01-11 02:35:05.141,track,anon0127
+81592,server,Tracking Plan Saved,2020-01-11 02:35:11.016,track,anon0154
+81593,server,Tracking Plan Saved,2020-01-11 02:35:23.073,track,anon0154
+81594,client,App Timing Metric,2020-01-11 02:35:30.026,track,anon0168
+81595,server,Tracking Plan Saved,2020-01-11 02:35:30.283,track,anon0154
+81596,server,Tracking Plan Saved,2020-01-11 02:35:34.943,track,anon0154
+81597,server,Tracking Plan Connection Changed,2020-01-11 02:35:36.032,track,anon0154
+81598,server,Tracking Plan Saved,2020-01-11 02:36:11.069,track,anon0154
+81599,server,Tracking Plan Saved,2020-01-11 02:36:23.353,track,anon0154
+81600,server,Tracking Plan Saved,2020-01-11 02:36:31.368,track,anon0154
+81601,client,Catalog Sidebar Searched,2020-01-11 02:36:36.205,track,anon0031
+81602,client,Clicked Wishlist Integration Request Logo,2020-01-11 02:36:36.697,track,anon0031
+81603,client,Clicked Wishlist Upvote Button,2020-01-11 02:36:43.900,track,anon0031
+81604,server,Tracking Plan Saved,2020-01-11 02:37:10.912,track,anon0154
+81605,server,Tracking Plan Saved,2020-01-11 02:37:23.364,track,anon0154
+81606,server,Tracking Plan Saved,2020-01-11 02:37:30.866,track,anon0154
+81607,client,generic29 Nav Link Clicked,2020-01-11 02:37:37.850,track,anon0080
+81608,client,generic29 Nav Link Clicked,2020-01-11 02:37:45.801,track,anon0080
+81609,client,Debugger Call Clicked,2020-01-11 02:37:54.511,track,anon0033
+81610,client,First Paint,2020-01-11 02:38:04.232,track,anon0080
+81611,client,First Contentful Paint,2020-01-11 02:38:04.257,track,anon0080
+81612,client,App Timing Metric,2020-01-11 02:38:04.969,track,anon0080
+81613,client,App Timing Metric,2020-01-11 02:38:05.653,track,anon0080
+81614,client,App Timing Metric,2020-01-11 02:38:05.678,track,anon0080
+81615,server,Tracking Plan Saved,2020-01-11 02:38:11.088,track,anon0154
+81616,server,Tracking Plan Saved,2020-01-11 02:38:24.271,track,anon0154
+81617,client,First Paint,2020-01-11 02:38:24.945,track,anon0104
+81618,client,App Timing Metric,2020-01-11 02:38:24.959,track,anon0104
+81619,client,First Contentful Paint,2020-01-11 02:38:24.972,track,anon0104
+81620,client,Page Call Duplicated,2020-01-11 02:38:24.984,track,anon0104
+81621,client,App Timing Metric,2020-01-11 02:38:26.654,track,anon0104
+81622,client,First Input Delay,2020-01-11 02:38:26.687,track,anon0104
+81623,server,Tracking Plan Saved,2020-01-11 02:38:33.708,track,anon0154
+81624,server,Password Submitted,2020-01-11 02:38:50.945,track,anon0065
+81625,client,First Paint,2020-01-11 02:38:56.869,track,anon0102
+81626,client,First Contentful Paint,2020-01-11 02:38:56.909,track,anon0102
+81627,client,App Timing Metric,2020-01-11 02:38:57.462,track,anon0148
+81628,client,App Timing Metric,2020-01-11 02:38:57.750,track,anon0148
+81629,client,Page Call Duplicated,2020-01-11 02:38:57.757,track,anon0148
+81630,client,First Input Delay,2020-01-11 02:38:58.850,track,anon0102
+81631,server,Password Submitted,2020-01-11 02:38:59.188,track,anon0065
+81632,client,User Logged In,2020-01-11 02:38:59.360,track,anon0102
+81633,client,First Paint,2020-01-11 02:38:59.835,track,anon0102
+81634,client,First Contentful Paint,2020-01-11 02:38:59.859,track,anon0102
+81635,client,First Input Delay,2020-01-11 02:39:04.185,track,anon0102
+81636,client,generic06 Clicked,2020-01-11 02:39:05.009,track,anon0102
+81637,server,Tracking Plan Saved,2020-01-11 02:39:10.969,track,anon0154
+81638,client,App Timing Metric,2020-01-11 02:39:15.566,track,anon0009
+81639,server,Tracking Plan Saved,2020-01-11 02:39:23.329,track,anon0154
+81640,server,Tracking Plan Saved,2020-01-11 02:39:31.254,track,anon0154
+81641,client,Checklist Item Expanded,2020-01-11 02:39:34.108,track,anon0104
+81642,client,App Timing Metric,2020-01-11 02:39:36.825,track,anon0104
+81643,client,Viewed Integration,2020-01-11 02:39:37.210,track,anon0104
+81644,server,generic18 Enabled,2020-01-11 02:39:40.081,track,anon0102
+81645,client,Side Nav Clicked,2020-01-11 02:40:00.956,track,anon0031
+81646,client,Side Nav Clicked generic04,2020-01-11 02:40:00.962,track,anon0031
+81647,server,Tracking Plan Saved,2020-01-11 02:40:11.124,track,anon0154
+81648,client,Clicked Catalog Integration,2020-01-11 02:40:11.480,track,anon0031
+81649,client,Clicked Catalog Integration,2020-01-11 02:40:16.589,track,anon0031
+81650,server,Tracking Plan Saved,2020-01-11 02:40:22.612,track,anon0154
+81651,client,Clicked Catalog Integration,2020-01-11 02:40:27.659,track,anon0031
+81652,server,Tracking Plan Saved,2020-01-11 02:40:29.538,track,anon0154
+81653,client,Debugger Call Clicked,2020-01-11 02:40:41.805,track,anon0158
+81654,client,Debugger Call Clicked,2020-01-11 02:40:45.199,track,anon0158
+81655,client,Debugger Call Clicked,2020-01-11 02:41:01.931,track,anon0006
+81656,server,Tracking Plan Saved,2020-01-11 02:41:11.092,track,anon0154
+81657,client,App Timing Metric,2020-01-11 02:41:16.627,track,anon0087
+81658,client,Unread Notification Count Displayed,2020-01-11 02:41:16.690,track,anon0087
+81659,client,App Timing Metric,2020-01-11 02:41:16.710,track,anon0087
+81660,client,App Timing Metric,2020-01-11 02:41:16.729,track,anon0087
+81661,client,App Timing Metric,2020-01-11 02:41:16.801,track,anon0087
+81662,client,Unread Notification Count Displayed,2020-01-11 02:41:16.840,track,anon0087
+81663,client,App Timing Metric,2020-01-11 02:41:16.900,track,anon0087
+81664,server,Tracking Plan Saved,2020-01-11 02:41:25.096,track,anon0154
+81665,server,Tracking Plan Saved,2020-01-11 02:41:25.211,track,anon0154
+81666,server,Tracking Plan Connection Changed,2020-01-11 02:41:26.768,track,anon0154
+81667,server,generic18 Enabled,2020-01-11 02:41:26.912,track,anon0102
+81668,server,Tracking Plan Saved,2020-01-11 02:41:32.115,track,anon0154
+81669,client,generic06 Sidesheet Closed,2020-01-11 02:41:33.587,track,anon0102
+81670,client,App Timing Metric,2020-01-11 02:41:37.009,track,anon0102
+81671,client,First Contentful Paint,2020-01-11 02:41:42.582,track,
+81672,client,App Timing Metric,2020-01-11 02:41:42.863,track,
+81673,client,First Contentful Paint,2020-01-11 02:41:42.866,track,
+81674,client,First Contentful Paint,2020-01-11 02:41:43.383,track,
+81675,client,App Timing Metric,2020-01-11 02:41:43.384,track,
+81676,client,First Contentful Paint,2020-01-11 02:41:43.418,track,
+81677,client,App Timing Metric,2020-01-11 02:41:43.419,track,
+81678,client,First Contentful Paint,2020-01-11 02:41:45.684,track,
+81679,client,App Timing Metric,2020-01-11 02:41:45.684,track,
+81680,client,First Input Delay,2020-01-11 02:41:50.201,track,
+81681,client,First Input Delay,2020-01-11 02:41:50.211,track,
+81682,client,Signup Page Viewed,2020-01-11 02:41:50.287,track,
+81683,client,Signup Page Viewed,2020-01-11 02:41:50.312,track,
+81684,client,Signup Page Viewed,2020-01-11 02:41:50.525,track,
+81685,client,First Input Delay,2020-01-11 02:41:50.672,track,
+81686,client,Signup Page Viewed,2020-01-11 02:41:50.700,track,
+81687,client,First Input Delay,2020-01-11 02:41:50.767,track,
+81688,client,Signup Page Viewed,2020-01-11 02:41:53.347,track,
+81689,client,First Input Delay,2020-01-11 02:41:53.827,track,
+81690,server,Tracking Plan Saved,2020-01-11 02:42:10.881,track,anon0154
+81691,client,App Timing Metric,2020-01-11 02:42:15.579,track,anon0009
+81692,client,Side Nav Clicked,2020-01-11 02:42:43.958,track,anon0102
+81693,client,Side Nav Clicked Settings,2020-01-11 02:42:43.961,track,anon0102
+81694,client,App Timing Metric,2020-01-11 02:42:44.897,track,anon0102
+81695,client,generic29 Nav Link Clicked,2020-01-11 02:42:49.596,track,anon0102
+81696,server,Tracking Plan Saved,2020-01-11 02:42:55.718,track,anon0154
+81697,server,Tracking Plan Saved,2020-01-11 02:43:10.994,track,anon0154
+81698,client,Side Nav Clicked,2020-01-11 02:43:22.328,track,anon0031
+81699,client,Side Nav Clicked generic30,2020-01-11 02:43:22.352,track,anon0031
+81700,server,Tracking Plan Saved,2020-01-11 02:43:23.862,track,anon0154
+81701,client,Clicked Catalog Integration,2020-01-11 02:43:28.480,track,anon0031
+81702,client,App Timing Metric,2020-01-11 02:43:29.236,track,anon0031
+81703,server,Tracking Plan Saved,2020-01-11 02:43:31.386,track,anon0154
+81704,client,Side Nav Clicked,2020-01-11 02:43:49.760,track,anon0031
+81705,client,Clicked Add generic23,2020-01-11 02:43:54.525,track,anon0031
+81706,client,First Contentful Paint,2020-01-11 02:43:58.953,track,
+81707,client,Clicked Catalog View All,2020-01-11 02:43:58.964,track,anon0031
+81708,client,Page Call Duplicated,2020-01-11 02:43:58.998,track,
+81709,client,Page Call Duplicated,2020-01-11 02:44:00.450,track,
+81710,client,Clicked Catalog Integration,2020-01-11 02:44:00.724,track,anon0031
+81711,client,Page Call Duplicated,2020-01-11 02:44:02.250,track,
+81712,client,Page Call Duplicated,2020-01-11 02:44:02.975,track,
+81713,client,Page Call Duplicated,2020-01-11 02:44:03.822,track,
+81714,client,Page Call Duplicated,2020-01-11 02:44:04.474,track,
+81715,client,App Timing Metric,2020-01-11 02:44:05.559,track,anon0010
+81716,server,Tracking Plan Saved,2020-01-11 02:44:10.931,track,anon0154
+81717,client,Debugger Call Clicked,2020-01-11 02:44:18.448,track,anon0036
+81718,client,Debugger Call Clicked,2020-01-11 02:44:18.837,track,anon0036
+81719,client,Side Nav Clicked,2020-01-11 02:44:22.850,track,anon0031
+81720,client,Side Nav Clicked generic04,2020-01-11 02:44:22.868,track,anon0031
+81721,server,Tracking Plan Saved,2020-01-11 02:44:24.664,track,anon0154
+81722,client,Debugger Call Clicked,2020-01-11 02:44:24.938,track,anon0036
+81723,client,Debugger Call Clicked,2020-01-11 02:44:26.297,track,anon0036
+81724,client,Debugger Call Clicked,2020-01-11 02:44:26.890,track,anon0036
+81725,client,Debugger Call Clicked,2020-01-11 02:44:27.622,track,anon0036
+81726,client,Catalog Sidebar Searched,2020-01-11 02:44:28.326,track,anon0031
+81727,client,Debugger Call Clicked,2020-01-11 02:44:28.415,track,anon0036
+81728,client,Clicked Wishlist Integration Request Logo,2020-01-11 02:44:30.438,track,anon0031
+81729,server,Tracking Plan Saved,2020-01-11 02:44:31.496,track,anon0154
+81730,client,Debugger Call Clicked,2020-01-11 02:44:34.003,track,anon0036
+81731,client,Clicked Catalog Integration,2020-01-11 02:44:39.977,track,anon0031
+81732,client,First Paint,2020-01-11 02:44:41.240,track,anon0123
+81733,client,First Contentful Paint,2020-01-11 02:44:41.249,track,anon0123
+81734,client,Signup Page Viewed,2020-01-11 02:44:41.277,track,anon0123
+81735,client,App Timing Metric,2020-01-11 02:44:42.239,track,anon0147
+81736,client,App Timing Metric,2020-01-11 02:44:42.432,track,anon0147
+81737,client,App Timing Metric,2020-01-11 02:44:42.432,track,anon0147
+81738,client,generic01 Viewed generic30,2020-01-11 02:44:42.435,track,anon0147
+81739,client,App Timing Metric,2020-01-11 02:44:42.442,track,anon0147
+81740,client,App Timing Metric,2020-01-11 02:44:42.602,track,anon0147
+81741,client,App Timing Metric,2020-01-11 02:44:42.620,track,anon0147
+81742,client,App Timing Metric,2020-01-11 02:44:42.848,track,anon0147
+81743,client,Side Nav Clicked,2020-01-11 02:44:54.812,track,anon0031
+81744,client,Side Nav Clicked generic30,2020-01-11 02:44:54.827,track,anon0031
+81745,client,Catalog Sidebar Searched,2020-01-11 02:45:00.642,track,anon0031
+81746,client,Clicked Wishlist Integration Request Logo,2020-01-11 02:45:01.202,track,anon0031
+81747,server,Tracking Plan Saved,2020-01-11 02:45:11.282,track,anon0154
+81748,server,Tracking Plan Saved,2020-01-11 02:45:11.437,track,anon0154
+81749,server,Tracking Plan Connection Changed,2020-01-11 02:45:12.461,track,anon0154
+81750,client,Side Nav Clicked,2020-01-11 02:45:15.486,track,anon0031
+81751,client,App Timing Metric,2020-01-11 02:45:15.592,track,anon0009
+81752,client,Side Nav Clicked,2020-01-11 02:45:16.280,track,anon0031
+81753,client,Side Nav Clicked generic04,2020-01-11 02:45:16.297,track,anon0031
+81754,client,Catalog Sidebar Searched,2020-01-11 02:45:21.625,track,anon0031
+81755,server,Tracking Plan Saved,2020-01-11 02:45:23.448,track,anon0154
+81756,client,Debugger Call Clicked,2020-01-11 02:45:30.525,track,anon0036
+81757,client,Catalog Sidebar Searched,2020-01-11 02:45:30.821,track,anon0031
+81758,server,Tracking Plan Saved,2020-01-11 02:45:33.990,track,anon0154
+81759,client,Catalog Sidebar Searched,2020-01-11 02:45:35.036,track,anon0031
+81760,client,Catalog Sidebar Searched,2020-01-11 02:45:39.531,track,anon0031
+81761,client,Catalog Sidebar Searched,2020-01-11 02:45:45.259,track,anon0031
+81762,client,Catalog Sidebar Searched,2020-01-11 02:45:49.366,track,anon0031
+81763,client,First Paint,2020-01-11 02:46:06.601,track,anon0049
+81764,client,First Contentful Paint,2020-01-11 02:46:06.603,track,anon0049
+81765,server,Tracking Plan Saved,2020-01-11 02:46:11.007,track,anon0154
+81766,server,Tracking Plan Saved,2020-01-11 02:46:24.019,track,anon0154
+81767,server,Tracking Plan Saved,2020-01-11 02:46:33.133,track,anon0154
+81768,client,App Timing Metric,2020-01-11 02:46:34.929,track,anon0049
+81769,client,First Paint,2020-01-11 02:46:34.936,track,anon0049
+81770,client,First Contentful Paint,2020-01-11 02:46:34.952,track,anon0049
+81771,client,First Input Delay,2020-01-11 02:46:39.633,track,anon0049
+81772,client,App Timing Metric,2020-01-11 02:46:48.111,track,anon0092
+81773,client,App Timing Metric,2020-01-11 02:46:48.112,track,anon0092
+81774,client,First Contentful Paint,2020-01-11 02:46:59.429,track,anon0173
+81775,client,First Paint,2020-01-11 02:46:59.429,track,anon0173
+81776,client,App Timing Metric,2020-01-11 02:46:59.451,track,anon0173
+81777,client,First Input Delay,2020-01-11 02:47:03.955,track,anon0173
+81778,client,App Timing Metric,2020-01-11 02:47:04.706,track,anon0173
+81779,server,Tracking Plan Saved,2020-01-11 02:47:07.111,track,anon0154
+81780,client,generic29 Nav Link Clicked,2020-01-11 02:47:07.429,track,anon0173
+81781,server,Tracking Plan Connection Changed,2020-01-11 02:47:08.165,track,anon0154
+81782,client,First Paint,2020-01-11 02:47:10.814,track,anon0021
+81783,client,First Contentful Paint,2020-01-11 02:47:10.820,track,anon0021
+81784,client,Page Call Duplicated,2020-01-11 02:47:10.837,track,anon0021
+81785,server,Tracking Plan Saved,2020-01-11 02:47:10.886,track,anon0154
+81786,client,App Timing Metric,2020-01-11 02:47:11.841,track,anon0021
+81787,client,First Input Delay,2020-01-11 02:47:15.933,track,anon0021
+81788,client,Notification Banner Shown,2020-01-11 02:47:16.642,track,anon0021
+81789,client,App Timing Metric,2020-01-11 02:47:16.749,track,anon0021
+81790,server,Tracking Plan Saved,2020-01-11 02:47:24.836,track,anon0154
+81791,server,Tracking Plan Saved,2020-01-11 02:47:31.898,track,anon0154
+81792,client,First Paint,2020-01-11 02:47:52.082,track,anon0173
+81793,client,App Timing Metric,2020-01-11 02:47:52.103,track,anon0173
+81794,client,First Contentful Paint,2020-01-11 02:47:52.124,track,anon0173
+81795,client,App Timing Metric,2020-01-11 02:47:54.299,track,anon0173
+81796,client,App Timing Metric,2020-01-11 02:47:54.349,track,anon0173
+81797,client,First Input Delay,2020-01-11 02:47:54.865,track,anon0173
+81798,client,First Paint,2020-01-11 02:48:10.339,track,anon0098
+81799,client,First Contentful Paint,2020-01-11 02:48:10.352,track,anon0098
+81800,client,App Timing Metric,2020-01-11 02:48:10.411,track,anon0098
+81801,client,Page Call Duplicated,2020-01-11 02:48:10.416,track,anon0098
+81802,server,Tracking Plan Saved,2020-01-11 02:48:10.949,track,anon0154
+81803,client,First Input Delay,2020-01-11 02:48:15.517,track,anon0098
+81804,client,App Timing Metric,2020-01-11 02:48:15.617,track,anon0009
+81805,client,App Timing Metric,2020-01-11 02:48:16.473,track,anon0098
+81806,client,App Timing Metric,2020-01-11 02:48:17.814,track,anon0098
+81807,client,Side Nav Clicked,2020-01-11 02:48:22.273,track,anon0098
+81808,client,App Timing Metric,2020-01-11 02:48:23.436,track,anon0098
+81809,server,Tracking Plan Saved,2020-01-11 02:48:24.427,track,anon0154
+81810,client,generic29 Nav Link Clicked,2020-01-11 02:48:27.995,track,anon0173
+81811,client,generic29 Nav Link Clicked,2020-01-11 02:48:29.215,track,anon0173
+81812,client,App Timing Metric,2020-01-11 02:48:31.057,track,anon0089
+81813,client,App Timing Metric,2020-01-11 02:48:31.063,track,anon0089
+81814,server,Tracking Plan Saved,2020-01-11 02:48:32.501,track,anon0154
+81815,client,App Timing Metric,2020-01-11 02:48:35.525,track,anon0098
+81816,client,generic23 Overview Link Clicked,2020-01-11 02:48:37.386,track,anon0098
+81817,server,generic0120 Run Failed,2020-01-11 02:48:40.185,track,anon0170
+81818,client,Catalog Category Clicked,2020-01-11 02:48:45.794,track,anon0098
+81819,client,Debugger Call Clicked,2020-01-11 02:48:50.184,track,anon0173
+81820,server,Password Submitted,2020-01-11 02:48:50.940,track,anon0065
+81821,client,Debugger Call Clicked,2020-01-11 02:48:59.401,track,anon0173
+81822,client,Catalog Sidebar Searched,2020-01-11 02:49:00.061,track,anon0098
+81823,client,generic29 Nav Link Clicked,2020-01-11 02:49:00.574,track,anon0173
+81824,client,Catalog Sidebar Searched,2020-01-11 02:49:07.376,track,anon0098
+81825,server,Tracking Plan Saved,2020-01-11 02:49:10.923,track,anon0154
+81826,client,generic29 Nav Link Clicked,2020-01-11 02:49:15.419,track,anon0098
+81827,client,Catalog Category Clicked,2020-01-11 02:49:15.429,track,anon0098
+81828,client,Catalog Sidebar Searched,2020-01-11 02:49:18.939,track,anon0098
+81829,server,Tracking Plan Saved,2020-01-11 02:49:25.962,track,anon0154
+81830,client,First Paint,2020-01-11 02:49:31.760,track,anon0096
+81831,client,First Contentful Paint,2020-01-11 02:49:31.769,track,anon0096
+81832,client,App Timing Metric,2020-01-11 02:49:31.781,track,anon0096
+81833,client,Page Call Duplicated,2020-01-11 02:49:31.790,track,anon0096
+81834,client,First Input Delay,2020-01-11 02:49:34.156,track,anon0096
+81835,client,App Timing Metric,2020-01-11 02:49:34.674,track,anon0096
+81836,client,App Timing Metric,2020-01-11 02:49:36.387,track,anon0163
+81837,server,Tracking Plan Saved,2020-01-11 02:49:37.524,track,anon0154
+81838,client,Catalog Sidebar Searched,2020-01-11 02:49:49.217,track,anon0098
+81839,client,Catalog Sidebar Searched,2020-01-11 02:49:51.960,track,anon0098
+81840,client,Catalog Sidebar Searched,2020-01-11 02:49:57.578,track,anon0098
+81841,client,App Timing Metric,2020-01-11 02:49:58.986,track,anon0027
+81842,client,App Timing Metric,2020-01-11 02:49:59.194,track,anon0027
+81843,client,App Timing Metric,2020-01-11 02:49:59.195,track,anon0027
+81844,client,Clicked Catalog Integration,2020-01-11 02:49:59.218,track,anon0098
+81845,client,App Timing Metric,2020-01-11 02:50:00.724,track,anon0098
+81846,server,generic0120 Run Failed,2020-01-11 02:50:01.570,track,anon0093
+81847,server,Tracking Plan Saved,2020-01-11 02:50:10.964,track,anon0154
+81848,client,Clicked Configure generic32,2020-01-11 02:50:11.988,track,anon0098
+81849,client,App Timing Metric,2020-01-11 02:50:13.414,track,anon0098
+81850,client,Viewed Integration,2020-01-11 02:50:14.150,track,anon0098
+81851,client,App Timing Metric,2020-01-11 02:50:14.386,track,anon0098
+81852,client,App Timing Metric,2020-01-11 02:50:21.211,track,anon0001
+81853,client,App Timing Metric,2020-01-11 02:50:21.477,track,anon0001
+81854,client,Viewed lockout,2020-01-11 02:50:21.478,track,anon0001
+81855,server,Tracking Plan Saved,2020-01-11 02:50:23.494,track,anon0154
+81856,server,Tracking Plan Saved,2020-01-11 02:50:32.703,track,anon0154
+81857,client,Side Nav Clicked,2020-01-11 02:50:34.595,track,anon0098
+81858,server,Tracking Plan Saved,2020-01-11 02:51:10.900,track,anon0154
+81859,client,App Timing Metric,2020-01-11 02:51:15.596,track,anon0009
+81860,server,Tracking Plan Saved,2020-01-11 02:51:27.024,track,anon0154
+81861,client,App Timing Metric,2020-01-11 02:51:32.490,track,anon0014
+81862,client,Network Error,2020-01-11 02:51:34.032,track,anon0014
+81863,client,Page Call Duplicated,2020-01-11 02:51:34.180,track,anon0014
+81864,server,Tracking Plan Saved,2020-01-11 02:51:35.518,track,anon0154
+81865,server,Tracking Plan Saved,2020-01-11 02:52:11.020,track,anon0154
+81866,client,App Timing Metric,2020-01-11 02:52:20.459,track,anon0150
+81867,client,App Timing Metric,2020-01-11 02:52:20.460,track,anon0150
+81868,client,App Timing Metric,2020-01-11 02:52:20.461,track,anon0150
+81869,server,Tracking Plan Saved,2020-01-11 02:52:25.628,track,anon0154
+81870,client,Debugger Call Clicked,2020-01-11 02:52:32.492,track,anon0033
+81871,server,Tracking Plan Saved,2020-01-11 02:52:32.923,track,anon0154
+81872,client,Debugger Call Clicked,2020-01-11 02:52:36.073,track,anon0033
+81873,server,Tracking Plan Saved,2020-01-11 02:52:36.139,track,anon0154
+81874,server,Tracking Plan Connection Changed,2020-01-11 02:52:37.130,track,anon0154
+81875,client,Debugger Call Clicked,2020-01-11 02:52:37.695,track,anon0033
+81876,client,App Timing Metric,2020-01-11 02:52:42.991,track,anon0040
+81877,client,Viewed Featured generic30,2020-01-11 02:52:43.091,track,anon0040
+81878,client,App Timing Metric,2020-01-11 02:52:45.611,track,anon0009
+81879,client,Debugger Call Clicked,2020-01-11 02:52:52.999,track,anon0033
+81880,client,Debugger Call Clicked,2020-01-11 02:52:55.773,track,anon0033
+81881,client,Debugger Call Clicked,2020-01-11 02:52:56.733,track,anon0033
+81882,client,First Paint,2020-01-11 02:53:01.079,track,anon0031
+81883,client,First Contentful Paint,2020-01-11 02:53:01.086,track,anon0031
+81884,client,App Timing Metric,2020-01-11 02:53:01.093,track,anon0031
+81885,client,Page Call Duplicated,2020-01-11 02:53:01.101,track,anon0031
+81886,client,App Timing Metric,2020-01-11 02:53:01.465,track,anon0031
+81887,client,First Input Delay,2020-01-11 02:53:02.398,track,anon0031
+81888,client,App Timing Metric,2020-01-11 02:53:03.925,track,anon0031
+81889,client,Side Nav Clicked,2020-01-11 02:53:04.231,track,anon0031
+81890,client,Side Nav Clicked generic30,2020-01-11 02:53:04.247,track,anon0031
+81891,client,App Timing Metric,2020-01-11 02:53:07.923,track,anon0031
+81892,client,Catalog Sidebar Searched,2020-01-11 02:53:10.621,track,anon0031
+81893,server,Tracking Plan Saved,2020-01-11 02:53:11.041,track,anon0154
+81894,client,Clicked Catalog Integration,2020-01-11 02:53:13.987,track,anon0031
+81895,client,App Timing Metric,2020-01-11 02:53:14.892,track,anon0031
+81896,server,Tracking Plan Saved,2020-01-11 02:53:23.625,track,anon0154
+81897,server,Tracking Plan Saved,2020-01-11 02:53:31.931,track,anon0154
+81898,client,Catalog Category Clicked,2020-01-11 02:53:57.464,track,anon0031
+81899,client,Clicked Catalog View All,2020-01-11 02:53:57.490,track,anon0031
+81900,server,Tracking Plan Saved,2020-01-11 02:54:10.999,track,anon0154
+81901,client,Catalog Category Clicked,2020-01-11 02:54:15.312,track,anon0031
+81902,client,App Timing Metric,2020-01-11 02:54:15.639,track,anon0009
+81903,server,Tracking Plan Saved,2020-01-11 02:54:23.566,track,anon0154
+81904,client,Clicked Catalog Integration,2020-01-11 02:54:24.232,track,anon0031
+81905,client,Clicked Catalog Integration,2020-01-11 02:54:28.982,track,anon0031
+81906,client,App Timing Metric,2020-01-11 02:54:30.639,track,anon0031
+81907,server,Tracking Plan Saved,2020-01-11 02:54:31.414,track,anon0154
+81908,client,Debugger Call Clicked,2020-01-11 02:54:44.421,track,anon0158
+81909,server,Tracking Plan Saved,2020-01-11 02:55:10.939,track,anon0154
+81910,server,Tracking Plan Saved,2020-01-11 02:55:25.840,track,anon0154
+81911,server,Tracking Plan Saved,2020-01-11 02:55:33.123,track,anon0154
+81912,client,First Contentful Paint,2020-01-11 02:55:38.463,track,anon0044
+81913,client,App Timing Metric,2020-01-11 02:55:45.627,track,anon0009
+81914,server,Tracking Plan Saved,2020-01-11 02:56:11.120,track,anon0154
+81915,client,App Timing Metric,2020-01-11 02:56:15.021,track,anon0049
+81916,client,First Paint,2020-01-11 02:56:15.672,track,anon0049
+81917,client,First Contentful Paint,2020-01-11 02:56:15.698,track,anon0049
+81918,client,Side Nav Clicked,2020-01-11 02:56:19.084,track,anon0049
+81919,client,Side Nav Clicked Settings,2020-01-11 02:56:19.116,track,anon0049
+81920,client,Side Nav Clicked,2020-01-11 02:56:19.250,track,anon0049
+81921,client,Side Nav Clicked Settings,2020-01-11 02:56:19.285,track,anon0049
+81922,client,First Input Delay,2020-01-11 02:56:19.489,track,anon0049
+81923,client,App Timing Metric,2020-01-11 02:56:20.230,track,anon0049
+81924,client,App Timing Metric,2020-01-11 02:56:20.537,track,anon0049
+81925,client,User Settings Detail Form Edited,2020-01-11 02:56:21.334,track,anon0049
+81926,client,User Settings Detail Form Edited,2020-01-11 02:56:21.392,track,anon0049
+81927,client,User Settings Detail Form Edited,2020-01-11 02:56:21.519,track,anon0049
+81928,server,Tracking Plan Saved,2020-01-11 02:56:23.057,track,anon0154
+81929,server,Tracking Plan Saved,2020-01-11 02:56:29.887,track,anon0154
+81930,client,First Contentful Paint,2020-01-11 02:56:42.446,track,
+81931,client,App Timing Metric,2020-01-11 02:56:42.447,track,
+81932,client,First Contentful Paint,2020-01-11 02:56:43.022,track,
+81933,client,First Contentful Paint,2020-01-11 02:56:43.451,track,
+81934,client,First Contentful Paint,2020-01-11 02:56:43.617,track,
+81935,client,App Timing Metric,2020-01-11 02:56:44.705,track,
+81936,client,First Contentful Paint,2020-01-11 02:56:44.706,track,
+81937,client,Signup Page Viewed,2020-01-11 02:56:50.225,track,
+81938,client,Signup Page Viewed,2020-01-11 02:56:50.363,track,
+81939,client,Signup Page Viewed,2020-01-11 02:56:50.442,track,
+81940,client,First Input Delay,2020-01-11 02:56:50.614,track,
+81941,client,First Input Delay,2020-01-11 02:56:50.653,track,
+81942,client,Signup Page Viewed,2020-01-11 02:56:50.761,track,
+81943,client,First Input Delay,2020-01-11 02:56:50.805,track,
+81944,client,First Input Delay,2020-01-11 02:56:50.848,track,
+81945,client,Signup Page Viewed,2020-01-11 02:56:52.193,track,
+81946,client,First Input Delay,2020-01-11 02:56:52.492,track,
+81947,client,Signup Page Viewed,2020-01-11 02:57:00.138,track,anon0078
+81948,server,Tracking Plan Saved,2020-01-11 02:57:11.317,track,anon0154
+81949,client,App Timing Metric,2020-01-11 02:57:15.618,track,anon0009
+81950,server,Tracking Plan Saved,2020-01-11 02:57:23.843,track,anon0154
+81951,server,Tracking Plan Saved,2020-01-11 02:57:31.986,track,anon0154
+81952,client,Debugger Call Clicked,2020-01-11 02:57:34.309,track,anon0169
+81953,client,Debugger Call Clicked,2020-01-11 02:57:34.971,track,anon0169
+81954,client,App Timing Metric,2020-01-11 02:57:59.708,track,anon0019
+81955,client,App Timing Metric,2020-01-11 02:57:59.715,track,anon0019
+81956,client,App Timing Metric,2020-01-11 02:57:59.716,track,anon0019
+81957,server,Startup Deal Requested,2020-01-11 02:58:06.795,track,anon0073
+81958,server,Tracking Plan Saved,2020-01-11 02:58:10.899,track,anon0154
+81959,server,Tracking Plan Saved,2020-01-11 02:58:23.356,track,anon0154
+81960,server,Tracking Plan Saved,2020-01-11 02:58:33.944,track,anon0154
+81961,server,Tracking Plan Connection Changed,2020-01-11 02:58:34.850,track,anon0154
+81962,server,Tracking Plan Saved,2020-01-11 02:58:35.916,track,anon0154
+81963,client,App Timing Metric,2020-01-11 02:58:45.619,track,anon0009
+81964,server,Password Submitted,2020-01-11 02:58:51.316,track,anon0065
+81965,client,First Input Delay,2020-01-11 02:59:06.893,track,anon0177
+81966,server,Tracking Plan Saved,2020-01-11 02:59:11.453,track,anon0154
+81967,client,First Paint,2020-01-11 02:59:20.151,track,
+81968,client,First Contentful Paint,2020-01-11 02:59:20.156,track,
+81969,client,App Timing Metric,2020-01-11 02:59:20.160,track,
+81970,client,First Input Delay,2020-01-11 02:59:23.673,track,
+81971,server,generic0120 Run Failed,2020-01-11 02:59:36.843,track,anon0093
+81972,client,User Settings Detail Form Edited,2020-01-11 02:59:41.532,track,anon0045
+81973,client,User Settings Detail Form Edited,2020-01-11 02:59:41.535,track,anon0045
+81974,client,User Settings Detail Form Edited,2020-01-11 02:59:41.536,track,anon0045
+81975,client,User Settings Detail Form Edited,2020-01-11 02:59:42.401,track,anon0045
+81976,client,generic01 Explorer Searched,2020-01-11 02:59:43.027,track,anon0045
+81977,client,generic01 Profile Viewed,2020-01-11 02:59:44.427,track,anon0045
+81978,client,App Timing Metric,2020-01-11 02:59:44.593,track,anon0045
+81979,client,generic01 Profile Tab Viewed,2020-01-11 02:59:45.114,track,anon0045
+81980,client,First Contentful Paint,2020-01-11 02:59:53.796,track,
+81981,client,App Timing Metric,2020-01-11 02:59:53.834,track,
+81982,server,Tracking Plan Saved,2020-01-11 02:59:59.336,track,anon0154
+81983,client,JavaScript Error,2020-01-11 03:00:04.172,track,
+81984,server,Tracking Plan Saved,2020-01-11 03:00:04.638,track,anon0154
+81985,client,generic01 Profile Viewed,2020-01-11 03:00:07.442,track,anon0045
+81986,client,generic01 Profile Tab Viewed,2020-01-11 03:00:08.923,track,anon0045
+81987,server,Tracking Plan Saved,2020-01-11 03:00:10.969,track,anon0154
+81988,server,Tracking Plan Saved,2020-01-11 03:00:11.032,track,anon0154
+81989,server,Tracking Plan Connection Changed,2020-01-11 03:00:11.893,track,anon0154
+81990,client,First Contentful Paint,2020-01-11 03:00:11.997,track,anon0109
+81991,client,App Timing Metric,2020-01-11 03:00:12.245,track,anon0109
+81992,client,App Timing Metric,2020-01-11 03:00:15.620,track,anon0009
+81993,client,View generic2325 Clicked,2020-01-11 03:00:20.270,track,anon0109
+81994,client,App Timing Metric,2020-01-11 03:00:20.951,track,anon0109
+81995,server,Tracking Plan Saved,2020-01-11 03:00:24.982,track,anon0154
+81996,server,Tracking Plan Saved,2020-01-11 03:00:37.418,track,anon0154
+81997,server,generic0120 Run Failed,2020-01-11 03:00:38.823,track,anon0067
+81998,server,Tracking Plan Saved,2020-01-11 03:01:10.896,track,anon0154
+81999,client,Email Captured,2020-01-11 03:01:15.777,track,anon0078
+82000,client,User Settings Detail Form Edited,2020-01-11 03:01:21.767,track,anon0078
+82001,client,Lead Captured,2020-01-11 03:01:21.781,track,anon0078
+82002,server,generic27 Created,2020-01-11 03:01:22.471,track,anon0161
+82003,server,Signup Completed,2020-01-11 03:01:22.791,track,anon0161
+82004,server,Tracking Plan Saved,2020-01-11 03:01:22.839,track,anon0154
+82005,client,User Signed Up,2020-01-11 03:01:23.179,track,anon0161
+82006,client,Signup Next Clicked,2020-01-11 03:01:23.231,track,anon0161
+82007,server,User Created,2020-01-11 03:01:23.339,track,anon0161
+82008,server,generic0120 Run Failed,2020-01-11 03:01:24.218,track,anon0119
+82009,server,generic0120 Run Failed,2020-01-11 03:01:27.042,track,anon0110
+82010,server,Tracking Plan Saved,2020-01-11 03:01:30.412,track,anon0154
+82011,client,First Contentful Paint,2020-01-11 03:01:33.591,track,anon0028
+82012,client,First Paint,2020-01-11 03:01:33.591,track,anon0028
+82013,client,Debugger Call Clicked,2020-01-11 03:01:38.114,track,anon0025
+82014,client,Debugger Call Clicked,2020-01-11 03:01:42.293,track,anon0025
+82015,client,Debugger Call Clicked,2020-01-11 03:01:44.056,track,anon0025
+82016,client,Debugger Call Clicked,2020-01-11 03:01:46.772,track,anon0025
+82017,client,Debugger Call Clicked,2020-01-11 03:01:47.518,track,anon0025
+82018,server,generic0120 Run Failed,2020-01-11 03:01:47.946,track,anon0060
+82019,client,Debugger Call Clicked,2020-01-11 03:01:49.007,track,anon0025
+82020,client,Debugger Call Clicked,2020-01-11 03:01:49.573,track,anon0025
+82021,client,User Settings Detail Form Edited,2020-01-11 03:01:59.568,track,anon0161
+82022,client,Signup Next Clicked,2020-01-11 03:01:59.592,track,anon0161
+82023,server,User Email Verification Succeeded,2020-01-11 03:02:10.191,track,anon0161
+82024,server,Tracking Plan Saved,2020-01-11 03:02:11.246,track,anon0154
+82025,client,App Timing Metric,2020-01-11 03:02:12.250,track,anon0161
+82026,client,First Paint,2020-01-11 03:02:14.311,track,anon0161
+82027,client,First Contentful Paint,2020-01-11 03:02:14.364,track,anon0161
+82028,client,First Input Delay,2020-01-11 03:02:15.651,track,anon0161
+82029,server,Password Submitted,2020-01-11 03:02:18.538,track,anon0065
+82030,client,User Logged In,2020-01-11 03:02:18.910,track,anon0161
+82031,client,First Paint,2020-01-11 03:02:21.764,track,anon0161
+82032,client,First Contentful Paint,2020-01-11 03:02:21.769,track,anon0161
+82033,client,App Timing Metric,2020-01-11 03:02:21.998,track,anon0161
+82034,client,First Input Delay,2020-01-11 03:02:22.167,track,anon0161
+82035,server,Tracking Plan Saved,2020-01-11 03:02:23.161,track,anon0154
+82036,client,First Paint,2020-01-11 03:02:31.500,track,anon0047
+82037,client,First Contentful Paint,2020-01-11 03:02:31.527,track,anon0047
+82038,client,App Timing Metric,2020-01-11 03:02:31.571,track,anon0047
+82039,server,Tracking Plan Saved,2020-01-11 03:02:33.160,track,anon0154
+82040,client,Side Nav Clicked,2020-01-11 03:02:34.131,track,anon0161
+82041,client,App Timing Metric,2020-01-11 03:02:34.300,track,anon0018
+82042,client,App Timing Metric,2020-01-11 03:02:34.828,track,anon0161
+82043,client,User Logged In,2020-01-11 03:02:34.848,track,anon0047
+82044,client,First Input Delay,2020-01-11 03:02:35.256,track,anon0047
+82045,client,Side Nav Clicked,2020-01-11 03:02:38.249,track,anon0161
+82046,client,Side Nav Clicked Catalog,2020-01-11 03:02:38.293,track,anon0161
+82047,client,App Timing Metric,2020-01-11 03:02:39.715,track,anon0161
+82048,client,Debugger Call Clicked,2020-01-11 03:02:41.111,track,anon0033
+82049,client,Side Nav Clicked,2020-01-11 03:02:58.276,track,anon0161
+82050,client,Side Nav Clicked Settings,2020-01-11 03:02:58.291,track,anon0161
+82051,client,User Settings Detail Form Edited,2020-01-11 03:03:08.016,track,anon0045
+82052,client,User Settings Detail Form Edited,2020-01-11 03:03:08.016,track,anon0045
+82053,client,User Settings Detail Form Edited,2020-01-11 03:03:08.017,track,anon0045
+82054,client,Side Nav Clicked,2020-01-11 03:03:09.005,track,anon0161
+82055,client,User Settings Detail Form Edited,2020-01-11 03:03:09.007,track,anon0045
+82056,client,Side Nav Clicked generic04,2020-01-11 03:03:09.010,track,anon0161
+82057,client,generic01 Explorer Searched,2020-01-11 03:03:09.574,track,anon0045
+82058,client,generic01 Profile Viewed,2020-01-11 03:03:11.277,track,anon0045
+82059,client,App Timing Metric,2020-01-11 03:03:11.404,track,anon0045
+82060,server,Tracking Plan Saved,2020-01-11 03:03:11.455,track,anon0154
+82061,client,Side Nav Clicked,2020-01-11 03:03:15.280,track,anon0161
+82062,client,Side Nav Clicked generic30,2020-01-11 03:03:15.295,track,anon0161
+82063,server,Tracking Plan Saved,2020-01-11 03:03:17.079,track,anon0154
+82064,server,Password Submitted,2020-01-11 03:03:18.096,track,anon0065
+82065,server,Tracking Plan Connection Changed,2020-01-11 03:03:18.265,track,anon0154
+82066,client,First Paint,2020-01-11 03:03:19.449,track,anon0047
+82067,client,First Contentful Paint,2020-01-11 03:03:19.472,track,anon0047
+82068,client,App Timing Metric,2020-01-11 03:03:19.501,track,anon0047
+82069,server,Tracking Plan Saved,2020-01-11 03:03:23.734,track,anon0154
+82070,client,Clicked Catalog Integration,2020-01-11 03:03:24.327,track,anon0161
+82071,client,App Timing Metric,2020-01-11 03:03:25.160,track,anon0161
+82072,server,Tracking Plan Saved,2020-01-11 03:03:32.013,track,anon0154
+82073,client,First Input Delay,2020-01-11 03:03:34.071,track,anon0047
+82074,client,App Timing Metric,2020-01-11 03:03:34.986,track,anon0047
+82075,client,Clicked Catalog Integration,2020-01-11 03:03:42.156,track,anon0161
+82076,server,generic23 Created,2020-01-11 03:03:47.985,track,anon0161
+82077,client,First Paint,2020-01-11 03:03:49.856,track,anon0161
+82078,client,First Contentful Paint,2020-01-11 03:03:49.877,track,anon0161
+82079,client,App Timing Metric,2020-01-11 03:03:50.139,track,anon0161
+82080,client,Side Nav Clicked,2020-01-11 03:03:53.715,track,anon0161
+82081,client,First Input Delay,2020-01-11 03:03:53.731,track,anon0161
+82082,client,Side Nav Clicked generic30,2020-01-11 03:03:53.732,track,anon0161
+82083,client,Side Nav Clicked,2020-01-11 03:03:54.618,track,anon0161
+82084,client,Side Nav Clicked generic04,2020-01-11 03:03:54.715,track,anon0161
+82085,client,generic23 Overview Link Clicked,2020-01-11 03:03:58.780,track,anon0161
+82086,client,Clicked Catalog Integration,2020-01-11 03:04:02.423,track,anon0161
+82087,client,Clicked Configure generic32,2020-01-11 03:04:04.358,track,anon0161
+82088,client,Side Nav Clicked,2020-01-11 03:04:05.126,track,anon0047
+82089,client,Side Nav Clicked Settings,2020-01-11 03:04:05.160,track,anon0047
+82090,client,App Timing Metric,2020-01-11 03:04:05.336,track,anon0161
+82091,client,App Timing Metric,2020-01-11 03:04:05.945,track,anon0047
+82092,client,Viewed Integration,2020-01-11 03:04:06.370,track,anon0161
+82093,client,Side Nav Clicked,2020-01-11 03:04:08.669,track,anon0047
+82094,client,Side Nav Clicked generic30,2020-01-11 03:04:08.694,track,anon0047
+82095,server,Tracking Plan Saved,2020-01-11 03:04:10.955,track,anon0154
+82096,client,Side Nav Clicked,2020-01-11 03:04:12.645,track,anon0047
+82097,client,Side Nav Clicked generic04,2020-01-11 03:04:12.664,track,anon0047
+82098,client,App Timing Metric,2020-01-11 03:04:13.935,track,anon0140
+82099,client,App Timing Metric,2020-01-11 03:04:13.936,track,anon0140
+82100,client,App Timing Metric,2020-01-11 03:04:16.248,track,anon0047
+82101,client,App Timing Metric,2020-01-11 03:04:16.657,track,anon0047
+82102,client,View generic2325 Clicked,2020-01-11 03:04:19.679,track,anon0047
+82103,client,App Timing Metric,2020-01-11 03:04:21.581,track,anon0047
+82104,server,Tracking Plan Saved,2020-01-11 03:04:24.245,track,anon0154
+82105,client,generic32 Credentials Added,2020-01-11 03:04:29.650,track,anon0161
+82106,server,Tracking Plan Saved,2020-01-11 03:04:34.349,track,anon0154
+82107,client,generic32 Credentials Added,2020-01-11 03:04:38.533,track,anon0161
+82108,client,Side Nav Clicked,2020-01-11 03:04:49.675,track,anon0161
+82109,client,Side Nav Clicked Overview,2020-01-11 03:04:49.676,track,anon0161
+82110,client,App Timing Metric,2020-01-11 03:04:51.428,track,anon0161
+82111,server,Tracking Plan Saved,2020-01-11 03:05:10.942,track,anon0154
+82112,client,First Contentful Paint,2020-01-11 03:05:11.545,track,anon0035
+82113,client,App Timing Metric,2020-01-11 03:05:11.598,track,anon0156
+82114,client,App Timing Metric,2020-01-11 03:05:11.635,track,anon0035
+82115,client,First Paint,2020-01-11 03:05:11.636,track,anon0035
+82116,client,App Timing Metric,2020-01-11 03:05:11.782,track,anon0156
+82117,client,Notification Banner Shown,2020-01-11 03:05:11.784,track,anon0156
+82118,client,App Timing Metric,2020-01-11 03:05:13.312,track,anon0035
+82119,client,App Timing Metric,2020-01-11 03:05:13.344,track,anon0035
+82120,client,First Input Delay,2020-01-11 03:05:14.832,track,anon0035
+82121,client,Debugger Searched,2020-01-11 03:05:17.801,track,anon0035
+82122,client,Side Nav Clicked,2020-01-11 03:05:21.462,track,anon0122
+82123,client,Side Nav Clicked generic04,2020-01-11 03:05:21.463,track,anon0122
+82124,client,Debugger Call Clicked,2020-01-11 03:05:21.743,track,anon0035
+82125,server,Tracking Plan Saved,2020-01-11 03:05:23.159,track,anon0154
+82126,client,Debugger Call Clicked,2020-01-11 03:05:23.674,track,anon0035
+82127,client,Debugger Call Clicked,2020-01-11 03:05:25.369,track,anon0035
+82128,client,generic29 Nav Link Clicked,2020-01-11 03:05:25.858,track,anon0122
+82129,client,Debugger Call Clicked,2020-01-11 03:05:26.692,track,anon0035
+82130,client,Debugger Call Clicked,2020-01-11 03:05:29.157,track,anon0035
+82131,server,Tracking Plan Saved,2020-01-11 03:05:30.052,track,anon0154
+82132,client,Debugger Call Clicked,2020-01-11 03:05:30.331,track,anon0035
+82133,client,Debugger Call Clicked,2020-01-11 03:05:31.144,track,anon0122
+82134,client,Debugger Call Clicked,2020-01-11 03:05:36.525,track,anon0035
+82135,client,First Paint,2020-01-11 03:05:44.207,track,anon0122
+82136,client,First Contentful Paint,2020-01-11 03:05:44.244,track,anon0122
+82137,client,First Input Delay,2020-01-11 03:05:52.537,track,anon0122
+82138,client,App Timing Metric,2020-01-11 03:05:53.003,track,anon0122
+82139,client,Viewed Integration,2020-01-11 03:05:53.258,track,anon0122
+82140,client,App Timing Metric,2020-01-11 03:05:57.295,track,anon0122
+82141,server,Tracking Plan Saved,2020-01-11 03:06:10.929,track,anon0154
+82142,client,generic08 Error,2020-01-11 03:06:14.097,track,anon0122
+82143,client,generic32 Simulator Event Sent,2020-01-11 03:06:14.143,track,anon0122
+82144,client,App Timing Metric,2020-01-11 03:06:15.632,track,anon0009
+82145,client,generic29 Nav Link Clicked,2020-01-11 03:06:17.829,track,anon0047
+82146,server,Tracking Plan Saved,2020-01-11 03:06:23.314,track,anon0154
+82147,server,Tracking Plan Saved,2020-01-11 03:06:30.695,track,anon0154
+82148,server,Tracking Plan Saved,2020-01-11 03:07:10.904,track,anon0154
+82149,server,Tracking Plan Saved,2020-01-11 03:07:22.622,track,anon0154
+82150,client,App Timing Metric,2020-01-11 03:07:45.640,track,anon0009
+82151,server,Tracking Plan Saved,2020-01-11 03:07:55.769,track,anon0154
+82152,server,Tracking Plan Saved,2020-01-11 03:08:11.068,track,anon0154
+82153,server,generic0120 Run Failed,2020-01-11 03:08:13.475,track,anon0048
+82154,server,Tracking Plan Saved,2020-01-11 03:08:22.990,track,anon0154
+82155,client,generic29 Nav Link Clicked,2020-01-11 03:08:25.518,track,anon0049
+82156,client,First Paint,2020-01-11 03:08:26.825,track,anon0049
+82157,client,First Contentful Paint,2020-01-11 03:08:26.837,track,anon0049
+82158,client,App Timing Metric,2020-01-11 03:08:27.970,track,anon0049
+82159,client,First Input Delay,2020-01-11 03:08:28.819,track,anon0049
+82160,client,App Timing Metric,2020-01-11 03:08:29.784,track,anon0049
+82161,server,Tracking Plan Saved,2020-01-11 03:08:29.995,track,anon0154
+82162,server,Password Submitted,2020-01-11 03:08:57.729,track,anon0065
+82163,server,Tracking Plan Saved,2020-01-11 03:09:10.932,track,anon0154
+82164,server,Tracking Plan Saved,2020-01-11 03:09:23.283,track,anon0154
+82165,client,App Timing Metric,2020-01-11 03:09:24.553,track,anon0129
+82166,client,App Timing Metric,2020-01-11 03:09:24.616,track,anon0129
+82167,client,generic32 Simulator Event Sent,2020-01-11 03:09:30.568,track,anon0122
+82168,client,generic08 Error,2020-01-11 03:09:30.568,track,anon0122
+82169,server,Tracking Plan Saved,2020-01-11 03:09:31.834,track,anon0154
+82170,client,First Contentful Paint,2020-01-11 03:09:42.179,track,anon0004
+82171,client,First Paint,2020-01-11 03:09:42.179,track,anon0004
+82172,client,First Input Delay,2020-01-11 03:09:43.151,track,anon0004
+82173,client,User Logged In,2020-01-11 03:09:58.607,track,anon0004
+82174,server,Password Submitted,2020-01-11 03:09:58.608,track,anon0065
+82175,server,Tracking Plan Saved,2020-01-11 03:09:58.976,track,anon0154
+82176,client,First Paint,2020-01-11 03:09:59.529,track,anon0004
+82177,client,First Contentful Paint,2020-01-11 03:09:59.543,track,anon0004
+82178,client,App Timing Metric,2020-01-11 03:09:59.554,track,anon0004
+82179,server,Tracking Plan Connection Changed,2020-01-11 03:09:59.983,track,anon0154
+82180,client,First Input Delay,2020-01-11 03:10:03.389,track,anon0004
+82181,client,generic06 Clicked,2020-01-11 03:10:03.437,track,anon0004
+82182,client,generic06 Sidesheet Closed,2020-01-11 03:10:05.655,track,anon0004
+82183,client,App Timing Metric,2020-01-11 03:10:08.236,track,anon0004
+82184,client,App Timing Metric,2020-01-11 03:10:09.068,track,anon0004
+82185,server,generic0120 Run Failed,2020-01-11 03:10:10.031,track,anon0081
+82186,server,Tracking Plan Saved,2020-01-11 03:10:10.947,track,anon0154
+82187,client,App Timing Metric,2020-01-11 03:10:18.010,track,anon0004
+82188,client,generic29 Nav Link Clicked,2020-01-11 03:10:21.388,track,anon0004
+82189,client,User Settings Detail Form Edited,2020-01-11 03:10:23.992,track,anon0004
+82190,client,generic23 Delete Clicked,2020-01-11 03:10:24.023,track,anon0004
+82191,server,Tracking Plan Saved,2020-01-11 03:10:25.206,track,anon0154
+82192,server,generic23 Deleted,2020-01-11 03:10:25.539,track,anon0004
+82193,client,Viewed Integration,2020-01-11 03:10:28.905,track,anon0122
+82194,client,Side Nav Clicked,2020-01-11 03:10:29.067,track,anon0004
+82195,client,Side Nav Clicked generic04,2020-01-11 03:10:29.084,track,anon0004
+82196,server,Tracking Plan Saved,2020-01-11 03:10:32.044,track,anon0154
+82197,client,Side Nav Clicked,2020-01-11 03:10:32.867,track,anon0122
+82198,client,Side Nav Clicked generic04,2020-01-11 03:10:32.873,track,anon0122
+82199,client,App Timing Metric,2020-01-11 03:10:34.982,track,anon0122
+82200,client,App Timing Metric,2020-01-11 03:10:35.245,track,anon0122
+82201,server,generic0120 Run Failed,2020-01-11 03:10:54.671,track,anon0131
+82202,server,Tracking Plan Saved,2020-01-11 03:11:10.871,track,anon0154
+82203,server,Tracking Plan Saved,2020-01-11 03:11:25.764,track,anon0154
+82204,server,Tracking Plan Saved,2020-01-11 03:11:32.493,track,anon0154
+82205,client,First Contentful Paint,2020-01-11 03:11:42.614,track,
+82206,client,App Timing Metric,2020-01-11 03:11:42.614,track,
+82207,client,First Contentful Paint,2020-01-11 03:11:43.257,track,
+82208,client,App Timing Metric,2020-01-11 03:11:43.415,track,
+82209,client,First Contentful Paint,2020-01-11 03:11:43.416,track,
+82210,client,App Timing Metric,2020-01-11 03:11:43.803,track,
+82211,client,First Contentful Paint,2020-01-11 03:11:43.803,track,
+82212,client,First Contentful Paint,2020-01-11 03:11:45.185,track,
+82213,client,First Input Delay,2020-01-11 03:11:50.140,track,
+82214,client,First Input Delay,2020-01-11 03:11:50.157,track,
+82215,client,Signup Page Viewed,2020-01-11 03:11:50.227,track,
+82216,client,Signup Page Viewed,2020-01-11 03:11:50.228,track,
+82217,client,Signup Page Viewed,2020-01-11 03:11:50.255,track,
+82218,client,First Input Delay,2020-01-11 03:11:50.529,track,
+82219,client,Signup Page Viewed,2020-01-11 03:11:50.759,track,
+82220,client,First Input Delay,2020-01-11 03:11:50.834,track,
+82221,client,First Input Delay,2020-01-11 03:11:52.179,track,
+82222,client,Signup Page Viewed,2020-01-11 03:11:52.257,track,
+82223,server,Tracking Plan Saved,2020-01-11 03:12:10.905,track,anon0154
+82224,client,Side Nav Clicked,2020-01-11 03:12:23.465,track,anon0122
+82225,client,Side Nav Clicked generic01,2020-01-11 03:12:23.468,track,anon0122
+82226,client,App Timing Metric,2020-01-11 03:12:23.883,track,anon0122
+82227,server,Tracking Plan Saved,2020-01-11 03:12:24.104,track,anon0154
+82228,client,App Timing Metric,2020-01-11 03:12:25.685,track,anon0122
+82229,client,Side Nav Clicked,2020-01-11 03:12:29.536,track,anon0122
+82230,client,Side Nav Clicked generic04,2020-01-11 03:12:29.556,track,anon0122
+82231,server,Tracking Plan Saved,2020-01-11 03:12:31.444,track,anon0154
+82232,server,Tracking Plan Saved,2020-01-11 03:13:10.934,track,anon0154
+82233,server,Tracking Plan Saved,2020-01-11 03:13:22.639,track,anon0154
+82234,client,App Timing Metric,2020-01-11 03:13:27.675,track,anon0004
+82235,server,Tracking Plan Saved,2020-01-11 03:13:29.847,track,anon0154
+82236,client,generic29 Nav Link Clicked,2020-01-11 03:13:33.815,track,anon0004
+82237,client,User Settings Detail Form Edited,2020-01-11 03:13:35.236,track,anon0004
+82238,client,generic23 Delete Clicked,2020-01-11 03:13:35.266,track,anon0004
+82239,server,generic23 Deleted,2020-01-11 03:13:36.241,track,anon0004
+82240,client,First Paint,2020-01-11 03:13:43.144,track,anon0004
+82241,client,First Contentful Paint,2020-01-11 03:13:43.156,track,anon0004
+82242,client,App Timing Metric,2020-01-11 03:13:45.692,track,anon0009
+82243,client,First Contentful Paint,2020-01-11 03:14:05.974,track,anon0012
+82244,client,Page Call Duplicated,2020-01-11 03:14:05.980,track,anon0012
+82245,client,App Timing Metric,2020-01-11 03:14:06.274,track,anon0012
+82246,client,First Input Delay,2020-01-11 03:14:07.292,track,anon0012
+82247,client,Side Nav Clicked,2020-01-11 03:14:10.935,track,anon0012
+82248,client,Side Nav Clicked generic30,2020-01-11 03:14:10.941,track,anon0012
+82249,server,Tracking Plan Saved,2020-01-11 03:14:10.952,track,anon0154
+82250,server,Tracking Plan Saved,2020-01-11 03:14:23.298,track,anon0154
+82251,server,Tracking Plan Saved,2020-01-11 03:14:27.949,track,anon0154
+82252,server,Tracking Plan Connection Changed,2020-01-11 03:14:28.860,track,anon0154
+82253,client,Catalog Category Clicked,2020-01-11 03:14:29.435,track,anon0012
+82254,server,Tracking Plan Saved,2020-01-11 03:14:32.565,track,anon0154
+82255,client,Notification Banner Shown,2020-01-11 03:14:34.722,track,anon0055
+82256,client,App Timing Metric,2020-01-11 03:14:35.086,track,anon0055
+82257,client,First Paint,2020-01-11 03:14:46.255,track,anon0084
+82258,client,First Contentful Paint,2020-01-11 03:14:46.255,track,anon0084
+82259,client,Clicked Catalog Integration,2020-01-11 03:14:47.482,track,anon0012
+82260,client,App Timing Metric,2020-01-11 03:14:47.823,track,anon0084
+82261,client,App Timing Metric,2020-01-11 03:14:48.305,track,anon0012
+82262,client,App Timing Metric,2020-01-11 03:14:55.563,track,anon0084
+82263,client,App Timing Metric,2020-01-11 03:14:55.563,track,anon0084
+82264,client,First Paint,2020-01-11 03:15:02.694,track,anon0139
+82265,client,First Contentful Paint,2020-01-11 03:15:02.699,track,anon0139
+82266,client,First Input Delay,2020-01-11 03:15:05.436,track,anon0139
+82267,client,App Timing Metric,2020-01-11 03:15:08.067,track,anon0142
+82268,server,Tracking Plan Saved,2020-01-11 03:15:10.929,track,anon0154
+82269,server,Tracking Plan Saved,2020-01-11 03:15:11.038,track,anon0154
+82270,client,User Logged In,2020-01-11 03:15:11.572,track,anon0139
+82271,server,Tracking Plan Connection Changed,2020-01-11 03:15:11.985,track,anon0154
+82272,server,Tracking Plan Saved,2020-01-11 03:15:28.099,track,anon0154
+82273,client,Side Nav Clicked,2020-01-11 03:15:32.813,track,anon0029
+82274,client,Side Nav Clicked generic30,2020-01-11 03:15:32.826,track,anon0029
+82275,client,Side Nav Clicked,2020-01-11 03:15:33.494,track,anon0029
+82276,client,Side Nav Clicked generic04,2020-01-11 03:15:33.518,track,anon0029
+82277,server,Tracking Plan Saved,2020-01-11 03:15:35.017,track,anon0154
+82278,server,Password Submitted,2020-01-11 03:15:41.696,track,anon0065
+82279,client,Side Nav Clicked,2020-01-11 03:15:42.747,track,anon0029
+82280,client,Side Nav Clicked Overview,2020-01-11 03:15:42.772,track,anon0029
+82281,client,App Timing Metric,2020-01-11 03:15:43.658,track,anon0029
+82282,client,First Contentful Paint,2020-01-11 03:15:43.906,track,anon0139
+82283,client,First Paint,2020-01-11 03:15:44.664,track,anon0139
+82284,client,App Timing Metric,2020-01-11 03:15:45.072,track,anon0139
+82285,client,App Timing Metric,2020-01-11 03:15:46.191,track,anon0139
+82286,server,Tracking Plan Saved,2020-01-11 03:16:10.950,track,anon0154
+82287,client,First Input Delay,2020-01-11 03:16:25.211,track,anon0139
+82288,server,Tracking Plan Saved,2020-01-11 03:16:26.015,track,anon0154
+82289,client,Debugger Searched,2020-01-11 03:16:28.525,track,anon0139
+82290,client,Debugger Call Clicked,2020-01-11 03:16:29.193,track,anon0139
+82291,server,Tracking Plan Saved,2020-01-11 03:16:33.377,track,anon0154
+82292,client,App Timing Metric,2020-01-11 03:16:57.844,track,anon0049
+82293,client,First Paint,2020-01-11 03:16:57.875,track,anon0049
+82294,client,First Contentful Paint,2020-01-11 03:16:57.875,track,anon0049
+82295,client,App Timing Metric,2020-01-11 03:16:58.927,track,anon0049
+82296,client,Unread Notification Count Displayed,2020-01-11 03:16:59.395,track,anon0049
+82297,client,First Input Delay,2020-01-11 03:17:06.142,track,anon0049
+82298,server,Tracking Plan Saved,2020-01-11 03:17:10.973,track,anon0154
+82299,server,Tracking Plan Saved,2020-01-11 03:17:22.910,track,anon0154
+82300,client,App Timing Metric,2020-01-11 03:17:27.364,track,anon0049
+82301,client,First Paint,2020-01-11 03:17:27.379,track,anon0049
+82302,client,First Contentful Paint,2020-01-11 03:17:27.405,track,anon0049
+82303,client,App Timing Metric,2020-01-11 03:17:28.509,track,anon0049
+82304,client,Unread Notification Count Displayed,2020-01-11 03:17:29.299,track,anon0049
+82305,client,App Timing Metric,2020-01-11 03:17:29.389,track,anon0049
+82306,server,Tracking Plan Saved,2020-01-11 03:17:30.382,track,anon0154
+82307,client,First Input Delay,2020-01-11 03:17:32.629,track,anon0049
+82308,server,generic0120 Run Failed,2020-01-11 03:18:01.219,track,anon0157
+82309,server,Tracking Plan Saved,2020-01-11 03:18:11.178,track,anon0154
+82310,client,Side Nav Clicked,2020-01-11 03:18:11.558,track,anon0113
+82311,client,Side Nav Clicked generic04,2020-01-11 03:18:11.575,track,anon0113
+82312,client,App Timing Metric,2020-01-11 03:18:15.673,track,anon0009
+82313,client,generic23 Overview Accordion Toggled,2020-01-11 03:18:19.614,track,anon0113
+82314,client,App Timing Metric,2020-01-11 03:18:25.421,track,anon0034
+82315,client,App Timing Metric,2020-01-11 03:18:25.422,track,anon0034
+82316,client,App Timing Metric,2020-01-11 03:18:25.523,track,anon0034
+82317,client,App Timing Metric,2020-01-11 03:18:25.523,track,anon0034
+82318,server,Tracking Plan Saved,2020-01-11 03:18:26.558,track,anon0154
+82319,client,App Timing Metric,2020-01-11 03:18:27.158,track,anon0113
+82320,client,App Timing Metric,2020-01-11 03:18:29.526,track,anon0139
+82321,client,User Settings Detail Form Edited,2020-01-11 03:18:31.020,track,anon0113
+82322,client,App Timing Metric,2020-01-11 03:18:32.885,track,anon0139
+82323,client,generic29 Nav Link Clicked,2020-01-11 03:18:36.340,track,anon0139
+82324,client,Side Nav Clicked,2020-01-11 03:18:36.648,track,anon0113
+82325,client,Side Nav Clicked generic04,2020-01-11 03:18:36.727,track,anon0113
+82326,server,Tracking Plan Saved,2020-01-11 03:18:37.612,track,anon0154
+82327,client,generic23 Overview Accordion Toggled,2020-01-11 03:18:40.189,track,anon0113
+82328,client,User Settings Detail Form Edited,2020-01-11 03:18:45.299,track,anon0113
+82329,client,generic23 Delete Clicked,2020-01-11 03:18:45.376,track,anon0113
+82330,server,generic23 Deleted,2020-01-11 03:18:46.832,track,anon0113
+82331,client,Side Nav Clicked,2020-01-11 03:18:50.086,track,anon0113
+82332,client,Side Nav Clicked generic04,2020-01-11 03:18:50.139,track,anon0113
+82333,client,Debugger Call Clicked,2020-01-11 03:18:55.898,track,anon0139
+82334,server,Password Submitted,2020-01-11 03:18:58.782,track,anon0065
+82335,client,Catalog Sidebar Searched,2020-01-11 03:18:58.830,track,anon0113
+82336,client,Clicked Catalog Integration,2020-01-11 03:19:00.034,track,anon0113
+82337,client,Page Call Duplicated,2020-01-11 03:19:07.090,track,anon0113
+82338,server,Tracking Plan Saved,2020-01-11 03:19:10.905,track,anon0154
+82339,server,generic23 Created,2020-01-11 03:19:13.092,track,anon0113
+82340,client,First Paint,2020-01-11 03:19:14.440,track,anon0113
+82341,client,First Contentful Paint,2020-01-11 03:19:14.463,track,anon0113
+82342,client,App Timing Metric,2020-01-11 03:19:14.472,track,anon0113
+82343,client,App Timing Metric,2020-01-11 03:19:14.930,track,anon0113
+82344,client,App Timing Metric,2020-01-11 03:19:15.418,track,anon0113
+82345,client,First Input Delay,2020-01-11 03:19:16.591,track,anon0113
+82346,client,First Contentful Paint,2020-01-11 03:19:17.875,track,anon0049
+82347,client,First Paint,2020-01-11 03:19:18.049,track,anon0049
+82348,client,App Timing Metric,2020-01-11 03:19:18.926,track,anon0049
+82349,client,App Timing Metric,2020-01-11 03:19:19.524,track,anon0049
+82350,client,Unread Notification Count Displayed,2020-01-11 03:19:19.847,track,anon0049
+82351,server,Tracking Plan Saved,2020-01-11 03:19:22.934,track,anon0154
+82352,client,First Input Delay,2020-01-11 03:19:25.237,track,anon0049
+82353,server,Tracking Plan Saved,2020-01-11 03:19:30.279,track,anon0154
+82354,client,First Paint,2020-01-11 03:19:35.499,track,anon0042
+82355,client,Signup Page Viewed,2020-01-11 03:19:35.816,track,anon0042
+82356,client,First Contentful Paint,2020-01-11 03:19:35.817,track,anon0042
+82357,client,App Timing Metric,2020-01-11 03:19:35.817,track,anon0042
+82358,client,First Paint,2020-01-11 03:19:56.044,track,anon0042
+82359,client,Signup Page Viewed,2020-01-11 03:19:56.352,track,anon0042
+82360,client,First Contentful Paint,2020-01-11 03:19:56.362,track,anon0042
+82361,server,Tracking Plan Saved,2020-01-11 03:20:11.283,track,anon0154
+82362,client,First Paint,2020-01-11 03:20:12.477,track,anon0137
+82363,client,First Contentful Paint,2020-01-11 03:20:12.477,track,anon0137
+82364,client,First Input Delay,2020-01-11 03:20:12.998,track,anon0137
+82365,server,Password Submitted,2020-01-11 03:20:13.599,track,anon0065
+82366,client,User Logged In,2020-01-11 03:20:13.793,track,anon0137
+82367,client,First Paint,2020-01-11 03:20:15.275,track,anon0137
+82368,client,First Contentful Paint,2020-01-11 03:20:15.299,track,anon0137
+82369,client,App Timing Metric,2020-01-11 03:20:15.331,track,anon0137
+82370,client,App Timing Metric,2020-01-11 03:20:16.809,track,anon0137
+82371,client,JavaScript Error,2020-01-11 03:20:21.610,track,anon0113
+82372,client,First Paint,2020-01-11 03:20:27.421,track,anon0171
+82373,client,First Contentful Paint,2020-01-11 03:20:27.428,track,anon0171
+82374,client,App Timing Metric,2020-01-11 03:20:27.439,track,anon0171
+82375,server,Tracking Plan Saved,2020-01-11 03:20:27.663,track,anon0154
+82376,client,App Timing Metric,2020-01-11 03:20:28.310,track,anon0137
+82377,client,First Input Delay,2020-01-11 03:20:28.692,track,anon0171
+82378,client,App Timing Metric,2020-01-11 03:20:28.918,track,anon0137
+82379,client,Side Nav Clicked,2020-01-11 03:20:32.842,track,anon0137
+82380,client,Side Nav Clicked Settings,2020-01-11 03:20:32.867,track,anon0137
+82381,client,App Timing Metric,2020-01-11 03:20:34.461,track,anon0137
+82382,server,Tracking Plan Saved,2020-01-11 03:20:34.727,track,anon0154
+82383,client,App Timing Metric,2020-01-11 03:20:37.584,track,anon0137
+82384,client,App Timing Metric,2020-01-11 03:20:39.832,track,anon0053
+82385,client,Side Nav Clicked,2020-01-11 03:20:41.044,track,anon0171
+82386,client,Side Nav Clicked Docs,2020-01-11 03:20:41.049,track,anon0171
+82387,client,Team Member Detail Viewed,2020-01-11 03:20:45.686,track,anon0137
+82388,client,Team Member Removed,2020-01-11 03:20:51.676,track,anon0137
+82389,server,Tracking Plan Saved,2020-01-11 03:20:54.328,track,anon0154
+82390,server,Tracking Plan Connection Changed,2020-01-11 03:20:55.276,track,anon0154
+82391,client,Team Member Detail Viewed,2020-01-11 03:20:57.247,track,anon0137
+82392,client,Debugger Call Clicked,2020-01-11 03:21:09.392,track,anon0025
+82393,client,Debugger Call Clicked,2020-01-11 03:21:10.543,track,anon0025
+82394,server,Tracking Plan Saved,2020-01-11 03:21:10.912,track,anon0154
+82395,client,Debugger Call Clicked,2020-01-11 03:21:13.118,track,anon0025
+82396,client,Debugger Call Clicked,2020-01-11 03:21:14.497,track,anon0025
+82397,client,App Timing Metric,2020-01-11 03:21:15.958,track,anon0009
+82398,client,Debugger Call Clicked,2020-01-11 03:21:17.755,track,anon0025
+82399,client,Debugger Call Clicked,2020-01-11 03:21:18.841,track,anon0025
+82400,client,Debugger Call Clicked,2020-01-11 03:21:19.905,track,anon0025
+82401,client,Debugger Call Clicked,2020-01-11 03:21:20.898,track,anon0025
+82402,server,Tracking Plan Saved,2020-01-11 03:21:23.234,track,anon0154
+82403,client,generic29 Nav Link Clicked,2020-01-11 03:21:25.086,track,anon0122
+82404,client,Debugger Call Clicked,2020-01-11 03:21:28.348,track,anon0122
+82405,client,Team Member Saved,2020-01-11 03:21:31.634,track,anon0137
+82406,server,Tracking Plan Saved,2020-01-11 03:21:33.515,track,anon0154
+82407,client,Side Nav Clicked,2020-01-11 03:21:33.852,track,anon0137
+82408,client,Side Nav Clicked generic04,2020-01-11 03:21:33.913,track,anon0137
+82409,client,App Timing Metric,2020-01-11 03:21:36.068,track,anon0137
+82410,client,Debugger Call Clicked,2020-01-11 03:21:36.141,track,anon0122
+82411,client,Debugger Call Clicked,2020-01-11 03:21:37.872,track,anon0122
+82412,client,Debugger Call Clicked,2020-01-11 03:21:38.755,track,anon0122
+82413,client,First Paint,2020-01-11 03:21:40.177,track,anon0137
+82414,client,First Contentful Paint,2020-01-11 03:21:40.218,track,anon0137
+82415,client,Debugger Call Clicked,2020-01-11 03:21:40.243,track,anon0122
+82416,client,Debugger Call Clicked,2020-01-11 03:21:41.223,track,anon0122
+82417,client,Debugger Call Clicked,2020-01-11 03:21:42.035,track,anon0122
+82418,client,Debugger Call Clicked,2020-01-11 03:21:43.595,track,anon0122
+82419,client,Debugger Call Clicked,2020-01-11 03:21:45.380,track,anon0122
+82420,client,Side Nav Clicked,2020-01-11 03:22:07.814,track,anon0122
+82421,client,Side Nav Clicked generic04,2020-01-11 03:22:07.837,track,anon0122
+82422,client,Side Nav Clicked,2020-01-11 03:22:09.317,track,anon0122
+82423,client,Side Nav Clicked generic30,2020-01-11 03:22:09.333,track,anon0122
+82424,server,Tracking Plan Saved,2020-01-11 03:22:11.142,track,anon0154
+82425,client,Viewed Integration,2020-01-11 03:22:11.647,track,anon0122
+82426,server,Tracking Plan Saved,2020-01-11 03:22:24.453,track,anon0154
+82427,client,First Paint,2020-01-11 03:22:26.234,track,anon0090
+82428,client,App Timing Metric,2020-01-11 03:22:26.435,track,anon0090
+82429,client,First Contentful Paint,2020-01-11 03:22:26.439,track,anon0090
+82430,client,Page Call Duplicated,2020-01-11 03:22:26.441,track,anon0090
+82431,client,App Timing Metric,2020-01-11 03:22:27.496,track,anon0090
+82432,client,generic08 Error,2020-01-11 03:22:27.571,track,anon0122
+82433,client,generic32 Simulator Event Sent,2020-01-11 03:22:27.602,track,anon0122
+82434,client,First Input Delay,2020-01-11 03:22:27.616,track,anon0090
+82435,client,App Timing Metric,2020-01-11 03:22:28.346,track,anon0090
+82436,server,Tracking Plan Saved,2020-01-11 03:22:32.638,track,anon0154
+82437,client,Side Nav Clicked,2020-01-11 03:22:33.887,track,anon0090
+82438,client,Side Nav Clicked,2020-01-11 03:22:34.077,track,anon0090
+82439,client,Side Nav Clicked generic04,2020-01-11 03:22:34.080,track,anon0090
+82440,client,generic29 Nav Link Clicked,2020-01-11 03:22:41.367,track,anon0090
+82441,client,generic23 Authorize Clicked,2020-01-11 03:22:43.334,track,anon0113
+82442,client,View generic2325 Clicked,2020-01-11 03:22:43.593,track,anon0090
+82443,client,generic29 Nav Link Clicked,2020-01-11 03:22:44.833,track,anon0090
+82444,client,App Timing Metric,2020-01-11 03:22:44.985,track,anon0090
+82445,client,Debugger Call Clicked,2020-01-11 03:22:46.982,track,anon0090
+82446,client,generic08 Error,2020-01-11 03:22:47.404,track,anon0122
+82447,client,generic32 Simulator Event Sent,2020-01-11 03:22:47.438,track,anon0122
+82448,client,Debugger Call Clicked,2020-01-11 03:22:48.158,track,anon0090
+82449,client,Debugger Call Clicked,2020-01-11 03:22:49.018,track,anon0090
+82450,client,Debugger Call Clicked,2020-01-11 03:22:49.691,track,anon0090
+82451,client,Debugger Call Clicked,2020-01-11 03:22:50.273,track,anon0090
+82452,client,User Settings Detail Form Edited,2020-01-11 03:22:52.586,track,anon0045
+82453,client,User Settings Detail Form Edited,2020-01-11 03:22:52.587,track,anon0045
+82454,client,User Settings Detail Form Edited,2020-01-11 03:22:52.587,track,anon0045
+82455,server,generic23 Enabled,2020-01-11 03:22:53.734,track,anon0113
+82456,client,User Settings Detail Form Edited,2020-01-11 03:22:54.089,track,anon0045
+82457,client,Page Call Duplicated,2020-01-11 03:22:54.647,track,anon0113
+82458,client,generic01 Explorer Searched,2020-01-11 03:22:54.665,track,anon0045
+82459,client,generic01 Profile Viewed,2020-01-11 03:22:55.799,track,anon0045
+82460,client,App Timing Metric,2020-01-11 03:22:55.953,track,anon0045
+82461,client,generic01 Profile Tab Viewed,2020-01-11 03:22:56.619,track,anon0045
+82462,client,Debugger Call Clicked,2020-01-11 03:22:58.478,track,anon0090
+82463,client,Side Nav Clicked,2020-01-11 03:23:00.835,track,anon0113
+82464,client,Side Nav Clicked generic30,2020-01-11 03:23:00.902,track,anon0113
+82465,client,Side Nav Clicked,2020-01-11 03:23:04.159,track,anon0137
+82466,client,Side Nav Clicked Settings,2020-01-11 03:23:04.237,track,anon0137
+82467,client,App Timing Metric,2020-01-11 03:23:05.054,track,anon0144
+82468,client,First Contentful Paint,2020-01-11 03:23:05.054,track,anon0144
+82469,client,First Paint,2020-01-11 03:23:05.054,track,anon0144
+82470,client,App Timing Metric,2020-01-11 03:23:05.552,track,anon0144
+82471,client,App Timing Metric,2020-01-11 03:23:05.635,track,anon0137
+82472,client,Side Nav Clicked,2020-01-11 03:23:06.149,track,anon0137
+82473,client,Side Nav Clicked generic04,2020-01-11 03:23:06.216,track,anon0137
+82474,client,App Timing Metric,2020-01-11 03:23:06.923,track,anon0137
+82475,client,App Timing Metric,2020-01-11 03:23:09.423,track,anon0090
+82476,client,App Timing Metric,2020-01-11 03:23:09.897,track,anon0137
+82477,client,Catalog Sidebar Searched,2020-01-11 03:23:10.340,track,anon0113
+82478,client,App Timing Metric,2020-01-11 03:23:10.793,track,anon0137
+82479,server,Tracking Plan Saved,2020-01-11 03:23:11.022,track,anon0154
+82480,client,Catalog Sidebar Searched,2020-01-11 03:23:14.259,track,anon0113
+82481,client,Clicked Catalog Integration,2020-01-11 03:23:14.351,track,anon0113
+82482,client,generic23 Overview Accordion Toggled,2020-01-11 03:23:17.326,track,anon0137
+82483,client,Clicked Configure generic32,2020-01-11 03:23:17.672,track,anon0113
+82484,client,generic29 Nav Link Clicked,2020-01-11 03:23:18.436,track,anon0137
+82485,client,App Timing Metric,2020-01-11 03:23:19.150,track,anon0044
+82486,client,App Timing Metric,2020-01-11 03:23:19.151,track,anon0044
+82487,client,App Timing Metric,2020-01-11 03:23:19.339,track,anon0044
+82488,client,View generic2325 Clicked,2020-01-11 03:23:21.476,track,anon0137
+82489,client,App Timing Metric,2020-01-11 03:23:23.128,track,anon0137
+82490,server,Tracking Plan Saved,2020-01-11 03:23:23.163,track,anon0154
+82491,client,App Timing Metric,2020-01-11 03:23:24.997,track,anon0113
+82492,client,Viewed Integration,2020-01-11 03:23:25.520,track,anon0113
+82493,client,App Timing Metric,2020-01-11 03:23:25.534,track,anon0113
+82494,client,App Timing Metric,2020-01-11 03:23:29.713,track,anon0137
+82495,client,App Timing Metric,2020-01-11 03:23:30.773,track,anon0137
+82496,server,Tracking Plan Saved,2020-01-11 03:23:33.835,track,anon0154
+82497,client,generic29 Nav Link Clicked,2020-01-11 03:23:38.109,track,anon0137
+82498,client,App Timing Metric,2020-01-11 03:23:38.901,track,
+82499,client,First Contentful Paint,2020-01-11 03:23:42.891,track,
+82500,client,App Timing Metric,2020-01-11 03:23:49.302,track,anon0137
+82501,client,App Timing Metric,2020-01-11 03:23:50.306,track,anon0137
+82502,client,generic32 Credentials Added,2020-01-11 03:23:58.765,track,anon0113
+82503,client,Run History Viewed,2020-01-11 03:24:01.688,track,anon0137
+82504,server,generic0120 Run Failed,2020-01-11 03:24:03.372,track,anon0063
+82505,client,Side Nav Clicked,2020-01-11 03:24:06.941,track,anon0137
+82506,client,Side Nav Clicked generic04,2020-01-11 03:24:07.009,track,anon0137
+82507,client,First Contentful Paint,2020-01-11 03:24:09.993,track,
+82508,client,Network Error,2020-01-11 03:24:11.063,track,
+82509,server,Tracking Plan Saved,2020-01-11 03:24:11.089,track,anon0154
+82510,client,generic32 Credentials Added,2020-01-11 03:24:13.867,track,anon0113
+82511,client,App Timing Metric,2020-01-11 03:24:15.762,track,anon0009
+82512,server,Censor generic32 Settings,2020-01-11 03:24:15.811,track,anon0113
+82513,server,Integration Enabled,2020-01-11 03:24:15.811,track,anon0113
+82514,client,First Contentful Paint,2020-01-11 03:24:17.078,track,
+82515,server,Tracking Plan Saved,2020-01-11 03:24:24.057,track,anon0154
+82516,client,generic32 Deliverability Viewed,2020-01-11 03:24:25.760,track,anon0113
+82517,client,App Timing Metric,2020-01-11 03:24:26.841,track,anon0113
+82518,server,Tracking Plan Saved,2020-01-11 03:24:31.251,track,anon0154
+82519,client,Side Nav Clicked,2020-01-11 03:24:33.831,track,anon0113
+82520,client,Checklist Item Expanded,2020-01-11 03:24:44.142,track,anon0113
+82521,client,App Timing Metric,2020-01-11 03:24:53.392,track,anon0032
+82522,client,generic32 Deliverability Viewed,2020-01-11 03:24:53.392,track,anon0032
+82523,client,App Timing Metric,2020-01-11 03:24:53.393,track,anon0032
+82524,client,App Timing Metric,2020-01-11 03:24:53.396,track,anon0032
+82525,client,User Settings Detail Form Edited,2020-01-11 03:25:03.599,track,anon0045
+82526,client,User Settings Detail Form Edited,2020-01-11 03:25:03.600,track,anon0045
+82527,client,User Settings Detail Form Edited,2020-01-11 03:25:03.600,track,anon0045
+82528,client,User Settings Detail Form Edited,2020-01-11 03:25:04.317,track,anon0045
+82529,client,First Contentful Paint,2020-01-11 03:25:04.795,track,anon0052
+82530,client,Page Call Duplicated,2020-01-11 03:25:04.837,track,anon0052
+82531,client,App Timing Metric,2020-01-11 03:25:04.837,track,anon0052
+82532,client,generic01 Explorer Searched,2020-01-11 03:25:04.928,track,anon0045
+82533,client,Checklist Item Expanded,2020-01-11 03:25:06.118,track,anon0113
+82534,client,generic01 Profile Viewed,2020-01-11 03:25:06.238,track,anon0045
+82535,client,First Input Delay,2020-01-11 03:25:06.282,track,anon0052
+82536,client,App Timing Metric,2020-01-11 03:25:06.512,track,anon0045
+82537,client,generic01 Profile Tab Viewed,2020-01-11 03:25:07.105,track,anon0045
+82538,server,Tracking Plan Saved,2020-01-11 03:25:10.883,track,anon0154
+82539,client,App Timing Metric,2020-01-11 03:25:12.651,track,anon0052
+82540,client,Side Nav Clicked,2020-01-11 03:25:13.452,track,anon0052
+82541,client,Side Nav Clicked generic04,2020-01-11 03:25:13.485,track,anon0052
+82542,client,Side Nav Clicked,2020-01-11 03:25:13.578,track,anon0113
+82543,client,Side Nav Clicked generic04,2020-01-11 03:25:13.638,track,anon0113
+82544,client,App Timing Metric,2020-01-11 03:25:19.291,track,anon0113
+82545,client,generic29 Nav Link Clicked,2020-01-11 03:25:19.344,track,anon0052
+82546,client,Debugger Call Clicked,2020-01-11 03:25:22.489,track,anon0052
+82547,server,Tracking Plan Saved,2020-01-11 03:25:22.879,track,anon0154
+82548,server,Tracking Plan Saved,2020-01-11 03:25:23.625,track,anon0154
+82549,server,Tracking Plan Connection Changed,2020-01-11 03:25:24.331,track,anon0154
+82550,client,Debugger Call Clicked,2020-01-11 03:25:24.504,track,anon0052
+82551,server,Tracking Plan Saved,2020-01-11 03:25:31.886,track,anon0154
+82552,client,Side Nav Clicked,2020-01-11 03:25:33.396,track,anon0113
+82553,client,generic01 Profile Events Loaded More,2020-01-11 03:25:39.961,track,anon0045
+82554,client,generic01 Profile Events Loaded More,2020-01-11 03:25:42.786,track,anon0045
+82555,client,generic01 Profile Events Loaded More,2020-01-11 03:25:45.099,track,anon0045
+82556,client,generic01 Profile Events Loaded More,2020-01-11 03:25:47.285,track,anon0045
+82557,client,generic01 Profile Events Loaded More,2020-01-11 03:25:50.190,track,anon0045
+82558,client,generic01 Profile Events Loaded More,2020-01-11 03:25:52.697,track,anon0045
+82559,client,generic01 Profile Events Loaded More,2020-01-11 03:25:55.367,track,anon0045
+82560,client,Side Nav Clicked,2020-01-11 03:25:58.388,track,anon0113
+82561,client,generic01 Profile Events Loaded More,2020-01-11 03:26:01.600,track,anon0045
+82562,client,Checklist Item Expanded,2020-01-11 03:26:02.569,track,anon0113
+82563,client,generic01 Profile Events Loaded More,2020-01-11 03:26:04.629,track,anon0045
+82564,server,Tracking Plan Saved,2020-01-11 03:26:11.275,track,anon0154
+82565,client,First Contentful Paint,2020-01-11 03:26:13.944,track,anon0085
+82566,client,First Paint,2020-01-11 03:26:14.050,track,anon0085
+82567,client,App Timing Metric,2020-01-11 03:26:15.198,track,anon0085
+82568,client,App Timing Metric,2020-01-11 03:26:15.227,track,anon0085
+82569,client,Checklist Item Expanded,2020-01-11 03:26:15.588,track,anon0113
+82570,server,Tracking Plan Saved,2020-01-11 03:26:23.790,track,anon0154
+82571,client,Side Nav Clicked,2020-01-11 03:26:30.696,track,anon0113
+82572,client,App Timing Metric,2020-01-11 03:26:31.550,track,anon0113
+82573,server,Tracking Plan Saved,2020-01-11 03:26:33.445,track,anon0154
+82574,client,First Contentful Paint,2020-01-11 03:26:42.530,track,
+82575,client,First Contentful Paint,2020-01-11 03:26:43.272,track,
+82576,client,First Contentful Paint,2020-01-11 03:26:43.511,track,
+82577,client,App Timing Metric,2020-01-11 03:26:43.511,track,
+82578,client,First Contentful Paint,2020-01-11 03:26:43.606,track,
+82579,client,Viewed Integration,2020-01-11 03:26:44.262,track,anon0113
+82580,client,App Timing Metric,2020-01-11 03:26:44.706,track,
+82581,client,First Contentful Paint,2020-01-11 03:26:44.706,track,
+82582,client,First Input Delay,2020-01-11 03:26:49.076,track,
+82583,client,Signup Page Viewed,2020-01-11 03:26:49.175,track,
+82584,client,First Input Delay,2020-01-11 03:26:50.160,track,
+82585,client,Signup Page Viewed,2020-01-11 03:26:50.238,track,
+82586,client,Signup Page Viewed,2020-01-11 03:26:50.245,track,
+82587,client,Signup Page Viewed,2020-01-11 03:26:50.743,track,
+82588,client,First Input Delay,2020-01-11 03:26:50.753,track,
+82589,client,First Input Delay,2020-01-11 03:26:50.879,track,
+82590,client,App Timing Metric,2020-01-11 03:26:50.952,track,anon0113
+82591,client,Signup Page Viewed,2020-01-11 03:26:52.317,track,
+82592,client,First Input Delay,2020-01-11 03:26:52.918,track,
+82593,client,Debugger Call Clicked,2020-01-11 03:26:53.993,track,anon0052
+82594,client,generic32 Simulator Event Sent,2020-01-11 03:27:01.896,track,anon0113
+82595,server,Tracking Plan Saved,2020-01-11 03:27:11.062,track,anon0154
+82596,server,Tracking Plan Saved,2020-01-11 03:27:23.556,track,anon0154
+82597,server,generic0120 Run Failed,2020-01-11 03:27:24.957,track,anon0126
+82598,server,Tracking Plan Saved,2020-01-11 03:27:30.775,track,anon0154
+82599,client,Side Nav Clicked,2020-01-11 03:27:35.690,track,anon0052
+82600,client,Side Nav Clicked generic30,2020-01-11 03:27:35.720,track,anon0052
+82601,client,App Timing Metric,2020-01-11 03:27:40.934,track,anon0052
+82602,client,App Timing Metric,2020-01-11 03:27:41.225,track,anon0052
+82603,client,Viewed Integration,2020-01-11 03:27:41.332,track,anon0052
+82604,client,App Timing Metric,2020-01-11 03:27:41.403,track,anon0052
+82605,client,generic32 Deliverability Viewed,2020-01-11 03:27:42.165,track,anon0052
+82606,client,Notifications Settings Changed,2020-01-11 03:27:49.569,track,anon0052
+82607,client,Notifications Settings Slider Interaction,2020-01-11 03:27:52.537,track,anon0052
+82608,client,Notifications Settings Changed,2020-01-11 03:27:53.136,track,anon0052
+82609,client,Notifications Settings Slider Interaction,2020-01-11 03:27:57.413,track,anon0052
+82610,client,Notifications Settings Changed,2020-01-11 03:27:58.028,track,anon0052
+82611,client,generic32 Deliverability Period Updated,2020-01-11 03:28:02.531,track,anon0052
+82612,client,generic32 Error Viewed,2020-01-11 03:28:09.434,track,anon0052
+82613,server,Tracking Plan Saved,2020-01-11 03:28:11.259,track,anon0154
+82614,client,generic32 Error Payload Tab Changed,2020-01-11 03:28:19.993,track,anon0052
+82615,server,Tracking Plan Saved,2020-01-11 03:28:23.625,track,anon0154
+82616,server,Tracking Plan Saved,2020-01-11 03:28:30.606,track,anon0154
+82617,client,generic32 Deliverability Viewed,2020-01-11 03:28:35.540,track,anon0122
+82618,client,App Timing Metric,2020-01-11 03:28:35.729,track,anon0122
+82619,client,App Timing Metric,2020-01-11 03:28:36.209,track,anon0122
+82620,client,generic32 Error Viewed,2020-01-11 03:28:40.601,track,anon0122
+82621,client,App Timing Metric,2020-01-11 03:28:43.710,track,anon0128
+82622,client,App Timing Metric,2020-01-11 03:28:43.885,track,anon0128
+82623,client,App Timing Metric,2020-01-11 03:28:43.899,track,anon0128
+82624,client,App Timing Metric,2020-01-11 03:28:43.952,track,anon0128
+82625,client,Viewed Integration,2020-01-11 03:28:43.957,track,anon0128
+82626,client,App Timing Metric,2020-01-11 03:28:43.964,track,anon0128
+82627,client,generic32 Error Payload Tab Changed,2020-01-11 03:28:44.470,track,anon0122
+82628,client,App Timing Metric,2020-01-11 03:28:45.776,track,anon0009
+82629,server,Password Submitted,2020-01-11 03:28:59.773,track,anon0065
+82630,server,Tracking Plan Saved,2020-01-11 03:29:11.074,track,anon0154
+82631,server,Tracking Plan Saved,2020-01-11 03:29:26.321,track,anon0154
+82632,server,Tracking Plan Saved,2020-01-11 03:29:33.311,track,anon0154
+82633,client,App Timing Metric,2020-01-11 03:29:34.163,track,anon0074
+82634,client,App Timing Metric,2020-01-11 03:29:41.846,track,anon0074
+82635,client,generic27 Settings Tab Clicked,2020-01-11 03:29:58.198,track,anon0151
+82636,server,generic0120 Run Failed,2020-01-11 03:30:02.793,track,anon0060
+82637,server,Tracking Plan Saved,2020-01-11 03:30:11.052,track,anon0154
+82638,server,Tracking Plan Saved,2020-01-11 03:30:11.199,track,anon0154
+82639,client,First Contentful Paint,2020-01-11 03:30:11.534,track,anon0107
+82640,client,App Timing Metric,2020-01-11 03:30:11.739,track,anon0107
+82641,server,Tracking Plan Connection Changed,2020-01-11 03:30:11.931,track,anon0154
+82642,client,App Timing Metric,2020-01-11 03:30:12.445,track,anon0107
+82643,client,App Timing Metric,2020-01-11 03:30:13.709,track,anon0107
+82644,client,App Timing Metric,2020-01-11 03:30:13.957,track,anon0107
+82645,client,App Timing Metric,2020-01-11 03:30:17.805,track,anon0178
+82646,client,App Timing Metric,2020-01-11 03:30:17.906,track,anon0178
+82647,server,generic0120 Run Failed,2020-01-11 03:30:20.518,track,anon0126
+82648,server,Tracking Plan Saved,2020-01-11 03:30:26.822,track,anon0154
+82649,server,Tracking Plan Saved,2020-01-11 03:30:34.419,track,anon0154
+82650,client,generic32 Error Payload Tab Changed,2020-01-11 03:30:35.572,track,anon0052
+82651,client,generic32 Error Payload Tab Changed,2020-01-11 03:30:36.328,track,anon0052
+82652,server,Tracking Plan Saved,2020-01-11 03:31:10.947,track,anon0154
+82653,server,Tracking Plan Saved,2020-01-11 03:31:28.626,track,anon0154
+82654,client,First Paint,2020-01-11 03:31:30.648,track,anon0167
+82655,client,First Contentful Paint,2020-01-11 03:31:30.665,track,anon0167
+82656,client,Signup Page Viewed,2020-01-11 03:31:30.690,track,anon0167
+82657,client,App Timing Metric,2020-01-11 03:31:33.188,track,anon0112
+82658,client,App Timing Metric,2020-01-11 03:31:33.343,track,anon0112
+82659,client,App Timing Metric,2020-01-11 03:31:33.383,track,anon0112
+82660,server,Tracking Plan Saved,2020-01-11 03:31:37.607,track,anon0154
+82661,client,App Timing Metric,2020-01-11 03:32:02.100,track,anon0115
+82662,client,App Timing Metric,2020-01-11 03:32:02.101,track,anon0115
+82663,client,Viewed Integration,2020-01-11 03:32:02.102,track,anon0115
+82664,server,Tracking Plan Saved,2020-01-11 03:32:03.929,track,anon0154
+82665,server,Tracking Plan Connection Changed,2020-01-11 03:32:05.052,track,anon0154
+82666,client,First Paint,2020-01-11 03:32:05.579,track,anon0099
+82667,client,First Contentful Paint,2020-01-11 03:32:05.593,track,anon0099
+82668,client,App Timing Metric,2020-01-11 03:32:05.609,track,anon0099
+82669,client,Signup Page Viewed,2020-01-11 03:32:05.824,track,anon0099
+82670,server,Tracking Plan Saved,2020-01-11 03:32:10.923,track,anon0154
+82671,client,Debugger Searched,2020-01-11 03:32:14.276,track,anon0074
+82672,client,Debugger Searched,2020-01-11 03:32:14.994,track,anon0074
+82673,client,First Input Delay,2020-01-11 03:32:15.469,track,anon0099
+82674,client,Debugger Searched,2020-01-11 03:32:17.535,track,anon0074
+82675,client,Debugger Searched,2020-01-11 03:32:18.977,track,anon0074
+82676,client,Debugger Searched,2020-01-11 03:32:20.755,track,anon0074
+82677,server,Tracking Plan Saved,2020-01-11 03:32:23.030,track,anon0154
+82678,client,Debugger Searched,2020-01-11 03:32:23.251,track,anon0074
+82679,server,Tracking Plan Saved,2020-01-11 03:32:32.954,track,anon0154
+82680,client,generic08 Error,2020-01-11 03:32:52.942,track,anon0099
+82681,client,Network Error,2020-01-11 03:32:53.023,track,anon0099
+82682,client,Email Captured,2020-01-11 03:32:56.659,track,anon0099
+82683,client,generic2733 Period Changed,2020-01-11 03:33:01.280,track,anon0151
+82684,client,generic2733 Period Changed,2020-01-11 03:33:10.571,track,anon0151
+82685,server,Tracking Plan Saved,2020-01-11 03:33:10.873,track,anon0154
+82686,client,App Timing Metric,2020-01-11 03:33:16.153,track,anon0009
+82687,client,User Settings Detail Form Edited,2020-01-11 03:33:17.825,track,anon0099
+82688,client,User Settings Detail Form Edited,2020-01-11 03:33:21.486,track,anon0099
+82689,client,App Timing Metric,2020-01-11 03:33:24.345,track,anon0095
+82690,client,App Timing Metric,2020-01-11 03:33:24.346,track,anon0095
+82691,client,User Settings Detail Form Edited,2020-01-11 03:33:24.512,track,anon0099
+82692,server,Tracking Plan Saved,2020-01-11 03:33:55.769,track,anon0154
+82693,client,First Paint,2020-01-11 03:33:56.951,track,
+82694,client,First Contentful Paint,2020-01-11 03:33:56.974,track,
+82695,server,Tracking Plan Saved,2020-01-11 03:34:10.871,track,anon0154
+82696,client,User Settings Detail Form Edited,2020-01-11 03:34:13.815,track,anon0099
+82697,client,Lead Captured,2020-01-11 03:34:14.036,track,anon0099
+82698,client,Page Call Duplicated,2020-01-11 03:34:14.112,track,anon0114
+82699,server,generic27 Created,2020-01-11 03:34:14.611,track,anon0134
+82700,server,Signup Completed,2020-01-11 03:34:14.743,track,anon0134
+82701,client,User Signed Up,2020-01-11 03:34:15.116,track,anon0134
+82702,client,Signup Next Clicked,2020-01-11 03:34:15.177,track,anon0134
+82703,server,User Created,2020-01-11 03:34:15.288,track,anon0134
+82704,client,App Timing Metric,2020-01-11 03:34:15.686,track,anon0134
+82705,client,First Paint,2020-01-11 03:34:21.863,track,
+82706,client,First Contentful Paint,2020-01-11 03:34:21.887,track,
+82707,client,Signup Page Viewed,2020-01-11 03:34:21.916,track,
+82708,server,Tracking Plan Saved,2020-01-11 03:34:24.015,track,anon0154
+82709,server,Tracking Plan Saved,2020-01-11 03:34:34.143,track,anon0154
+82710,client,First Paint,2020-01-11 03:34:37.674,track,anon0049
+82711,client,First Contentful Paint,2020-01-11 03:34:37.683,track,anon0049
+82712,client,App Timing Metric,2020-01-11 03:34:38.504,track,anon0049
+82713,client,App Timing Metric,2020-01-11 03:34:38.540,track,anon0049
+82714,client,App Timing Metric,2020-01-11 03:34:39.015,track,anon0049
+82715,client,App Timing Metric,2020-01-11 03:34:39.485,track,anon0049
+82716,client,Unread Notification Count Displayed,2020-01-11 03:34:39.566,track,anon0049
+82717,client,First Input Delay,2020-01-11 03:35:01.366,track,anon0049
+82718,client,App Timing Metric,2020-01-11 03:35:01.905,track,anon0008
+82719,client,App Timing Metric,2020-01-11 03:35:01.912,track,anon0008
+82720,server,Tracking Plan Saved,2020-01-11 03:35:10.944,track,anon0154
+82721,client,generic29 Nav Link Clicked,2020-01-11 03:35:17.233,track,anon0052
+82722,client,Debugger Call Clicked,2020-01-11 03:35:19.082,track,anon0052
+82723,server,Tracking Plan Saved,2020-01-11 03:35:23.799,track,anon0154
+82724,client,Debugger Call Clicked,2020-01-11 03:35:24.253,track,anon0052
+82725,client,Debugger Call Clicked,2020-01-11 03:35:25.029,track,anon0052
+82726,client,Debugger Call Clicked,2020-01-11 03:35:25.820,track,anon0052
+82727,client,Debugger Call Clicked,2020-01-11 03:35:26.537,track,anon0052
+82728,client,Debugger Call Clicked,2020-01-11 03:35:27.644,track,anon0052
+82729,client,Debugger Call Clicked,2020-01-11 03:35:28.695,track,anon0052
+82730,client,Debugger Call Clicked,2020-01-11 03:35:29.280,track,anon0052
+82731,client,Debugger Call Clicked,2020-01-11 03:35:29.732,track,anon0052
+82732,client,Debugger Call Clicked,2020-01-11 03:35:30.558,track,anon0052
+82733,client,Debugger Call Clicked,2020-01-11 03:35:30.876,track,anon0052
+82734,server,Tracking Plan Saved,2020-01-11 03:35:30.904,track,anon0154
+82735,client,Debugger Call Clicked,2020-01-11 03:35:34.454,track,anon0052
+82736,client,Debugger Call Clicked,2020-01-11 03:35:34.985,track,anon0052
+82737,client,Debugger Call Clicked,2020-01-11 03:35:35.798,track,anon0052
+82738,client,Debugger Call Clicked,2020-01-11 03:35:36.875,track,anon0052
+82739,client,Debugger Call Clicked,2020-01-11 03:35:37.882,track,anon0052
+82740,client,Debugger Call Clicked,2020-01-11 03:35:40.264,track,anon0052
+82741,client,Debugger Call Clicked,2020-01-11 03:35:42.346,track,anon0052
+82742,client,Debugger Call Clicked,2020-01-11 03:35:42.989,track,anon0052
+82743,client,Debugger Call Clicked,2020-01-11 03:35:43.544,track,anon0052
+82744,server,Tracking Plan Saved,2020-01-11 03:36:10.893,track,anon0154
+82745,client,App Timing Metric,2020-01-11 03:36:15.922,track,anon0009
+82746,server,Tracking Plan Saved,2020-01-11 03:36:23.958,track,anon0154
+82747,server,Tracking Plan Saved,2020-01-11 03:36:30.979,track,anon0154
+82748,client,generic2733 Period Changed,2020-01-11 03:36:31.181,track,anon0151
+82749,client,First Paint,2020-01-11 03:37:08.042,track,anon0118
+82750,client,App Timing Metric,2020-01-11 03:37:08.043,track,anon0118
+82751,client,First Contentful Paint,2020-01-11 03:37:08.112,track,anon0118
+82752,server,Tracking Plan Saved,2020-01-11 03:37:10.883,track,anon0154
+82753,client,First Input Delay,2020-01-11 03:37:11.042,track,anon0118
+82754,server,Tracking Plan Saved,2020-01-11 03:37:14.145,track,anon0154
+82755,client,App Timing Metric,2020-01-11 03:37:14.655,track,anon0118
+82756,server,Tracking Plan Connection Changed,2020-01-11 03:37:16.236,track,anon0154
+82757,client,Side Nav Clicked,2020-01-11 03:37:20.662,track,anon0118
+82758,client,Side Nav Clicked generic04,2020-01-11 03:37:20.677,track,anon0118
+82759,server,Tracking Plan Saved,2020-01-11 03:37:22.981,track,anon0154
+82760,client,Debugger Call Clicked,2020-01-11 03:37:26.250,track,anon0052
+82761,client,Debugger Call Clicked,2020-01-11 03:37:26.577,track,anon0052
+82762,client,Debugger Call Clicked,2020-01-11 03:37:27.423,track,anon0052
+82763,client,Debugger Call Clicked,2020-01-11 03:37:27.923,track,anon0052
+82764,client,App Timing Metric,2020-01-11 03:37:28.849,track,anon0118
+82765,client,Debugger Call Clicked,2020-01-11 03:37:28.882,track,anon0052
+82766,client,Debugger Call Clicked,2020-01-11 03:37:29.540,track,anon0052
+82767,client,App Timing Metric,2020-01-11 03:37:29.663,track,anon0118
+82768,client,generic29 Nav Link Clicked,2020-01-11 03:37:29.821,track,anon0118
+82769,client,Debugger Call Clicked,2020-01-11 03:37:30.639,track,anon0052
+82770,server,Tracking Plan Saved,2020-01-11 03:37:31.253,track,anon0154
+82771,client,Debugger Call Clicked,2020-01-11 03:37:31.930,track,anon0052
+82772,client,Debugger Call Clicked,2020-01-11 03:37:32.723,track,anon0052
+82773,client,Debugger Call Clicked,2020-01-11 03:37:33.227,track,anon0052
+82774,client,App Timing Metric,2020-01-11 03:37:45.955,track,anon0009
+82775,client,Notification Banner Shown,2020-01-11 03:37:46.773,track,anon0050
+82776,client,App Timing Metric,2020-01-11 03:37:46.974,track,anon0050
+82777,client,App Timing Metric,2020-01-11 03:37:46.977,track,anon0050
+82778,client,App Timing Metric,2020-01-11 03:37:46.978,track,anon0050
+82779,server,Tracking Plan Saved,2020-01-11 03:38:10.954,track,anon0154
+82780,server,Tracking Plan Saved,2020-01-11 03:38:26.676,track,anon0154
+82781,server,Tracking Plan Saved,2020-01-11 03:38:33.627,track,anon0154
+82782,server,Password Submitted,2020-01-11 03:39:00.709,track,anon0065
+82783,client,App Timing Metric,2020-01-11 03:39:08.365,track,anon0037
+82784,client,App Timing Metric,2020-01-11 03:39:08.366,track,anon0037
+82785,server,Tracking Plan Saved,2020-01-11 03:39:10.860,track,anon0154
+82786,client,App Timing Metric,2020-01-11 03:39:16.232,track,anon0009
+82787,client,First Contentful Paint,2020-01-11 03:39:17.794,track,anon0075
+82788,server,Tracking Plan Saved,2020-01-11 03:39:24.676,track,anon0154
+82789,client,User Settings Detail Form Edited,2020-01-11 03:39:30.687,track,anon0045
+82790,client,User Settings Detail Form Edited,2020-01-11 03:39:30.687,track,anon0045
+82791,client,User Settings Detail Form Edited,2020-01-11 03:39:30.688,track,anon0045
+82792,server,Tracking Plan Saved,2020-01-11 03:39:32.095,track,anon0154
+82793,client,User Settings Detail Form Edited,2020-01-11 03:39:32.140,track,anon0045
+82794,client,generic01 Explorer Searched,2020-01-11 03:39:32.970,track,anon0045
+82795,client,generic01 Profile Viewed,2020-01-11 03:39:34.434,track,anon0045
+82796,client,generic01 Profile Tab Viewed,2020-01-11 03:39:35.421,track,anon0045
+82797,client,App Timing Metric,2020-01-11 03:39:36.426,track,anon0045
+82798,client,App Timing Metric,2020-01-11 03:39:40.767,track,anon0033
+82799,client,App Timing Metric,2020-01-11 03:39:41.207,track,anon0033
+82800,client,App Timing Metric,2020-01-11 03:39:44.383,track,anon0033
+82801,client,generic29 Nav Link Clicked,2020-01-11 03:39:45.359,track,anon0033
+82802,client,Side Nav Clicked,2020-01-11 03:40:02.037,track,anon0113
+82803,client,Side Nav Clicked,2020-01-11 03:40:02.693,track,anon0113
+82804,client,Debugger Call Clicked,2020-01-11 03:40:03.372,track,anon0033
+82805,client,Debugger Call Clicked,2020-01-11 03:40:04.621,track,anon0033
+82806,client,Side Nav Clicked,2020-01-11 03:40:06.865,track,anon0113
+82807,client,Side Nav Clicked generic04,2020-01-11 03:40:06.927,track,anon0113
+82808,client,Debugger Call Clicked,2020-01-11 03:40:09.530,track,anon0033
+82809,server,Tracking Plan Saved,2020-01-11 03:40:10.926,track,anon0154
+82810,client,Debugger Call Clicked,2020-01-11 03:40:11.836,track,anon0033
+82811,client,Side Nav Clicked,2020-01-11 03:40:13.344,track,anon0113
+82812,client,Side Nav Clicked generic30,2020-01-11 03:40:13.447,track,anon0113
+82813,client,Debugger Call Clicked,2020-01-11 03:40:15.814,track,anon0033
+82814,client,Viewed Integration,2020-01-11 03:40:17.181,track,anon0113
+82815,client,Debugger Call Clicked,2020-01-11 03:40:18.506,track,anon0033
+82816,client,Debugger Call Clicked,2020-01-11 03:40:19.851,track,anon0033
+82817,client,generic32 Deliverability Viewed,2020-01-11 03:40:22.221,track,anon0113
+82818,server,Tracking Plan Saved,2020-01-11 03:40:22.971,track,anon0154
+82819,client,Debugger Call Clicked,2020-01-11 03:40:25.426,track,anon0033
+82820,client,Debugger Call Clicked,2020-01-11 03:40:26.565,track,anon0033
+82821,client,First Paint,2020-01-11 03:40:37.968,track,anon0174
+82822,client,First Contentful Paint,2020-01-11 03:40:38.101,track,anon0174
+82823,client,App Timing Metric,2020-01-11 03:40:38.245,track,anon0174
+82824,client,App Timing Metric,2020-01-11 03:40:38.504,track,anon0174
+82825,client,First Input Delay,2020-01-11 03:40:39.515,track,anon0174
+82826,client,Notification Banner Shown,2020-01-11 03:40:40.589,track,anon0174
+82827,client,App Timing Metric,2020-01-11 03:40:41.507,track,anon0174
+82828,client,Viewed Integration,2020-01-11 03:40:46.252,track,anon0113
+82829,client,Side Nav Clicked,2020-01-11 03:40:46.415,track,anon0174
+82830,client,Side Nav Clicked generic04,2020-01-11 03:40:46.422,track,anon0174
+82831,client,App Timing Metric,2020-01-11 03:40:53.896,track,anon0174
+82832,server,Tracking Plan Saved,2020-01-11 03:40:55.722,track,anon0154
+82833,client,First Contentful Paint,2020-01-11 03:40:56.433,track,anon0161
+82834,client,First Paint,2020-01-11 03:40:56.433,track,anon0161
+82835,client,App Timing Metric,2020-01-11 03:40:57.447,track,anon0161
+82836,client,First Input Delay,2020-01-11 03:40:57.753,track,anon0161
+82837,client,App Timing Metric,2020-01-11 03:40:59.602,track,anon0161
+82838,client,generic08 Error,2020-01-11 03:41:00.154,track,anon0049
+82839,client,Side Nav Clicked,2020-01-11 03:41:00.695,track,anon0161
+82840,client,Side Nav Clicked generic30,2020-01-11 03:41:00.763,track,anon0161
+82841,client,App Timing Metric,2020-01-11 03:41:07.939,track,anon0161
+82842,client,generic32 Credentials Added,2020-01-11 03:41:09.557,track,anon0113
+82843,client,generic23 Overview Link Clicked,2020-01-11 03:41:09.739,track,anon0174
+82844,server,Tracking Plan Saved,2020-01-11 03:41:11.140,track,anon0154
+82845,client,App Timing Metric,2020-01-11 03:41:11.597,track,anon0174
+82846,client,Viewed Featured generic30,2020-01-11 03:41:11.716,track,anon0174
+82847,client,Catalog Category Clicked,2020-01-11 03:41:13.598,track,anon0161
+82848,client,Clicked Catalog View All,2020-01-11 03:41:13.604,track,anon0161
+82849,client,First Paint,2020-01-11 03:41:14.570,track,anon0162
+82850,client,First Contentful Paint,2020-01-11 03:41:14.592,track,anon0162
+82851,client,App Timing Metric,2020-01-11 03:41:14.598,track,anon0162
+82852,client,Signup Page Viewed,2020-01-11 03:41:14.813,track,anon0162
+82853,client,Clicked Catalog Integration,2020-01-11 03:41:14.866,track,anon0174
+82854,client,Catalog Sidebar Searched,2020-01-11 03:41:15.092,track,anon0174
+82855,client,generic08 Error,2020-01-11 03:41:15.328,track,anon0049
+82856,client,Clicked Configure generic32,2020-01-11 03:41:17.259,track,anon0174
+82857,client,App Timing Metric,2020-01-11 03:41:17.939,track,anon0174
+82858,client,App Timing Metric,2020-01-11 03:41:18.295,track,anon0174
+82859,client,Viewed Integration,2020-01-11 03:41:18.458,track,anon0174
+82860,client,Visited Integration Docs,2020-01-11 03:41:19.665,track,anon0174
+82861,server,Tracking Plan Saved,2020-01-11 03:41:25.122,track,anon0154
+82862,client,App Timing Metric,2020-01-11 03:41:25.162,track,anon0161
+82863,client,generic32 Credentials Added,2020-01-11 03:41:28.853,track,anon0174
+82864,client,App Timing Metric,2020-01-11 03:41:28.887,track,anon0161
+82865,client,App Timing Metric,2020-01-11 03:41:31.238,track,anon0161
+82866,server,Censor generic32 Settings,2020-01-11 03:41:32.364,track,anon0174
+82867,server,Integration Enabled,2020-01-11 03:41:32.364,track,anon0174
+82868,server,Tracking Plan Saved,2020-01-11 03:41:32.399,track,anon0154
+82869,client,First Contentful Paint,2020-01-11 03:41:35.384,track,anon0161
+82870,client,First Paint,2020-01-11 03:41:35.387,track,anon0161
+82871,client,App Timing Metric,2020-01-11 03:41:35.891,track,anon0161
+82872,client,First Input Delay,2020-01-11 03:41:37.067,track,anon0161
+82873,client,generic32 Deliverability Viewed,2020-01-11 03:41:38.431,track,anon0174
+82874,client,App Timing Metric,2020-01-11 03:41:39.078,track,anon0174
+82875,client,First Contentful Paint,2020-01-11 03:41:42.405,track,
+82876,client,App Timing Metric,2020-01-11 03:41:42.405,track,
+82877,client,First Contentful Paint,2020-01-11 03:41:43.554,track,
+82878,client,First Contentful Paint,2020-01-11 03:41:43.583,track,
+82879,client,First Contentful Paint,2020-01-11 03:41:43.820,track,
+82880,client,First Contentful Paint,2020-01-11 03:41:45.108,track,
+82881,client,App Timing Metric,2020-01-11 03:41:45.109,track,
+82882,client,Viewed Integration,2020-01-11 03:41:48.194,track,anon0174
+82883,client,First Input Delay,2020-01-11 03:41:49.141,track,
+82884,client,Signup Page Viewed,2020-01-11 03:41:49.277,track,
+82885,client,First Input Delay,2020-01-11 03:41:50.291,track,
+82886,client,Signup Page Viewed,2020-01-11 03:41:50.402,track,
+82887,client,Signup Page Viewed,2020-01-11 03:41:50.743,track,
+82888,client,First Input Delay,2020-01-11 03:41:50.807,track,
+82889,client,Signup Page Viewed,2020-01-11 03:41:51.324,track,
+82890,client,First Input Delay,2020-01-11 03:41:51.862,track,
+82891,client,First Paint,2020-01-11 03:41:52.033,track,anon0011
+82892,client,First Contentful Paint,2020-01-11 03:41:52.049,track,anon0011
+82893,client,App Timing Metric,2020-01-11 03:41:52.070,track,anon0011
+82894,client,First Input Delay,2020-01-11 03:41:52.215,track,
+82895,client,Signup Page Viewed,2020-01-11 03:41:52.770,track,
+82896,client,App Timing Metric,2020-01-11 03:41:54.902,track,anon0011
+82897,client,First Input Delay,2020-01-11 03:42:02.643,track,anon0011
+82898,client,Checklist Item Expanded,2020-01-11 03:42:02.757,track,anon0011
+82899,server,Tracking Plan Saved,2020-01-11 03:42:10.910,track,anon0154
+82900,client,Side Nav Clicked,2020-01-11 03:42:15.610,track,anon0174
+82901,client,Side Nav Clicked generic30,2020-01-11 03:42:15.619,track,anon0174
+82902,client,App Timing Metric,2020-01-11 03:42:15.922,track,anon0009
+82903,client,Checklist Item Expanded,2020-01-11 03:42:17.242,track,anon0011
+82904,client,App Timing Metric,2020-01-11 03:42:21.226,track,anon0011
+82905,client,App Timing Metric,2020-01-11 03:42:21.482,track,anon0011
+82906,client,Viewed Integration,2020-01-11 03:42:21.487,track,anon0011
+82907,client,Viewed Integration,2020-01-11 03:42:21.682,track,anon0174
+82908,server,Tracking Plan Saved,2020-01-11 03:42:23.358,track,anon0154
+82909,client,generic32 Credentials Added,2020-01-11 03:42:27.379,track,anon0011
+82910,server,Tracking Plan Saved,2020-01-11 03:42:30.668,track,anon0154
+82911,client,generic32 Deliverability Viewed,2020-01-11 03:42:30.699,track,anon0174
+82912,client,Side Nav Clicked,2020-01-11 03:42:31.946,track,anon0011
+82913,client,Viewed Integration,2020-01-11 03:42:33.815,track,anon0174
+82914,client,Enable generic32 Clicked,2020-01-11 03:42:35.000,track,anon0011
+82915,server,Censor generic32 Settings,2020-01-11 03:42:35.224,track,anon0011
+82916,server,Integration Enabled,2020-01-11 03:42:35.224,track,anon0011
+82917,client,Add generic14 Get Started Clicked,2020-01-11 03:42:43.083,track,anon0011
+82918,client,First Input Delay,2020-01-11 03:42:47.957,track,anon0161
+82919,client,Add generic14 Copy Snippet Clicked Copy,2020-01-11 03:42:49.634,track,anon0011
+82920,client,Add generic14 Close Button Clicked,2020-01-11 03:42:50.946,track,anon0011
+82921,client,Add generic14 Close Button Clicked,2020-01-11 03:42:51.255,track,anon0011
+82922,client,generic32 Deliverability Viewed,2020-01-11 03:42:59.648,track,anon0174
+82923,client,Side Nav Clicked,2020-01-11 03:43:02.675,track,anon0174
+82924,client,Side Nav Clicked generic30,2020-01-11 03:43:02.678,track,anon0174
+82925,client,First Input Delay,2020-01-11 03:43:04.309,track,anon0161
+82926,client,App Timing Metric,2020-01-11 03:43:08.211,track,anon0155
+82927,server,Tracking Plan Saved,2020-01-11 03:43:11.152,track,anon0154
+82928,client,Checklist Item Expanded,2020-01-11 03:43:20.076,track,anon0011
+82929,server,Tracking Plan Saved,2020-01-11 03:43:23.333,track,anon0154
+82930,client,Checklist Item Expanded,2020-01-11 03:43:24.522,track,anon0011
+82931,client,Checklist Item Expanded,2020-01-11 03:43:26.858,track,anon0011
+82932,server,Tracking Plan Saved,2020-01-11 03:43:29.930,track,anon0154
+82933,client,Side Nav Clicked,2020-01-11 03:43:34.501,track,anon0011
+82934,client,App Timing Metric,2020-01-11 03:43:35.238,track,anon0011
+82935,client,Clicked Add generic23,2020-01-11 03:43:41.308,track,anon0011
+82936,client,App Timing Metric,2020-01-11 03:43:42.524,track,anon0011
+82937,server,Tracking Plan Saved,2020-01-11 03:43:59.053,track,anon0154
+82938,server,Tracking Plan Connection Changed,2020-01-11 03:43:59.964,track,anon0154
+82939,client,Catalog Sidebar Searched,2020-01-11 03:44:08.377,track,anon0011
+82940,client,Catalog Sidebar Searched,2020-01-11 03:44:09.711,track,anon0011
+82941,server,Tracking Plan Saved,2020-01-11 03:44:11.123,track,anon0154
+82942,client,Clicked Catalog Integration,2020-01-11 03:44:12.063,track,anon0011
+82943,client,Viewed Integration,2020-01-11 03:44:14.128,track,anon0174
+82944,client,First Input Delay,2020-01-11 03:44:14.161,track,anon0161
+82945,client,generic32 Deliverability Viewed,2020-01-11 03:44:23.326,track,anon0174
+82946,server,Tracking Plan Saved,2020-01-11 03:44:23.455,track,anon0154
+82947,client,App Timing Metric,2020-01-11 03:44:23.686,track,anon0174
+82948,client,Viewed Integration,2020-01-11 03:44:25.701,track,anon0174
+82949,server,Tracking Plan Saved,2020-01-11 03:44:31.807,track,anon0154
+82950,client,Side Nav Clicked,2020-01-11 03:44:33.840,track,anon0174
+82951,client,Side Nav Clicked generic04,2020-01-11 03:44:33.847,track,anon0174
+82952,client,Side Nav Clicked,2020-01-11 03:44:34.729,track,anon0174
+82953,client,App Timing Metric,2020-01-11 03:44:35.537,track,anon0011
+82954,server,generic23 Created,2020-01-11 03:44:37.098,track,anon0011
+82955,client,First Paint,2020-01-11 03:44:38.293,track,anon0011
+82956,client,First Contentful Paint,2020-01-11 03:44:38.310,track,anon0011
+82957,client,App Timing Metric,2020-01-11 03:44:39.661,track,anon0011
+82958,client,First Input Delay,2020-01-11 03:44:49.396,track,anon0011
+82959,client,First Contentful Paint,2020-01-11 03:44:57.931,track,anon0103
+82960,client,Page Call Duplicated,2020-01-11 03:44:57.958,track,anon0103
+82961,client,First Paint,2020-01-11 03:44:57.958,track,anon0103
+82962,client,App Timing Metric,2020-01-11 03:44:58.628,track,anon0103
+82963,client,Viewed Integration,2020-01-11 03:44:58.878,track,anon0174
+82964,client,generic32 Simulator Builder Type,2020-01-11 03:45:02.590,track,anon0174
+82965,client,First Input Delay,2020-01-11 03:45:04.147,track,anon0103
+82966,client,App Timing Metric,2020-01-11 03:45:04.656,track,anon0103
+82967,client,generic32 Simulator Builder Type,2020-01-11 03:45:06.577,track,anon0174
+82968,client,generic23 Overview Link Clicked,2020-01-11 03:45:08.454,track,anon0011
+82969,client,generic32 Deliverability Viewed,2020-01-11 03:45:08.810,track,anon0174
+82970,client,App Timing Metric,2020-01-11 03:45:09.619,track,anon0103
+82971,server,Tracking Plan Saved,2020-01-11 03:45:11.364,track,anon0154
+82972,server,Tracking Plan Saved,2020-01-11 03:45:11.672,track,anon0154
+82973,server,Tracking Plan Connection Changed,2020-01-11 03:45:12.536,track,anon0154
+82974,client,Viewed Integration,2020-01-11 03:45:14.355,track,anon0174
+82975,client,App Timing Metric,2020-01-11 03:45:16.421,track,anon0009
+82976,client,Catalog Sidebar Searched,2020-01-11 03:45:20.507,track,anon0011
+82977,client,Clicked Catalog Integration,2020-01-11 03:45:21.955,track,anon0011
+82978,client,App Timing Metric,2020-01-11 03:45:22.711,track,anon0011
+82979,client,App Timing Metric,2020-01-11 03:45:22.953,track,anon0011
+82980,server,Tracking Plan Saved,2020-01-11 03:45:31.901,track,anon0154
+82981,server,Tracking Plan Saved,2020-01-11 03:45:39.004,track,anon0154
+82982,client,Catalog Sidebar Searched,2020-01-11 03:45:41.999,track,anon0011
+82983,client,Clicked Catalog Integration,2020-01-11 03:45:43.233,track,anon0011
+82984,client,App Timing Metric,2020-01-11 03:46:01.943,track,anon0165
+82985,client,First Paint,2020-01-11 03:46:02.571,track,anon0165
+82986,client,First Contentful Paint,2020-01-11 03:46:02.913,track,anon0165
+82987,client,App Timing Metric,2020-01-11 03:46:06.510,track,anon0165
+82988,server,Tracking Plan Saved,2020-01-11 03:46:11.058,track,anon0154
+82989,client,generic0119 Preview Succeeded,2020-01-11 03:46:16.457,track,anon0103
+82990,server,Tracking Plan Saved,2020-01-11 03:46:22.955,track,anon0154
+82991,server,Tracking Plan Saved,2020-01-11 03:46:29.915,track,anon0154
+82992,server,generic0120 Run Failed,2020-01-11 03:46:31.653,track,anon0022
+82993,client,generic08 Error,2020-01-11 03:46:36.877,track,anon0049
+82994,client,generic01 Profile Viewed,2020-01-11 03:46:39.581,track,anon0103
+82995,client,App Timing Metric,2020-01-11 03:46:39.653,track,anon0103
+82996,client,App Timing Metric,2020-01-11 03:46:40.132,track,anon0103
+82997,client,Side Nav Clicked,2020-01-11 03:46:40.724,track,anon0165
+82998,client,App Timing Metric,2020-01-11 03:46:44.479,track,anon0165
+82999,client,App Timing Metric,2020-01-11 03:46:46.804,track,anon0009
+83000,client,generic01 Profile Tab Viewed,2020-01-11 03:46:49.572,track,anon0103
+83001,client,App Timing Metric,2020-01-11 03:46:50.107,track,anon0103
+83002,client,generic01 Profile Tab Viewed,2020-01-11 03:46:51.484,track,anon0103
+83003,client,generic01 Profile Tab Viewed,2020-01-11 03:46:52.067,track,anon0103
+83004,client,App Timing Metric,2020-01-11 03:46:52.092,track,anon0103
+83005,client,Unread Notification Count Displayed,2020-01-11 03:46:52.508,track,anon0130
+83006,client,App Timing Metric,2020-01-11 03:46:52.509,track,anon0130
+83007,client,Unread Notification Count Displayed,2020-01-11 03:46:52.575,track,anon0130
+83008,client,App Timing Metric,2020-01-11 03:46:52.584,track,anon0103
+83009,client,generic01 Profile Tab Viewed,2020-01-11 03:47:03.886,track,anon0103
+83010,client,App Timing Metric,2020-01-11 03:47:04.383,track,anon0103
+83011,client,generic01 Profile Tab Viewed,2020-01-11 03:47:06.823,track,anon0103
+83012,client,generic01 Profile Tab Viewed,2020-01-11 03:47:07.108,track,anon0103
+83013,client,App Timing Metric,2020-01-11 03:47:07.952,track,anon0023
+83014,client,App Timing Metric,2020-01-11 03:47:07.962,track,anon0023
+83015,server,Tracking Plan Saved,2020-01-11 03:47:10.909,track,anon0154
+83016,server,Tracking Plan Saved,2020-01-11 03:47:24.375,track,anon0154
+83017,server,Tracking Plan Saved,2020-01-11 03:47:31.126,track,anon0154
+83018,client,Side Nav Clicked,2020-01-11 03:47:37.760,track,anon0103
+83019,client,Side Nav Clicked generic04,2020-01-11 03:47:37.776,track,anon0103
+83020,client,User Settings Detail Form Edited,2020-01-11 03:47:40.063,track,anon0103
+83021,client,App Timing Metric,2020-01-11 03:47:48.400,track,anon0103
+83022,server,Tracking Plan Saved,2020-01-11 03:48:04.970,track,anon0154
+83023,server,Tracking Plan Connection Changed,2020-01-11 03:48:05.801,track,anon0154
+83024,server,Tracking Plan Saved,2020-01-11 03:48:11.122,track,anon0154
+83025,client,Side Nav Clicked,2020-01-11 03:48:13.359,track,anon0165
+83026,client,Side Nav Clicked generic04,2020-01-11 03:48:13.366,track,anon0165
+83027,server,Tracking Plan Saved,2020-01-11 03:48:23.740,track,anon0154
+83028,client,Debugger Call Clicked,2020-01-11 03:48:32.383,track,anon0103
+83029,server,Tracking Plan Saved,2020-01-11 03:48:35.460,track,anon0154
+83030,client,Debugger Call Clicked,2020-01-11 03:48:48.063,track,anon0103
+83031,client,Clicked Catalog Integration,2020-01-11 03:48:58.804,track,anon0165
+83032,server,Password Submitted,2020-01-11 03:49:00.950,track,anon0065
+83033,client,Debugger Call Clicked,2020-01-11 03:49:02.438,track,anon0103
+83034,client,Debugger Call Clicked,2020-01-11 03:49:05.280,track,anon0103
+83035,server,Tracking Plan Saved,2020-01-11 03:49:11.016,track,anon0154
+83036,client,Viewed Featured generic30,2020-01-11 03:49:16.172,track,anon0165
+83037,client,Side Nav Clicked,2020-01-11 03:49:16.518,track,anon0165
+83038,client,Debugger Call Clicked,2020-01-11 03:49:23.107,track,anon0103
+83039,client,Side Nav Clicked,2020-01-11 03:49:23.109,track,anon0165
+83040,client,Side Nav Clicked generic04,2020-01-11 03:49:23.369,track,anon0165
+83041,server,Tracking Plan Saved,2020-01-11 03:49:23.950,track,anon0154
+83042,client,Debugger Call Clicked,2020-01-11 03:49:28.909,track,anon0103
+83043,server,Tracking Plan Saved,2020-01-11 03:49:32.133,track,anon0154
+83044,client,App Timing Metric,2020-01-11 03:49:44.514,track,anon0103
+83045,client,App Timing Metric,2020-01-11 03:49:47.935,track,anon0103
+83046,client,First Paint,2020-01-11 03:49:47.972,track,anon0103
+83047,client,First Contentful Paint,2020-01-11 03:49:47.995,track,anon0103
+83048,client,App Timing Metric,2020-01-11 03:49:49.606,track,anon0046
+83049,client,App Timing Metric,2020-01-11 03:49:49.631,track,anon0046
+83050,client,App Timing Metric,2020-01-11 03:49:49.635,track,anon0046
+83051,client,App Timing Metric,2020-01-11 03:49:49.649,track,anon0046
+83052,client,App Timing Metric,2020-01-11 03:49:49.662,track,anon0046
+83053,client,First Input Delay,2020-01-11 03:49:50.203,track,anon0103
+83054,client,App Timing Metric,2020-01-11 03:49:52.981,track,anon0046
+83055,client,App Timing Metric,2020-01-11 03:49:53.016,track,anon0046
+83056,client,User Settings Detail Form Edited,2020-01-11 03:49:54.999,track,anon0103
+83057,client,User Settings Detail Form Edited,2020-01-11 03:49:56.146,track,anon0103
+83058,client,generic01 Explorer Searched,2020-01-11 03:49:56.447,track,anon0103
+83059,client,generic01 Profile Viewed,2020-01-11 03:49:57.915,track,anon0103
+83060,client,App Timing Metric,2020-01-11 03:49:57.965,track,anon0103
+83061,server,generic0120 Run Failed,2020-01-11 03:50:02.000,track,anon0082
+83062,server,Tracking Plan Saved,2020-01-11 03:50:10.999,track,anon0154
+83063,client,Side Nav Clicked,2020-01-11 03:50:14.599,track,anon0103
+83064,client,Side Nav Clicked generic01,2020-01-11 03:50:14.622,track,anon0103
+83065,server,generic0120 Run Failed,2020-01-11 03:50:20.650,track,anon0093
+83066,client,generic08 Error,2020-01-11 03:50:24.883,track,anon0049
+83067,server,Tracking Plan Saved,2020-01-11 03:50:27.145,track,anon0154
+83068,client,App Timing Metric,2020-01-11 03:50:27.499,track,anon0058
+83069,client,App Timing Metric,2020-01-11 03:50:27.499,track,anon0058
+83070,client,App Timing Metric,2020-01-11 03:50:27.500,track,anon0058
+83071,client,App Timing Metric,2020-01-11 03:50:34.668,track,anon0125
+83072,client,App Timing Metric,2020-01-11 03:50:34.892,track,anon0125
+83073,client,App Timing Metric,2020-01-11 03:50:36.098,track,anon0125
+83074,server,Tracking Plan Saved,2020-01-11 03:50:38.327,track,anon0154
+83075,client,Side Nav Clicked,2020-01-11 03:50:41.189,track,anon0165
+83076,client,Side Nav Clicked generic30,2020-01-11 03:50:41.191,track,anon0165
+83077,client,Viewed Featured generic30,2020-01-11 03:50:43.991,track,anon0165
+83078,client,Viewed Featured generic30,2020-01-11 03:50:45.072,track,anon0165
+83079,client,App Timing Metric,2020-01-11 03:50:47.955,track,anon0077
+83080,client,Side Nav Clicked,2020-01-11 03:50:52.203,track,anon0165
+83081,client,Side Nav Clicked generic01,2020-01-11 03:50:52.365,track,anon0165
+83082,client,generic17 Viewed,2020-01-11 03:50:52.646,track,anon0165
+83083,client,Side Nav Clicked,2020-01-11 03:50:54.241,track,anon0165
+83084,client,App Timing Metric,2020-01-11 03:50:54.420,track,anon0037
+83085,client,App Timing Metric,2020-01-11 03:50:54.420,track,anon0037
+83086,client,generic32 Deliverability Viewed,2020-01-11 03:50:54.420,track,anon0037
+83087,client,Side Nav Clicked generic07,2020-01-11 03:50:55.674,track,anon0165
+83088,client,Side Nav Clicked,2020-01-11 03:50:56.981,track,anon0165
+83089,client,Side Nav Clicked Settings,2020-01-11 03:50:57.076,track,anon0165
+83090,client,App Timing Metric,2020-01-11 03:50:58.585,track,anon0165
+83091,client,App Timing Metric,2020-01-11 03:51:00.253,track,anon0165
+83092,client,generic29 Nav Link Clicked,2020-01-11 03:51:06.369,track,anon0165
+83093,client,generic0119 Preview Succeeded,2020-01-11 03:51:10.174,track,anon0103
+83094,client,generic08 Error,2020-01-11 03:51:10.586,track,anon0049
+83095,server,Tracking Plan Saved,2020-01-11 03:51:10.916,track,anon0154
+83096,server,generic26 Connection Failed,2020-01-11 03:51:11.483,track,anon0011
+83097,server,generic26 Connection Tested,2020-01-11 03:51:11.484,track,anon0011
+83098,client,generic08 Error,2020-01-11 03:51:14.481,track,anon0049
+83099,client,First Paint,2020-01-11 03:51:15.801,track,anon0116
+83100,client,First Contentful Paint,2020-01-11 03:51:15.808,track,anon0116
+83101,client,App Timing Metric,2020-01-11 03:51:15.821,track,anon0116
+83102,client,App Timing Metric,2020-01-11 03:51:16.742,track,anon0009
+83103,client,generic01 Profile Viewed,2020-01-11 03:51:17.150,track,anon0103
+83104,client,App Timing Metric,2020-01-11 03:51:19.266,track,anon0116
+83105,client,First Input Delay,2020-01-11 03:51:19.305,track,anon0116
+83106,client,Debugger Call Clicked,2020-01-11 03:51:19.549,track,anon0116
+83107,server,Tracking Plan Saved,2020-01-11 03:51:22.957,track,anon0154
+83108,server,Tracking Plan Saved,2020-01-11 03:51:30.220,track,anon0154
+83109,client,generic0119 Preview Succeeded,2020-01-11 03:52:08.504,track,anon0103
+83110,server,Tracking Plan Saved,2020-01-11 03:52:10.930,track,anon0154
+83111,server,generic0119 Run Failed,2020-01-11 03:52:15.372,track,anon0057
+83112,client,generic01 Profile Viewed,2020-01-11 03:52:21.146,track,anon0103
+83113,client,App Timing Metric,2020-01-11 03:52:21.199,track,anon0103
+83114,client,App Timing Metric,2020-01-11 03:52:22.093,track,anon0103
+83115,server,Tracking Plan Saved,2020-01-11 03:52:22.739,track,anon0154
+83116,client,App Timing Metric,2020-01-11 03:52:37.124,track,anon0105
+83117,client,App Timing Metric,2020-01-11 03:52:37.347,track,anon0105
+83118,client,First Paint,2020-01-11 03:52:40.241,track,anon0116
+83119,client,First Contentful Paint,2020-01-11 03:52:40.284,track,anon0116
+83120,client,App Timing Metric,2020-01-11 03:52:40.756,track,anon0116
+83121,client,Debugger Call Clicked,2020-01-11 03:52:46.253,track,anon0116
+83122,client,App Timing Metric,2020-01-11 03:52:46.746,track,anon0009
+83123,server,Tracking Plan Saved,2020-01-11 03:52:48.862,track,anon0154
+83124,client,Debugger Call Clicked,2020-01-11 03:52:51.611,track,anon0116
+83125,client,generic0119 Preview Succeeded,2020-01-11 03:52:56.630,track,anon0103
+83126,client,Debugger Call Clicked,2020-01-11 03:52:57.873,track,anon0116
+83127,client,Debugger Call Clicked,2020-01-11 03:53:04.029,track,anon0116
+83128,client,generic01 Profile Viewed,2020-01-11 03:53:09.744,track,anon0103
+83129,client,App Timing Metric,2020-01-11 03:53:09.781,track,anon0103
+83130,server,Tracking Plan Saved,2020-01-11 03:53:11.067,track,anon0154
+83131,server,generic26 Connection Failed,2020-01-11 03:53:20.769,track,anon0011
+83132,server,generic26 Connection Tested,2020-01-11 03:53:20.769,track,anon0011
+83133,server,Tracking Plan Saved,2020-01-11 03:53:23.461,track,anon0154
+83134,server,Tracking Plan Saved,2020-01-11 03:53:30.305,track,anon0154
+83135,client,User Settings Detail Form Edited,2020-01-11 03:53:33.937,track,anon0045
+83136,client,User Settings Detail Form Edited,2020-01-11 03:53:33.943,track,anon0045
+83137,client,User Settings Detail Form Edited,2020-01-11 03:53:33.943,track,anon0045
+83138,client,User Settings Detail Form Edited,2020-01-11 03:53:35.208,track,anon0045
+83139,client,generic01 Explorer Searched,2020-01-11 03:53:35.791,track,anon0045
+83140,client,generic01 Profile Viewed,2020-01-11 03:53:37.897,track,anon0045
+83141,client,generic01 Profile Tab Viewed,2020-01-11 03:53:38.883,track,anon0045
+83142,client,generic0119 Preview Succeeded,2020-01-11 03:53:44.924,track,anon0103
+83143,server,generic0120 Run Failed,2020-01-11 03:53:55.076,track,anon0153
+83144,server,Tracking Plan Saved,2020-01-11 03:54:11.070,track,anon0154
+83145,server,Tracking Plan Saved,2020-01-11 03:54:24.087,track,anon0154
+83146,server,Tracking Plan Saved,2020-01-11 03:54:30.873,track,anon0154
+83147,server,Tracking Plan Saved,2020-01-11 03:55:11.546,track,anon0154
+83148,server,Tracking Plan Saved,2020-01-11 03:55:22.975,track,anon0154
+83149,server,Tracking Plan Saved,2020-01-11 03:55:23.749,track,anon0154
+83150,server,Tracking Plan Connection Changed,2020-01-11 03:55:23.870,track,anon0154
+83151,server,Tracking Plan Saved,2020-01-11 03:55:30.392,track,anon0154
+83152,client,generic08 Error,2020-01-11 03:55:48.774,track,anon0049
+83153,server,Tracking Plan Saved,2020-01-11 03:56:11.060,track,anon0154
+83154,server,Tracking Plan Saved,2020-01-11 03:56:31.443,track,anon0154
+83155,server,Tracking Plan Saved,2020-01-11 03:56:38.818,track,anon0154
+83156,server,generic26 Connection Failed,2020-01-11 03:56:40.324,track,anon0011
+83157,server,generic26 Connection Tested,2020-01-11 03:56:40.324,track,anon0011
+83158,client,First Contentful Paint,2020-01-11 03:56:42.490,track,
+83159,client,First Contentful Paint,2020-01-11 03:56:43.226,track,
+83160,client,First Contentful Paint,2020-01-11 03:56:43.277,track,
+83161,client,First Contentful Paint,2020-01-11 03:56:43.659,track,
+83162,client,App Timing Metric,2020-01-11 03:56:44.895,track,
+83163,client,First Contentful Paint,2020-01-11 03:56:44.895,track,
+83164,client,First Input Delay,2020-01-11 03:56:50.088,track,
+83165,client,Signup Page Viewed,2020-01-11 03:56:50.156,track,
+83166,client,Signup Page Viewed,2020-01-11 03:56:50.215,track,
+83167,client,First Input Delay,2020-01-11 03:56:50.353,track,
+83168,client,Signup Page Viewed,2020-01-11 03:56:50.431,track,
+83169,client,First Input Delay,2020-01-11 03:56:50.636,track,
+83170,client,Signup Page Viewed,2020-01-11 03:56:50.706,track,
+83171,client,First Input Delay,2020-01-11 03:56:50.991,track,
+83172,client,Signup Page Viewed,2020-01-11 03:56:52.207,track,
+83173,client,First Input Delay,2020-01-11 03:56:52.699,track,
+83174,server,Tracking Plan Saved,2020-01-11 03:57:11.045,track,anon0154
+83175,client,App Timing Metric,2020-01-11 03:57:16.738,track,anon0009
+83176,server,Tracking Plan Saved,2020-01-11 03:57:23.708,track,anon0154
+83177,server,Tracking Plan Saved,2020-01-11 03:57:32.318,track,anon0154
+83178,client,App Timing Metric,2020-01-11 03:57:36.383,track,anon0175
+83179,client,App Timing Metric,2020-01-11 03:57:38.359,track,anon0175
+83180,client,First Contentful Paint,2020-01-11 03:57:38.367,track,anon0175
+83181,client,App Timing Metric,2020-01-11 03:57:38.368,track,anon0175
+83182,client,App Timing Metric,2020-01-11 03:57:38.542,track,anon0175
+83183,client,App Timing Metric,2020-01-11 03:57:39.559,track,anon0175
+83184,server,Tracking Plan Saved,2020-01-11 03:58:11.058,track,anon0154
+83185,server,Tracking Plan Saved,2020-01-11 03:58:23.495,track,anon0154
+83186,client,App Timing Metric,2020-01-11 03:58:24.763,track,anon0149
+83187,client,App Timing Metric,2020-01-11 03:58:24.763,track,anon0149
+83188,server,Tracking Plan Saved,2020-01-11 03:58:32.886,track,anon0154
+83189,server,Password Submitted,2020-01-11 03:59:02.809,track,anon0065
+83190,server,Tracking Plan Saved,2020-01-11 03:59:11.455,track,anon0154
+83191,server,Tracking Plan Saved,2020-01-11 03:59:42.430,track,anon0154
+83192,client,App Timing Metric,2020-01-11 03:59:44.243,track,anon0030
+83193,client,App Timing Metric,2020-01-11 03:59:44.464,track,anon0030
+83194,server,Tracking Plan Saved,2020-01-11 03:59:49.819,track,anon0154
+83195,server,Tracking Plan Saved,2020-01-11 03:59:58.918,track,anon0154
+83196,server,Tracking Plan Connection Changed,2020-01-11 03:59:59.898,track,anon0154

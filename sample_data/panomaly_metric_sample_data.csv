@@ -1,0 +1,483 @@
+,id,app_id,name,type
+5,4560,33,Tag an Event Clicked,track
+12,4559,33,Side Nav Clicked generic01,track
+43,4104,59,Fulfill Ancillary Request,track
+44,4090,59,generic02 Ancillary Session Creation Request,track
+45,4091,59,Ancillary Error,track
+64,5473,33,Signup Next Clicked,track
+115,4092,59,generic02 Ancillary Cache Started,track
+116,4093,59,generic02 Ancillary In Queue,track
+117,4094,59,generic02 Ancillary Cache Request,track
+118,4107,59,generic02 Ancillary Cache Success,track
+150,5039,33,Team Member Detail Viewed,track
+190,4469,33,First Input Delay,track
+191,4472,33,Censor generic32 Settings,track
+192,4473,33,Side Nav Clicked,track
+193,4470,33,App Timing Metric,track
+195,4474,33,Debugger Call Clicked,track
+196,4468,33,First Paint,track
+197,4471,33,First Contentful Paint,track
+218,5475,59,Post Booking Link Creation Request,track
+245,4565,33,Transactional Error,track
+253,4475,33,generic03 Quota Comparison,track
+268,4477,33,generic03 Flags Comparison,track
+280,4481,33,Password Submitted,track
+283,4480,33,Viewed Integration,track
+284,4478,33,Tracking Plan Saved,track
+285,4476,33,Debugger Searched,track
+287,4479,33,Side Nav Clicked generic04,track
+290,4486,33,User Logged In,track
+299,4482,33,Step Started (generic05),track
+300,4483,33,Flow Started (generic05),track
+305,4485,33,Unread Notification Count Displayed,track
+309,4111,59,Accept Ancillary Request,track
+310,4112,59,Accept Ancillary Success,track
+311,4096,59,generic02 Ancillary Cache Request Duplicate,track
+326,4484,33,generic-replacement-text-46,page
+348,5945,33,Create Label Button in Manage Labels Clicked ,track
+359,4488,33,Side Nav Clicked generic30,track
+368,4567,59,generic-replacement-text-47,page
+383,4489,33,Notification Banner Shown,track
+385,5364,59,Cache Scrape Failed,track
+388,4098,59,Pull Ancillary Cache Request,track
+392,6709,33,generic-replacement-text-01,page
+402,6710,33,generic-replacement-text-02,page
+407,5477,33,generic06 Dismissed,track
+417,4490,33,/login/,page
+448,4495,33,View generic2325 Clicked,track
+450,4497,33,Filter Applied,track
+457,4494,33,Flow Skipped (generic05),track
+458,4496,33,Step Skipped (generic05),track
+461,5249,33,generic0120 Run Failed,track
+494,4554,33,Side Nav Clicked generic07,track
+507,7329,33,View Tracking Plan Clicked,track
+527,4500,33,Catalog Sidebar Searched,track
+557,4100,59,Pull Ancillary Cache Success,track
+558,5947,33,JavaScript Error,track
+592,7755,33,Elements Tree Element Clicked,track
+593,4499,33,Side Nav Clicked Settings,track
+615,6059,33,generic-replacement-text-03,page
+623,4503,33,generic27 Settings Tab Clicked,track
+641,4101,59,Missed generic10,track
+658,6058,33,generic-replacement-text-04,page
+757,4508,33,/login,page
+772,4507,33,generic32 Filters List Viewed,track
+789,4509,33,Clicked Catalog Integration,track
+824,5546,33,generic-replacement-text-05,page
+825,5482,59,Fulfillment Completed,track
+835,6906,33,generic-replacement-text-06,page
+847,6905,33,generic-replacement-text-07,page
+863,5547,33,generic-replacement-text-08,page
+869,4124,59,Fulfill Ancillary Success,track
+967,4513,33,generic01 Profile Tab Viewed,track
+972,4514,33,generic08 Error,track
+975,4512,33,Signup Password Strength Validated,track
+981,5195,33,generic-replacement-text-09,page
+1048,4515,33,generic23 Overview Accordion Toggled,track
+1058,4516,33,Viewed Featured generic30,track
+1126,7324,33,Label Creation Successful,track
+1169,7325,33,generic04 Collection Toggled,track
+1177,7323,33,generic25 Toggle,track
+1178,7326,33,Classification Applied,track
+1228,5551,33,generic-replacement-text-48,track
+1257,5956,33,generic-replacement-text-10,page
+1258,5957,33,generic-replacement-text-11,page
+1436,3832,59,Show Product,track
+1441,3836,59,/,page
+1442,3833,59,generic09 Rendered,track
+1443,3834,59,Script Finished,track
+1444,3837,59,Script Queried,track
+1445,3835,59,Show generic10,track
+1490,3840,59,Show generic09,track
+1491,3839,59,Product Selected,track
+1533,7333,33,Change generic27 Clicked,track
+1549,5384,33,Network Error,track
+1563,6133,33,generic-replacement-text-12,page
+1569,4528,33,Clicked Configure generic32,track
+1572,4540,33,Page Call Duplicated,track
+1580,4533,33,generic32 Error Payload Tab Changed,track
+1585,4535,33,Tracking Plan Connection Changed,track
+1586,4536,33,generic01 Profile Viewed,track
+1587,4527,33,Checklist Item Expanded,track
+1588,4529,33,generic32 Credentials Added,track
+1590,4532,33,Side Nav Clicked Catalog,track
+1591,4534,33,Debugger Paused,track
+1600,4294,59,Check Product Avail Request,track
+1601,6132,33,generic-replacement-text-13,page
+1608,3845,59,Show generic11,track
+1618,5205,33,Team Member Invited,track
+1622,6411,33,generic-replacement-text-14,page
+1624,6412,33,generic-replacement-text-15,page
+1626,4531,33,Usage Tab Clicked,track
+1630,4538,33,Side Nav Clicked Overview,track
+1631,4537,33,/signup,page
+1633,4530,33,generic32 Simulator Event Sent,track
+1634,4539,33,Integration Enabled,track
+1640,4543,33,Debugger Resumed,track
+1671,3846,59,Accept Cart,track
+1672,4545,33,generic2712 Graph Details Button Clicked,track
+1693,4544,33,generic23 Created,track
+1717,4542,33,Catalog Category Clicked,track
+1725,4552,33,generic23 Overview Link Clicked,track
+1734,4551,33,User Created,track
+1747,4555,33,Signup Page Viewed,track
+1756,3847,59,Clear Cart,track
+1761,3848,59,Skip Selection,track
+1765,3849,59,Show Checkout Page,track
+1767,3850,59,Completed Selection,track
+1778,4553,33,generic32 Error Viewed,track
+1791,5207,33,generic04 Field Toggled,track
+1803,6805,33,User Settings Detail Form Edited,track
+1853,5622,33,generic-replacement-text-17,page
+1854,5623,33,generic-replacement-text-16,page
+1875,4511,33,generic32 Overview Viewed,track
+2065,4796,33,Password Changed,track
+2185,6222,33,generic-replacement-text-18,page
+2186,6223,33,generic-replacement-text-19,page
+2214,7366,33,generic_replacement-text-50,computed
+2215,7367,33,generic_replacement-text-51,computed
+2216,7368,33,generic_replacement-text-52,computed
+2217,7369,33,generic_replacement-text-53,computed
+2218,7370,33,generic_replacement-text-54,computed
+2238,7371,33,generic_replacement-text-55,computed
+2245,7372,33,generic_replacement-text-56,computed
+2250,7373,33,generic_replacement-text-57,computed
+2364,6086,33,generic27 Created,track
+2508,5685,33,generic-replacement-text-20,page
+2600,6146,33,generic-replacement-text-22,page
+2601,6147,33,generic-replacement-text-21,page
+2797,5978,33,generic-replacement-text-23,page
+3107,5578,33,generic-replacement-text-25,page
+3121,5579,33,generic-replacement-text-24,page
+3122,5910,33,generic-replacement-text-27,page
+3124,5911,33,generic-replacement-text-26,page
+3149,6941,33,generic-replacement-text-29,page
+3150,6942,33,generic-replacement-text-28,page
+3152,7423,25,generic_replacement-text-50,computed
+3153,7424,25,generic_replacement-text-51,computed
+3154,7425,25,generic_replacement-text-52,computed
+3155,7426,25,generic_replacement-text-53,computed
+3156,7427,25,generic_replacement-text-54,computed
+3157,7428,25,generic_replacement-text-55,computed
+3158,7429,25,generic_replacement-text-56,computed
+3159,7430,25,generic_replacement-text-57,computed
+3186,5755,33,generic-replacement-text-30,page
+3191,5756,33,generic-replacement-text-31,page
+3233,5347,33,generic-replacement-text-32,page
+3274,5463,33,generic-replacement-text-33,page
+3275,5464,33,generic-replacement-text-34,page
+3309,6316,33,generic13 Testing VT,track
+3349,5412,33,generic-replacement-text-36,page
+3350,5413,33,generic-replacement-text-35,page
+3394,6887,33,generic-replacement-text-38,page
+3395,6886,33,generic-replacement-text-37,page
+3499,5296,33,generic2704 Overview Button Clicked,track
+3506,5468,59,Product History,track
+3508,5467,59,Session History,track
+3577,5416,33,generic-replacement-text-39,page
+3578,5417,33,generic-replacement-text-40,page
+3614,7328,33,generic01 Explorer Searched,track
+3650,5585,33,Side Nav Clicked Protocols,track
+3657,5025,33,generic32 Deliverability Period Updated,track
+3662,6107,33,generic-replacement-text-41,page
+3666,6108,33,generic-replacement-text-42,page
+3685,5354,59,Cache Scrape Finish,track
+3689,5355,59,Cache Scrape Request,track
+3714,5418,33,Team Member Removed,track
+3772,5356,59,Session Cache Finish,track
+3780,5921,33,generic-replacement-text-44,page
+3781,5922,33,generic-replacement-text-43,page
+3821,5704,33,Signup Completed,track
+3926,4504,33,generic32 Deliverability Viewed,track
+4030,7951,33,Add generic32 Clicked,track
+4031,7952,33,Add generic32 Completed,track
+4032,7953,33,Add generic14 Close Button Clicked,track
+4033,7954,33,Add generic14 Copy Snippet Clicked Copy,track
+4034,7955,33,Add generic14 Get Started Clicked,track
+4035,7956,33,Add generic23 Button Clicked,track
+4036,7957,33,Add generic23 Next Button Clicked,track
+4037,7958,33,generic15 Acknowledged,track
+4038,7959,33,Assign Labels Clicked,track
+4039,7960,33,Beta Terms Accepted,track
+4040,7961,33,Catalog Recommendation Category Clicked,track
+4041,7962,33,Catalog Sort By,track
+4042,7963,33,Change Password Clicked,track
+4043,7964,33,Clicked Add generic32,track
+4044,7965,33,Clicked Add generic23,track
+4045,7966,33,Clicked Catalog Interested In Building,track
+4046,7967,33,Clicked Catalog View All,track
+4047,7968,33,Clicked SQL Integration,track
+4048,7969,33,Clicked Wishlist Integration Request Logo,track
+4049,7970,33,Clicked Wishlist Upvote Button,track
+4050,7971,33,Code Snippet Copied,track
+4051,7972,33,Connection generic07 Disable Clicked,track
+4052,7973,33,Connection generic07 Error Clicked,track
+4053,7974,33,Connection generic07 Resolve Error Clicked,track
+4054,7975,33,Create Label Clicked,track
+4055,7976,33,Created Plugin,track
+4056,7977,33,Credit Card Added,track
+4057,7978,33,Credit Card Edit Clicked,track
+4058,7979,33,Credit Card Errored,track
+4059,7980,33,Demo Requested,track
+4060,7981,33,generic32 Error Payload Copied,track
+4061,7982,33,generic32 Filter Created,track
+4062,7983,33,generic32 Filter Deleted,track
+4063,7984,33,generic32 Filters Configure Rules Step Reached,track
+4064,7985,33,generic32 Filters generic16 Tested,track
+4065,7986,33,generic32 Filters Name and Save Step Reached,track
+4066,7987,33,generic32 Filters Upgrade Button Clicked,track
+4067,7988,33,generic32 Overview Period Updated,track
+4068,7989,33,generic32 Simulator Builder Type,track
+4069,7990,33,generic32 Simulator Dismissed generic23 Debugger Dialog,track
+4070,7991,33,generic32 Simulator Event Payload Copied,track
+4071,7992,33,generic32 Simulator Navigated From generic23 Debugger,track
+4072,7994,33,generic30 Settings Reverted,track
+4073,7995,33,Docs Link Clicked,track
+4074,7996,33,Edit Tracking Plan Clicked,track
+4075,7997,33,Elements Tree Dropdown Clicked,track
+4093,7999,33,Enable generic32 Clicked,track
+4094,8000,33,Enable Flow Started,track
+4095,8001,33,Enable Tagger Clicked,track
+4096,8002,33,Error - Writekey Not Matching,track
+4097,8003,33,Error Summary Toggled,track
+4098,8005,33,Extension Activated,track
+4099,8006,33,Extension Installed,track
+4100,8007,33,Extension Login,track
+4101,8008,33,Feature Requested,track
+4102,8009,33,Feedback Submitted,track
+4103,8010,33,Flow Completed (generic05),track
+4104,8011,33,generic17 Viewed,track
+4105,8012,33,generic31 Contacts Changed,track
+4106,8013,33,generic31 Contacts Saved,track
+4107,8014,33,generic31 Contacts Warning Dialog Canceled,track
+4108,8015,33,generic31 Contacts Warning Dialog Confirmed,track
+4109,8016,33,generic31 Contacts Warning Dialog Displayed,track
+4110,8017,33,Integration Disabled,track
+4111,8018,33,Inventory CSV Downloaded,track
+4112,8019,33,Inventory Sidesheet Viewed,track
+4113,8020,33,Invite A Teammate Clicked,track
+4114,8021,33,Invoice History Tab Clicked,track
+4115,8022,33,JSON generic25 Edited,track
+4116,8023,33,Label Creation Unsuccessful,track
+4117,8024,33,Label Resources Saved,track
+4118,8025,33,Lead Captured,track
+4119,8026,33,Library Items Imported,track
+4120,8027,33,generic18 Disabled,track
+4121,8028,33,generic18 Enabled,track
+4122,8029,33,generic18 Verification Failure,track
+4123,8030,33,generic06 Clicked,track
+4124,8031,33,generic06 Sidesheet Closed,track
+4125,8032,33,Nav Search Result Clicked,track
+4126,8033,33,Nav Search Results Empty,track
+4127,8034,33,Nav Search Term Entered,track
+4128,8035,33,Navigate Clicked,track
+4129,8036,33,New Transformation Clicked,track
+4130,8037,33,Notification Banner Clicked,track
+4131,8038,33,Notification Center Opened,track
+4132,8039,33,Notification Clicked,track
+4133,8040,33,Notifications Settings Changed,track
+4134,8041,33,Notifications Settings Sidesheet Open Click,track
+4135,8042,33,Notifications Settings Slider Interaction,track
+4136,8043,33,generic0119 Created,track
+4137,8044,33,generic0119 Deleted,track
+4138,8045,33,generic011932 Added,track
+4139,8046,33,generic011933 Viewed,track
+4140,8047,33,generic0119 Overlap Succeeded,track
+4141,8048,33,generic0119 Preview Failed,track
+4142,8049,33,generic0119 Preview Succeeded,track
+4143,8050,33,generic0119 Run Failed,track
+4144,8051,33,generic0119 Updated,track
+4145,8052,33,generic01 Clicked Setup generic32,track
+4146,8053,33,generic01 Computation Sidesheet Viewed,track
+4147,8054,33,generic01 Enabled,track
+4148,8055,33,generic01 Generated Access Token,track
+4149,8056,33,generic01 Onboarding Tour Step Completed,track
+4150,8057,33,generic01 Profile Events Loaded More,track
+4151,8058,33,generic01 Space Created,track
+4152,8059,33,generic01 Space Switched,track
+4153,8060,33,generic01 Spaces Settings Viewed,track
+4154,8061,33,generic01 Spaces Viewed,track
+4155,8062,33,generic0120 Created,track
+4156,8063,33,generic0120 Deleted,track
+4157,8065,33,generic012032 Removed,track
+4158,8066,33,generic0120 Preview Clicked,track
+4159,8067,33,generic0120 Preview Failed,track
+4160,8068,33,generic0120 Preview Succeeded,track
+4161,8069,33,generic0120 Updated,track
+4162,8070,33,generic01 Viewed API Access,track
+4163,8072,33,Plans Tab Clicked,track
+4164,8073,33,Plugin Disabled,track
+4165,8074,33,Plugin Enabled,track
+4166,8075,33,Privacy Add Custom Matcher Clicked,track
+4167,8076,33,Privacy Alerts Enabled,track
+4168,8077,33,Privacy Control Applied,track
+4169,8078,33,Privacy Tour Initiated,track
+4170,8079,33,Recovery Code Used,track
+4171,8080,33,Redundant generic32 Enable Attempted,track
+4172,8004,33,Event Inferred,track
+4173,7998,33,Email Captured,track
+4174,8081,33,Reset Password,track
+4175,8082,33,Retries Toggled,track
+4176,8084,33,generic21 Domain Added,track
+4177,8085,33,generic21 Domain Verified,track
+4178,8086,33,generic25 Default Toggle,track
+4179,8087,33,Side Nav Clicked Docs,track
+4180,8088,33,Sidepanel Move Clicked,track
+4181,8089,33,Signup Demo Request Submitted,track
+4182,8090,33,Site Exited,track
+4183,8091,33,generic22 Button Clicked VT,track
+4184,8092,33,Sort Applied,track
+4185,8093,33,generic23 Authorize Clicked,track
+4186,8094,33,generic23 Basic Settings Changed,track
+4187,8095,33,generic23 Delete Clicked,track
+4188,8096,33,generic23 Deleted,track
+4189,8097,33,generic23 Disabled,track
+4190,8098,33,generic23 Enabled,track
+4191,8099,33,generic23 Label Edited,track
+4192,8100,33,generic23 SQL Settings Changed,track
+4193,8101,33,generic2325 Refreshed,track
+4194,8102,33,generic23 Setup Funnel Step Completed,track
+4195,8103,33,generic23 Write Key Generated,track
+4196,8104,33,generic23 Write Key Revoked,track
+4197,8105,33,Startup Application Completed,track
+4198,8106,33,Startup Deal Requested,track
+4199,8107,33,Step Completed (generic05),track
+4200,8108,33,Step Interacted (generic05),track
+4201,8109,33,Submitted Wishlist Integration Request,track
+4202,8110,33,Subscription Plan Changed,track
+4203,8111,33,Survey Closed,track
+4204,8112,33,Survey Completed,track
+4205,8113,33,Survey Viewed,track
+4206,8114,33,Team Member Detail View Closed,track
+4207,8115,33,Team Member Saved,track
+4208,8116,33,Tracking Plan Created,track
+4209,8117,33,Tracking Plan Inferred,track
+4210,8118,33,Transformation Created,track
+4211,8119,33,Update Onboarding Step State,track
+4212,8120,33,Update Profile Clicked,track
+4213,8121,33,Upgrade generic24 Clicked,track
+4214,8122,33,Upvoted Wishlist Integration Request,track
+4215,8123,33,User Delete Clicked,track
+4216,8124,33,User Deleted,track
+4217,8125,33,User Email Verification Succeeded,track
+4218,8126,33,User Signed Up,track
+4219,8127,33,Validate Data Clicked,track
+4220,8128,33,Verification Email Resend Success,track
+4221,8129,33,View Changelog Clicked,track
+4222,8130,33,View Debugger Clicked,track
+4223,8131,33,View Libraries Clicked,track
+4224,8132,33,View generic25 Configuration Clicked,track
+4225,8133,33,View Transformations Clicked,track
+4226,8134,33,View Violations Clicked,track
+4227,8135,33,Viewed lockout,track
+4228,8136,33,Visited Integration Docs,track
+4229,8137,33,Visual Event Created,track
+4230,8138,33,generic29 Integration Toggled,track
+4231,8139,33,generic26 Connection Failed,track
+4232,8140,33,generic26 Connection Tested,track
+4233,8141,33,generic26 Connection Updated,track
+4234,8142,33,generic26 Created,track
+4235,8143,33,generic26 Delete Clicked,track
+4236,8144,33,generic26 Deleted,track
+4237,8145,33,generic26 Disabled,track
+4238,8146,33,generic26 Enabled,track
+4239,8147,33,generic26 Nickname Changed,track
+4240,8148,33,generic2625 Updated,track
+4241,8149,33,generic26 Settings Saved,track
+4242,8150,33,generic26 Sync Schedule Disabled,track
+4243,8151,33,generic26 Sync Schedule Enabled,track
+4244,8152,33,generic26 Sync Schedule Saved,track
+4245,8153,33,generic27 Add Clicked,track
+4246,8154,33,generic27 Deleted,track
+4247,8155,33,generic2733 CSV downloaded,track
+4248,8156,33,generic2733 Period Changed,track
+5325,9242,33,generic01 Space Renamed,track
+5332,9249,33,generic-replacement-text-58,track
+5436,9320,33,generic011932 Removed,track
+5441,9323,33,Label Assigned To Permissions,track
+5442,9324,33,Label assigned to permission,track
+5456,9372,33,Audit Trail Filtered,track
+5458,9374,33,generic011932 Updated,track
+5459,9375,33,generic012032 Updated,track
+5481,9401,33,Agreement Signed,track
+5505,9390,33,Privacy Filter Clicked,track
+5532,9485,33,Quick Start Flow Exited,track
+5534,9445,33,Advanced Usage Tab Clicked,track
+5551,7776,33,Tracking Plan Tip Interacted,track
+5575,9486,33,generic21 Connection Default Changed,track
+5576,9487,33,Transformation Deleted,track
+5578,9489,33,generic21 Connection Toggled,track
+5579,9490,33,generic23 Moved,track
+5595,9498,33,Tracking Plan Event Version Added,track
+5597,8064,33,generic012032 Added,track
+5610,9512,33,Connection Policy Edited,track
+5612,9514,33,generic01 Space Label Edited,track
+5623,9526,33,Scheduled generic28 Disabled,track
+5624,9527,33,generic29 Nav Link Clicked,track
+5627,9530,33,generic01 Clicked Connect generic32,track
+5628,9531,33,generic01 Connected generic30,track
+5629,9532,33,generic01 Toggled Import generic32,track
+5654,9556,33,Scheduled generic28 Enabled,track
+5655,9557,33,Scheduled generic28 Updated,track
+5668,9594,33,generic25 Event Properties Conditional Save,track
+5685,9579,33,Agreement Downloaded Unsigned Copy,track
+5696,9598,33,Inventory Volume CSV Downloaded,track
+5725,9632,33,generic32 Filter Feedback Submitted,track
+5741,9604,33,Functions Access Granted,track
+5765,9666,33,generic32 Overview Searched,track
+5774,9675,33,generic2325 Cleared,track
+5784,9685,33,Agreement Downloaded Signed Copy,track
+5812,9715,33,generic25 Defaults Requested,track
+5818,9721,33,Local Storage Toggled,track
+5825,9730,33,generic2623 Enable Toggled,track
+5836,9741,33,Subscription Plan Change Error,track
+5843,7331,33,generic2532 Toggle,track
+5858,9757,33,User Impersonated,track
+5905,9798,33,tesert,track
+5906,9799,33,test,track
+5917,9874,33,generic21 Domain Removed,track
+5972,9867,33,generic26 Simulator Query Executed,track
+5974,9869,33,generic21 Connection Created,track
+5975,9870,33,generic21 Connection Deleted,track
+5979,9873,33,generic21 Connection Updated,track
+6001,9896,33,generic21 Forced,track
+6015,9910,33,generic-replacement-text-49,track
+6057,9952,33,generic29 Add Property Clicked,track
+6058,9953,33,generic29 Advanced Options Clicked,track
+6059,9954,33,generic29 Clicked,track
+6060,9955,33,generic29 Create Event Clicked,track
+6061,9956,33,generic29 Create Events Clicked,track
+6062,9957,33,generic29 Delete Clicked,track
+6063,9958,33,generic29 Enter Value Clicked,track
+6064,9959,33,generic29 Event Created,track
+6065,9960,33,generic29 Event Saved,track
+6066,9961,33,generic29 Event Tested,track
+6067,9962,33,generic29 Exit Clicked,track
+6068,9963,33,generic29 Get Started Button Clicked,track
+6069,9964,33,generic29 Publish Clicked,track
+6070,9965,33,generic29 Select Value From Page Clicked,track
+6071,9966,33,generic29 Setup Steps Continue Clicked,track
+6072,9967,33,generic29 Test Events Clicked,track
+6073,9968,33,generic29 Track Buttons Clicked,track
+6074,9969,33,generic29 Track Forms Clicked,track
+6075,9970,33,generic29 View Extension Clicked,track
+6081,9976,33,generic29 Edit Clicked,track
+6090,9985,33,Connection generic07 Delete Clicked,track
+6091,9986,33,generic29 Copy Snippet Clicked,track
+6092,9987,33,generic29 Create New Clicked,track
+6093,9988,33,generic29 Track Any Clicked,track
+6094,9989,33,generic29 Tutorial Clicked,track
+6170,10066,33,generic27 Home Add generic29 Clicked,track
+6171,10067,33,generic27 Home View Catalog Clicked,track
+6172,10068,33,generic27 Home View Code Docs Clicked,track
+6173,10069,33,generic-replacement-text-45,track
+6177,10073,33,generic29 Video Clicked,track
+6181,10077,33,generic29 Doc Clicked,track
+6182,10078,33,generic29 Learn Best Practice Clicked,track
+6188,10084,33,generic-replacement-text-59,track
+6197,7993,33,generic32 Simulator Result View Toggled,track
+6200,8083,33,Run History Viewed,track
+6240,10134,33,generic27 Home Edit generic32 Settings,track
+6321,10185,33,Access Denied Error,track
+6335,8071,33,generic01 Viewed generic30,track
+6367,9766,33,Event Disabled,track
