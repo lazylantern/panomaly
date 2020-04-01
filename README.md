@@ -60,47 +60,58 @@ Permission to view and try the demo version of this code for personal or educati
 ### Project Demonstration Slides
 ![Panomaly demo slide](media/Donald_Hoard_project_demo_01.png)
 I initially approached this as a time series problem; however, because users can perform similar actions at different times or with different cadences, I realized that it would be better to set it up as a network problem, where a user’s specific interactions with an app can be represented as a series of transitions between generic events.
-
+</br>
+</br>
 
 ![Panomaly demo slide](media/Donald_Hoard_project_demo_02.png)
 The aggregate of all user’s interactions with an app during a one hour interval forms the event network.
-
+</br>
+</br>
 
 ![Panomaly demo slide](media/Donald_Hoard_project_demo_03.png)
 I identify regions within the network where events have especially dense connections with each other - these events are “important” to each other.
-
+</br>
+</br>
 
 ![Panomaly demo slide](media/Donald_Hoard_project_demo_04.png)
 When anomalous events are found in one of these regions, I infer that they are related. The strength of the relationship can be quantified by comparing various graph metrics, such as eigencentrality, which measures the importance of an event based on how many other highly linked events it connects to.
-
+</br>
+</br>
 
 ![Panomaly demo slide](media/Donald_Hoard_project_demo_05.png)
 At the same time, I applied Bayesian probability analysis to the network. This lets me calculate the probability that users will trigger an event based on knowing the prior step in their event paths. When there is a high probability of two anomalous events occurring in sequence, I infer that they are related.
-
+</br>
+</br>
 
 ![Panomaly demo slide](media/Donald_Hoard_project_demo_06.png)
 Finally, I combine several standard metrics produced by the graph and probability analyses into a single metric.
-
+</br>
+</br>
 
 ![Panomaly demo slide](media/Donald_Hoard_project_demo_07.png)
 I validated my algorithm using event inference, by manually inspecting 30 one-hour segments of user interaction data containing a total of 164 anomalies. As I mentioned, the algorithm is designed to be generic but for some of the client apps, the developers have provided text tags that are descriptive enough that I can infer which events are related, either because they proceed in a logical sequence, or they are similar actions. Overall, more than 60% of the linked anomalies agree with the inference from their event descriptions.
-
+</br>
+</br>
 
 ![Panomaly demo slide](media/Donald_Hoard_project_demo_08.png)
 I want to finish by showing an example of a network constructed using real data from an app from one of Lazy Lantern’s clients rather than the schematic network I’ve been showing. This is the basic network.
-
+</br>
+</br>
 
 ![Panomaly demo slide](media/Donald_Hoard_project_demo_09.png)
 Now I’ve color-coded the modularity classes of related events.
-
+</br>
+</br>
 
 ![Panomaly demo slide](media/Donald_Hoard_project_demo_10.png)
 And flagged the anomalous events.
-
+</br>
+</br>
 
 ![Panomaly demo slide](media/Donald_Hoard_project_demo_11.png)
 And here are several linked anomalies found by my algorithm, along with their final metric scores. As a reminder, my model treats the events as generic - they’re just labeled with numbers without prior information about the function of any event.
-
+</br>
+</br>
 
 ![Panomaly demo slide](media/Donald_Hoard_project_demo_12.png)
 But by applying my validation method, I can see that these linked anomalies share event inference - they’re all actions related to the app’s side navigation menu. With Panomaly, Lazy Lantern can now simplify their clients’ analytics dashboards by reducing the average number of anomaly alerts by 40%, and providing more meaningful insights into user interactions.
