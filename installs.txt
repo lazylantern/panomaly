@@ -8,19 +8,19 @@
 VENVROOT='panomaly'
 python -m venv --system-site-packages ./venv-$VENVROOT
 
+
 # Activate virtual environment
 source venv-${VENVROOT}/bin/activate
 
 
 # Jupyter setup for virtual environment
-pip install -I jupyter
 pip install -I ipykernel
+python -m ipykernel install --user --name venv-$VENVROOT
 
-# Jupyter Notebooks spellchecker:
-pip install -I jupyter_contrib_nbextensions
-jupyter contrib nbextension install 
-jupyter nbextension enable spellchecker/main
+deactivate
+source venv-${VENVROOT}/bin/activate
 
 
 # Install packages
 pip install python-louvain
+
