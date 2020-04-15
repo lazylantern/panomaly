@@ -1,5 +1,0 @@
-# Required installs (other than Python3)
-pip install numpy
-pip install pandas
-pip install matplotlib
-pip install python-louvain

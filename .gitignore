@@ -1,4 +1,5 @@
 venv-panomaly
 .ipynb_checkpoints*
 .*.icloud
+.DS_Store
 DEPRECATED

@@ -1,0 +1,26 @@
+# Anaconda Individual Edition with Python 3.7
+
+# Anaconda3-2020.02-MacOSX-x86_64.pkg
+
+# Additional installs:
+
+# Create virtual environment
+VENVROOT='panomaly'
+python -m venv --system-site-packages ./venv-$VENVROOT
+
+# Activate virtual environment
+source venv-${VENVROOT}/bin/activate
+
+
+# Jupyter setup for virtual environment
+pip install -I jupyter
+pip install -I ipykernel
+
+# Jupyter Notebooks spellchecker:
+pip install -I jupyter_contrib_nbextensions
+jupyter contrib nbextension install 
+jupyter nbextension enable spellchecker/main
+
+
+# Install packages
+pip install python-louvain
