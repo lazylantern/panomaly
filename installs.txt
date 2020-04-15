@@ -23,4 +23,5 @@ source venv-${VENVROOT}/bin/activate
 
 # Install packages
 pip install python-louvain
+pip install -I bleach==3.1.4   # vulnerability patch
 
